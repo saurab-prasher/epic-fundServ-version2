@@ -1,0 +1,392 @@
+[
+  {
+    "Fund_group_id": "100",
+    "Fund_group_name": "Epic Long Short Opportunistic Funds",
+    "Fund_id": "099",
+    "Fund_name": "EPIC CANADIAN LONG/SHORT OPPORTUNISTIC FUND LP CLASS G"
+  },
+  {
+    "Fund_group_id": "100",
+    "Fund_group_name": "Epic Long Short Opportunistic Funds",
+    "Fund_id": "101",
+    "Fund_name": "EPIC CANADIAN LONG/SHORT OPPORTUNISTIC FUND LP CLASS A"
+  },
+  {
+    "Fund_group_id": "100",
+    "Fund_group_name": "Epic Long Short Opportunistic Funds",
+    "Fund_id": "10101",
+    "Fund_name": "EPIC CANADIAN LONG/SHORT OPPORTUNISTIC FUND LP CLASS A SERIES 1"
+  },
+  {
+    "Fund_group_id": "100",
+    "Fund_group_name": "Epic Long Short Opportunistic Funds",
+    "Fund_id": "10102",
+    "Fund_name": "EPIC CANADIAN LONG/SHORT OPPORTUNISTIC FUND LP CLASS A SERIES 2"
+  },
+  {
+    "Fund_group_id": "100",
+    "Fund_group_name": "Epic Long Short Opportunistic Funds",
+    "Fund_id": "10103",
+    "Fund_name": "EPIC CANADIAN LONG/SHORT OPPORTUNISTIC FUND LP CLASS A SERIES 3"
+  },
+  {
+    "Fund_group_id": "100",
+    "Fund_group_name": "Epic Long Short Opportunistic Funds",
+    "Fund_id": "10104",
+    "Fund_name": "EPIC CANADIAN LONG/SHORT OPPORTUNISTIC FUND LP CLASS A SERIES 4"
+  },
+  {
+    "Fund_group_id": "100",
+    "Fund_group_name": "Epic Long Short Opportunistic Funds",
+    "Fund_id": "10105",
+    "Fund_name": "EPIC CANADIAN LONG/SHORT OPPORTUNISTIC FUND LP CLASS A SERIES 5"
+  },
+  {
+    "Fund_group_id": "100",
+    "Fund_group_name": "Epic Long Short Opportunistic Funds",
+    "Fund_id": "10106",
+    "Fund_name": "EPIC CANADIAN LONG/SHORT OPPORTUNISTIC FUND LP CLASS A SERIES 6"
+  },
+  {
+    "Fund_group_id": "100",
+    "Fund_group_name": "Epic Long Short Opportunistic Funds",
+    "Fund_id": "10123",
+    "Fund_name": "EPIC CANADIAN LONG/SHORT OPPORTUNISTIC FUND LP CLASS A SERIES 2023"
+  },
+  {
+    "Fund_group_id": "100",
+    "Fund_group_name": "Epic Long Short Opportunistic Funds",
+    "Fund_id": "103",
+    "Fund_name": "EPIC CANADIAN LONG/SHORT OPPORTUNISTIC FUND LP CLASS B SCHIS"
+  },
+  {
+    "Fund_group_id": "100",
+    "Fund_group_name": "Epic Long Short Opportunistic Funds",
+    "Fund_id": "103",
+    "Fund_name": "EPIC CANADIAN LONG/SHORT OPPORTUNISTIC FUND LP CLASS B"
+  },
+  {
+    "Fund_group_id": "100",
+    "Fund_group_name": "Epic Long Short Opportunistic Funds",
+    "Fund_id": "105",
+    "Fund_name": "EPIC CANADIAN LONG/SHORT OPPORTUNISTIC FUND LP CLASS I"
+  },
+  {
+    "Fund_group_id": "200",
+    "Fund_group_name": "Epic Income Fund",
+    "Fund_id": "201",
+    "Fund_name": "EPIC INCOME FUND CLASS A"
+  },
+  {
+    "Fund_group_id": "200",
+    "Fund_group_name": "Epic Income Fund",
+    "Fund_id": "202",
+    "Fund_name": "EPIC INCOME FUND CLASS A 2021"
+  },
+  {
+    "Fund_group_id": "200",
+    "Fund_group_name": "Epic Income Fund",
+    "Fund_id": "203",
+    "Fund_name": "EPIC INCOME FUND CLASS A 2023"
+  },
+  {
+    "Fund_group_id": "300",
+    "Fund_group_name": "Epic Closed End",
+    "Fund_id": "301",
+    "Fund_name": "EPIC CLOSED-END FUND LP CLASS A"
+  },
+  {
+    "Fund_group_id": "300",
+    "Fund_group_name": "Epic Closed End",
+    "Fund_id": "30101",
+    "Fund_name": "EPIC CLOSED-END FUND LP CLASS A SERIES 1"
+  },
+  {
+    "Fund_group_id": "300",
+    "Fund_group_name": "Epic Closed End",
+    "Fund_id": "30102",
+    "Fund_name": "EPIC CLOSED-END FUND LP CLASS A SERIES 2"
+  },
+  {
+    "Fund_group_id": "300",
+    "Fund_group_name": "Epic Closed End",
+    "Fund_id": "30103",
+    "Fund_name": "EPIC CLOSED-END FUND LP CLASS A SERIES 3"
+  },
+  {
+    "Fund_group_id": "300",
+    "Fund_group_name": "Epic Closed End",
+    "Fund_id": "30104",
+    "Fund_name": "EPIC CLOSED-END FUND LP CLASS A SERIES 4"
+  },
+  {
+    "Fund_group_id": "300",
+    "Fund_group_name": "Epic Closed End",
+    "Fund_id": "302",
+    "Fund_name": "EPIC CLOSED-END FUND LP CLASS I"
+  },
+  {
+    "Fund_group_id": "300",
+    "Fund_group_name": "Epic Closed End",
+    "Fund_id": "303",
+    "Fund_name": "EPIC CLOSED-END FUND LP CLASS RD"
+  },
+  {
+    "Fund_group_id": "300",
+    "Fund_group_name": "Epic Closed End",
+    "Fund_id": "309",
+    "Fund_name": "EPIC CLOSED-END FUND LP CLASS M"
+  },
+  {
+    "Fund_group_id": "400",
+    "Fund_group_name": "Epic Canadian Health Care LP",
+    "Fund_id": "400",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE FUND LP CLASS FI"
+  },
+  {
+    "Fund_group_id": "400",
+    "Fund_group_name": "Epic Canadian Health Care LP",
+    "Fund_id": "400",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE FUND LP CLASS FI"
+  },
+  {
+    "Fund_group_id": "400",
+    "Fund_group_name": "Epic Canadian Health Care LP",
+    "Fund_id": "401",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE FUND LP CLASS FII"
+  },
+  {
+    "Fund_group_id": "400",
+    "Fund_group_name": "Epic Canadian Health Care LP",
+    "Fund_id": "401",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE FUND LP CLASS FII"
+  },
+  {
+    "Fund_group_id": "400",
+    "Fund_group_name": "Epic Canadian Health Care LP",
+    "Fund_id": "401",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE FUND LP CLASS FII"
+  },
+  {
+    "Fund_group_id": "400",
+    "Fund_group_name": "Epic Canadian Health Care LP",
+    "Fund_id": "401",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE FUND LP CLASS FII"
+  },
+  {
+    "Fund_group_id": "400",
+    "Fund_group_name": "Epic Canadian Health Care LP",
+    "Fund_id": "402",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE FUND LP CLASS A"
+  },
+  {
+    "Fund_group_id": "400",
+    "Fund_group_name": "Epic Canadian Health Care LP",
+    "Fund_id": "402",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE FUND LP CLASS A"
+  },
+  {
+    "Fund_group_id": "400",
+    "Fund_group_name": "Epic Canadian Health Care LP",
+    "Fund_id": "402",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE FUND LP CLASS A"
+  },
+  {
+    "Fund_group_id": "400",
+    "Fund_group_name": "Epic Canadian Health Care LP",
+    "Fund_id": "402",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE FUND LP CLASS A"
+  },
+  {
+    "Fund_group_id": "400",
+    "Fund_group_name": "Epic Canadian Health Care LP",
+    "Fund_id": "450",
+    "Fund_name": "EPIC HEALTHCARE - NEWTOPIA          "
+  },
+  {
+    "Fund_group_id": "400",
+    "Fund_group_name": "Epic Canadian Health Care LP",
+    "Fund_id": "451",
+    "Fund_name": "EPIC HEALTHCARE - THINK RESEARCH    "
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "500",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS A SUB"
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "500",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS A SUB"
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "500",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS A SUB"
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "500",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS A SUB"
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "500D",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS A SUB"
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "501",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS A"
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "501",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS A"
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "501D",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS A"
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "510",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS FI SUB"
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "511",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS FI"
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "520",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS FII SUB"
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "521",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS FII"
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "521x",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS FII"
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "531D",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS FIII"
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "550",
+    "Fund_name": "EPIC HEALTHCARE  II - NEWTOPIA      "
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "551",
+    "Fund_name": "EPIC HEALTHCARE II - THINK RESEARCH "
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "600",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS A (30% CAPITAL CALL OPTION) SUB"
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "600D",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS A (30% CAPITAL CALL OPTION) SUB"
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "610",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS FI (30% CAPITAL CALL OPTION) SUB"
+  },
+  {
+    "Fund_group_id": "500",
+    "Fund_group_name": "Epic Canadian Health Care LP II",
+    "Fund_id": "620",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE II LP - CLASS FII (30% CAPITAL CALL OPTION) SUB"
+  },
+  {
+    "Fund_group_id": "800",
+    "Fund_group_name": "Epic Canadian Health Care LP IIA",
+    "Fund_id": "800",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE IIA LP - CLASS A DEPOSIT"
+  },
+  {
+    "Fund_group_id": "800",
+    "Fund_group_name": "Epic Canadian Health Care LP IIA",
+    "Fund_id": "800D",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE IIA LP - CLASS A DEPOSIT (DIRECT)"
+  },
+  {
+    "Fund_group_id": "800",
+    "Fund_group_name": "Epic Canadian Health Care LP IIA",
+    "Fund_id": "801",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE IIA LP - CLASS A"
+  },
+  {
+    "Fund_group_id": "800",
+    "Fund_group_name": "Epic Canadian Health Care LP IIA",
+    "Fund_id": "801D",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE IIA LP - CLASS A (DIRECT)"
+  },
+  {
+    "Fund_group_id": "800",
+    "Fund_group_name": "Epic Canadian Health Care LP IIA",
+    "Fund_id": "810",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE IIA LP - CLASS FI DEPOSIT"
+  },
+  {
+    "Fund_group_id": "800",
+    "Fund_group_name": "Epic Canadian Health Care LP IIA",
+    "Fund_id": "811",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE IIA LP - CLASS FI"
+  },
+  {
+    "Fund_group_id": "800",
+    "Fund_group_name": "Epic Canadian Health Care LP IIA",
+    "Fund_id": "820",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE IIA LP - CLASS FII DEPOSIT"
+  },
+  {
+    "Fund_group_id": "800",
+    "Fund_group_name": "Epic Canadian Health Care LP IIA",
+    "Fund_id": "821",
+    "Fund_name": "EPIC CANADIAN HEALTHCARE IIA LP - CLASS FII"
+  },
+  {
+    "Fund_group_id": "800",
+    "Fund_group_name": "Epic Canadian Health Care LP IIA",
+    "Fund_id": "851",
+    "Fund_name": "EPIC HEALTHCARE IIA - THINK RESEARCH"
+  },
+  {
+    "Fund_group_id": "901U",
+    "Fund_group_name": "Epic International Subscriptions LP",
+    "Fund_id": "901U",
+    "Fund_name": "EIS - INCOME TRUST INTL"
+  }
+]

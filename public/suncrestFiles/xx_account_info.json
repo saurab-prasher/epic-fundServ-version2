@@ -1,0 +1,3812 @@
+[
+  {
+    "Fund_account_id": "EPC100001",
+    "Account_name": "EPIC OPPORTUNISTICGP INC",
+    "Account_address": "45 ST. CLAIR AVE. W, SUITE 103",
+    "Account_city": "Toronto",
+    "Account_prov": "ON",
+    "Account_postal": "M4V1L3",
+    "Account_email": "dfawcett@epiccapital.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC130715",
+    "Account_name": "DENISE MACDONALD",
+    "Account_address": "20 GLENVIEW AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4R1P4",
+    "Account_email": "denisemac@rogers.com, CMacDonald@Westaim.com ",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC011006",
+    "Account_name": "LIONEL DEMERCADO",
+    "Account_address": "160 SILVER ROSE CRES",
+    "Account_city": "MARKHAM",
+    "Account_prov": "ON",
+    "Account_postal": "L6C1W9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC011004",
+    "Account_name": "JOHN O'SULLIVAN",
+    "Account_address": "21 Park St. East, Suite 1802",
+    "Account_city": "Mississauga",
+    "Account_prov": "ON",
+    "Account_postal": "L5G0C2",
+    "Account_email": "jos22@bell.net",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC011409",
+    "Account_name": "JSL FAMILY HOLDINGS INC",
+    "Account_address": "1603 MAIN ST. W.",
+    "Account_city": "HAMILTON",
+    "Account_prov": "ON",
+    "Account_postal": "L8S1E6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC011007",
+    "Account_name": "ANDREW KIGUEL",
+    "Account_address": "17A AVONDALE RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W2R7",
+    "Account_email": "andrewkiguel@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC011005",
+    "Account_name": "CHRISTENSEN GM&P HOLDINGS",
+    "Account_address": "112 HAZELTON AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R2E5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC120108",
+    "Account_name": "GREG FISHER",
+    "Account_address": "501 SUNDERLAND AVE SW",
+    "Account_city": "CALGARY",
+    "Account_prov": "AB",
+    "Account_postal": "T3C2K5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC120111",
+    "Account_name": "HIYAM JIBRY",
+    "Account_address": "16 CARDIFF RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4P2N7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC121108",
+    "Account_name": "GREG FISCHBUCH",
+    "Account_address": "126 SCARBORO AVE SW",
+    "Account_city": "CALGARY",
+    "Account_prov": "AB",
+    "Account_postal": "T3C2H1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCM000510",
+    "Account_name": "ROB ZAKRESKY",
+    "Account_address": "Suite 700, 639 5th Ave SW",
+    "Account_city": "Calgary",
+    "Account_prov": "AB",
+    "Account_postal": "T2P0M9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC120408",
+    "Account_name": "SUSAN STREETER",
+    "Account_address": "34 WOODLAWN AVE. WEST",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4V1G7",
+    "Account_email": "sstreeter@cormark.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC011010",
+    "Account_name": "GARY TANNER",
+    "Account_address": "113-440 CASCIA DRIVE",
+    "Account_city": "KELOWNA",
+    "Account_prov": "BC",
+    "Account_postal": "V1W4Y4",
+    "Account_email": "gtanner@quantumep.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCM100000",
+    "Account_name": "TAMARA BAHRY",
+    "Account_address": "18 CHESTNUT PARK RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W1W4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC011008",
+    "Account_name": "MARTIN REYNOLDS",
+    "Account_address": "5318 Glen Abbey Pl",
+    "Account_city": "Delta",
+    "Account_prov": "BC",
+    "Account_postal": "V4M4H1",
+    "Account_email": "marty@martyreynolds.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC011009",
+    "Account_name": "GRAHAM SAUNDERS",
+    "Account_address": "30 HARGRAVE LANE, UNIT #12",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4N0A4",
+    "Account_email": "graham_saunders@canaccord.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC120208",
+    "Account_name": "ROB JEPSON",
+    "Account_address": "144 WOODACRES DR SW",
+    "Account_city": "CALGARY",
+    "Account_prov": "AB",
+    "Account_postal": "T2W4Z8",
+    "Account_email": "Rob.Jepson@spiradata.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC120908",
+    "Account_name": "LEE PETTIGREW",
+    "Account_address": "846 RIDEAU RD SW",
+    "Account_city": "CALGARY",
+    "Account_prov": "AB",
+    "Account_postal": "T2S0R6",
+    "Account_email": "lpettigrew@rogers.blackberry.net, leepettigrew@shaw.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC120508",
+    "Account_name": "KEVIN WILLIAMS",
+    "Account_address": "PH808-39 JARVIS STREET",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5E1Z5",
+    "Account_email": "kwilliams@cormark.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC130709",
+    "Account_name": "HOWARD CRONE",
+    "Account_address": "5623 LADBROOKE PL SW",
+    "Account_city": "CALGARY",
+    "Account_prov": "AB",
+    "Account_postal": "T3E5Y3",
+    "Account_email": "HCrone@cequence-energy.com, mcrone1@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC130719",
+    "Account_name": "EPIC CAPITALMANAGEMENT INC.",
+    "Account_address": "45 ST. CLAIR AVE. W, SUITE 103",
+    "Account_city": "Toronto",
+    "Account_prov": "ON",
+    "Account_postal": "M4V1L3",
+    "Account_email": "skoudas@epiccapital.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC011003",
+    "Account_name": "SCOTT KAPLANIS",
+    "Account_address": "58 MAPLE AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W2T7",
+    "Account_email": "skaplanis@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC010707",
+    "Account_name": "DAVID FAWCETT",
+    "Account_address": "8 RUSSELL HILL DRIVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R2Y5",
+    "Account_email": "dfawcett@epiccapital.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC011002",
+    "Account_name": "ARISTIDES KAPLANIS",
+    "Account_address": "155 CROSSBOW PL, #317",
+    "Account_city": "CANMORE",
+    "Account_prov": "AB",
+    "Account_postal": "T1W3H6",
+    "Account_email": "ariskaplanis@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC130708",
+    "Account_name": "THEODORE DARMOS",
+    "Account_address": "5899 LESLIE ST, PO BOX #23559",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M2HR9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100062",
+    "Account_name": "SUGARMAN GM&PPARTNER CORP",
+    "Account_address": "167 DEWBOURNE AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M6C1Z1",
+    "Account_email": "lorne.sugarman@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100045",
+    "Account_name": "MARTIN CECCHETTO",
+    "Account_address": "119 EASTBOURNE AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5P2G4",
+    "Account_email": "martin.cecchetto@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100008",
+    "Account_name": "WILLIAM WHITE",
+    "Account_address": "45 Hazelton Ave, Unit B",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R2E3",
+    "Account_email": "BWhite@ehpartners.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100015",
+    "Account_name": "TIM BARON",
+    "Account_address": "226 INGLEWOOD DR.",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4T1J1",
+    "Account_email": "tbaron@dwpv.com, tegiles@hotmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100029",
+    "Account_name": "WARDEH LAWLOR",
+    "Account_address": "109-340 DIXON RD",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M9R1T1",
+    "Account_email": "N/A",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC130711",
+    "Account_name": "LORNE SUGARMAN",
+    "Account_address": "167 DEWBOURNE AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M6C1Z1",
+    "Account_email": "lorne.sugarman@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100261",
+    "Account_name": "DR SANJEEV SHARMA MEDICINE PROFESSIONAL",
+    "Account_address": "1582 STAVEBANK RD",
+    "Account_city": "MISSISSAUGA",
+    "Account_prov": "ON",
+    "Account_postal": "L5G2V7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100396",
+    "Account_name": "KATHRINA HEALEY",
+    "Account_address": "2B LAKESHORE BLVD",
+    "Account_city": "KINGSTON",
+    "Account_prov": "ON",
+    "Account_postal": "K7M4J6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100384",
+    "Account_name": "2066803 ONTARIO INC",
+    "Account_address": "12 LAWRENCE CRES",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4N1N1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100393",
+    "Account_name": "ERIC DUFOUR",
+    "Account_address": "202 RIVERDALE AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4K1C5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100381",
+    "Account_name": "BLAIR COWPER-SMITH",
+    "Account_address": "62 LYTTON BLVD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4R1L3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100372",
+    "Account_name": "1391329 ONTARIO LIMITED",
+    "Account_address": "ATTN HUGH CUMMING, 2532 RIDGESIDE LANE",
+    "Account_city": "OAKVILLE",
+    "Account_prov": "ON",
+    "Account_postal": "L6L6W3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100369",
+    "Account_name": "THE APPLICATION TEAM INC",
+    "Account_address": "ATTN: BINDU KHOSLA, 359 LAKE PROMENADE",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M8W1B8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100366",
+    "Account_name": "SHANE CHAMBERS",
+    "Account_address": "2119 WINDING WOODS DR",
+    "Account_city": "OAKVILLE",
+    "Account_prov": "ON",
+    "Account_postal": "L6H5T7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100332",
+    "Account_name": "JEFFREY BRYCE",
+    "Account_address": "40 WINSTON GROVE",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M8Y2K9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100322",
+    "Account_name": "DRMIV INC",
+    "Account_address": "ATTN: DONALD MCCLURE, 338 DAVENPORT RD UNIT 102",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R1K6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100304",
+    "Account_name": "MARGARET MUIR",
+    "Account_address": "25 YORKVILLE AVE 2ND FLOOR",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W1L1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100278",
+    "Account_name": "2128221 ONTARIO INC",
+    "Account_address": "ATTN: KIRK COOPER, PO BOX 1461, 1204 AMBER LANE",
+    "Account_city": "HALIBURTON",
+    "Account_prov": "ON",
+    "Account_postal": "K0M1S0",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100281",
+    "Account_name": "831857 ONTARIO INC ATTN: GORDON & MARTHA",
+    "Account_address": "65 CHERITAN AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4R1S7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100284",
+    "Account_name": "COSIMO PANTALEO",
+    "Account_address": "71 DIANA DR",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M3M2W5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100268",
+    "Account_name": "DOUGLAS GILBERT",
+    "Account_address": "16 CROWN PARK RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4E1J9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100271",
+    "Account_name": "ALISON MCMAHON",
+    "Account_address": "1315 SILVER SPEAR RD UNIT 411",
+    "Account_city": "MISSISSAUGA",
+    "Account_prov": "ON",
+    "Account_postal": "L4Y2W8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100254",
+    "Account_name": "CINDY WAN",
+    "Account_address": "38 BROOKFIELD ST",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M6J3A9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100208",
+    "Account_name": "TAMARA BAHRY",
+    "Account_address": "89 GLENGROVE AVE W",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4R1N8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100215",
+    "Account_name": "JOANNA VAN HAASTRECHT",
+    "Account_address": "640 ALBION FALLS DR",
+    "Account_city": "NEPEAN",
+    "Account_prov": "ON",
+    "Account_postal": "K2J6P8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100222",
+    "Account_name": "SIN YEE CHENG",
+    "Account_address": "1030 CORONATION DR UNIT 1302",
+    "Account_city": "LONDON",
+    "Account_prov": "ON",
+    "Account_postal": "N6G0G5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100231",
+    "Account_name": "RONALD BEGG",
+    "Account_address": "71 CASTLE FRANK CRES",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W3A2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100198",
+    "Account_name": "GORDON CHENG",
+    "Account_address": "701 GENEVA ST SUITE 1403",
+    "Account_city": "ST CATHARINES",
+    "Account_prov": "ON",
+    "Account_postal": "L2N7H9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100201",
+    "Account_name": "JPB CONSULTING LIMITED",
+    "Account_address": "5-4300 UPPER MIDDLE RD",
+    "Account_city": "BURLINGTON",
+    "Account_prov": "ON",
+    "Account_postal": "L7M4P6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100177",
+    "Account_name": "THOMAS HURAS",
+    "Account_address": "65 CHELSEA AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M6P1B9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100184",
+    "Account_name": "MURTAZA JAFFER",
+    "Account_address": "38 O'MEARA CRT",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M2J4Y9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100191",
+    "Account_name": "PATRICK CALLAGHAN",
+    "Account_address": "915-225 DAVISVILLE AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4S1G9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100170",
+    "Account_name": "SHARON BLACK",
+    "Account_address": "296 WINDERMERE CRT W",
+    "Account_city": "LONDON",
+    "Account_prov": "ON",
+    "Account_postal": "N6G4J5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100165",
+    "Account_name": "2383413 ONTARIO INC",
+    "Account_address": "1633 GLOUCESTER ROAD",
+    "Account_city": "LONDON",
+    "Account_prov": "ON",
+    "Account_postal": "N6G2S5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100162",
+    "Account_name": "J. ALEXANDER MOORE PROF. CORP. C/O BLAKE",
+    "Account_address": "ATTN: ALEX MOORE, 199 BAY ST SUITE 4000",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5L1A9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100153",
+    "Account_name": "PENBRIT INVESTMENTS LIMITED",
+    "Account_address": "ATTN CHARLES PENSTONE, 92 CADORNA AVE",
+    "Account_city": "EAST YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M4J3X2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100134",
+    "Account_name": "DISTEFANO MEDICINE PROFESSIONAL CORPORAT",
+    "Account_address": "ATTN: MATTHEW DISTEFANO, 27303 SIDEROAD 30, RR 1",
+    "Account_city": "THORNBURY",
+    "Account_prov": "ON",
+    "Account_postal": "N0H2P0",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100088",
+    "Account_name": "SHARON NIZNIK",
+    "Account_address": "2540 DURHAM RD 20",
+    "Account_city": "BOWMANVILLE",
+    "Account_prov": "ON",
+    "Account_postal": "L1C3K2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100091",
+    "Account_name": "TR O'NEILL LTD",
+    "Account_address": "ATTN TED O'NEILL, #205-40 TROTT BLVD",
+    "Account_city": "COLLINGWOOD",
+    "Account_prov": "ON",
+    "Account_postal": "L9Y5K5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100101",
+    "Account_name": "ROSS GRAY",
+    "Account_address": "1476 WILDLARK DR",
+    "Account_city": "PETERBOROUGH",
+    "Account_prov": "ON",
+    "Account_postal": "K9K1X4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100110",
+    "Account_name": "2075239 ONTARIO LTD",
+    "Account_address": "592 GLADWYNE CRT",
+    "Account_city": "MISSISSAUGA",
+    "Account_prov": "ON",
+    "Account_postal": "L5H4L4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100425",
+    "Account_name": "BLAIR COWPER-SMITH",
+    "Account_address": "62 LYTTON BLVD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4R1L3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100408",
+    "Account_name": "DISTEFANO MEDICINE PROFESSIONAL CORPORAT",
+    "Account_address": "ATTN: MATTHEW DISTEFANO, 27303 SIDEROAD 30, RR 1",
+    "Account_city": "THORNBURY",
+    "Account_prov": "ON",
+    "Account_postal": "N0H2P0",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100403",
+    "Account_name": "CINDY WAN",
+    "Account_address": "38 BROOKFIELD ST",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M6J3A9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCM000511",
+    "Account_name": "SEAN MONAGHAN",
+    "Account_address": "51 Wolfwillow Lane SW",
+    "Account_city": "Calgary",
+    "Account_prov": "AB",
+    "Account_postal": "T3Z1B4",
+    "Account_email": "MonaghanS@dbf.ab.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100119",
+    "Account_name": "1704870 ONTARIO LTD",
+    "Account_address": "26 Taylorwood Drive.",
+    "Account_city": "Etobicoke",
+    "Account_prov": "ON",
+    "Account_postal": "M9A4R7",
+    "Account_email": "flashgordoc@hotmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100335",
+    "Account_name": "WILLIAM WRIGHT",
+    "Account_address": "49 BARRACLOUGH BLVD",
+    "Account_city": "GLEN WILLIAMS",
+    "Account_prov": "ON",
+    "Account_postal": "L7G0E7",
+    "Account_email": "wwright@bellnet.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100344",
+    "Account_name": "JIM CHRISTODOULIS",
+    "Account_address": "2 Fleance Drive",
+    "Account_city": "Thornhill",
+    "Account_prov": "ON",
+    "Account_postal": "L3T3J9",
+    "Account_email": "JDoulis@clarussecurities.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100351",
+    "Account_name": "TIMOTHY NEWINGTON",
+    "Account_address": "5 MILLINGTON ST",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4X1A3",
+    "Account_email": "tim.newington@solnetcapital.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100354",
+    "Account_name": "KAPLANIS 2012 TRUST",
+    "Account_address": "1 BROOKE AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5M2J5",
+    "Account_email": "ariskaplanis@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC011001",
+    "Account_name": "JASON MEIERS",
+    "Account_address": "138 ROCHESTER AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4N1P1",
+    "Account_email": "jasonmeiers@me.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100313",
+    "Account_name": "CHRIS SALAPOUTIS",
+    "Account_address": "1377 GOLDTHORPE RD",
+    "Account_city": "MISSISSAUGA",
+    "Account_prov": "ON",
+    "Account_postal": "L5G3R2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100329",
+    "Account_name": "GAIL HEWITT-BEGG",
+    "Account_address": "65 CASTLE FRANK CRES",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W3A2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100292",
+    "Account_name": "SERENA CHENG",
+    "Account_address": "3 HIGHBOURNE RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5P2J1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100238",
+    "Account_name": "SERENA CHENG",
+    "Account_address": "3 HIGHBOURNE RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5P2J1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100247",
+    "Account_name": "HELEN BUCKNELL",
+    "Account_address": "107 DOUGLAS AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5M1G7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100143A",
+    "Account_name": "SHAWN ASPDEN",
+    "Account_address": "49 RUMSEY RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4G1N9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC031008",
+    "Account_name": "COLIN JANG",
+    "Account_address": "1003-95 BATHURST ST",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5V0H7",
+    "Account_email": "colindjang@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100128",
+    "Account_name": "SADIQ LALANI",
+    "Account_address": "88 COULEE WAY SW",
+    "Account_city": "CALGARY",
+    "Account_prov": "AB",
+    "Account_postal": "T3H0S4",
+    "Account_email": "slalani@keltexploration.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100131",
+    "Account_name": "JAYMAT LIMITED",
+    "Account_address": "PO BOX 70119, FLETCHERS MEADOW PO",
+    "Account_city": "BRAMPTON",
+    "Account_prov": "ON",
+    "Account_postal": "L7A0N6",
+    "Account_email": "art@artuso.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100359",
+    "Account_name": "SERENA CHENG ITF MACKENZIE CHENG",
+    "Account_address": "3 HIGHBOURNE RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5P2J1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC130720",
+    "Account_name": "DAYELLE FARGEY",
+    "Account_address": "PO BOX, SITE 9, RR#2",
+    "Account_city": "OKOTOKS",
+    "Account_prov": "AB",
+    "Account_postal": "T1S1A2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC130718",
+    "Account_name": "NIKOLAOS KOUDAS",
+    "Account_address": "43 HANNA AVE, UNIT 210",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M6K1X1",
+    "Account_email": "nick.koudas@gmail.com, BMalloch-Leclair@tasman.ca, SRobertson@tasman.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC130717",
+    "Account_name": "DAVID MORGENSTERN",
+    "Account_address": "132 IMPERIAL ST",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5P1C6",
+    "Account_email": "david.morgenstern@accenture.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC120808",
+    "Account_name": "VIVIAN KE",
+    "Account_address": "58 SAYBROOK AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M8Z2V7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100774",
+    "Account_name": "DR KAREN CHIEN MEDICINE PROF COR ATTN DR",
+    "Account_address": "185 BAIN AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4K1E9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100699",
+    "Account_name": "MICHAEL FITZHENRY",
+    "Account_address": "188 GLENCAIRN AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4R1N2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100599",
+    "Account_name": "KAREN STERLING",
+    "Account_address": "59 WESTGATE BLVD",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M3H1P1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100609",
+    "Account_name": "1687430 ONTARIO LTD ATTN: CHARLES COPELA",
+    "Account_address": "1 MAPLEGLEN CRT",
+    "Account_city": "WHITBY",
+    "Account_prov": "ON",
+    "Account_postal": "L1R1T7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100661",
+    "Account_name": "RICHARD TRINETTI",
+    "Account_address": "507-38 FONTENAY CRT",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M9A5H5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100679",
+    "Account_name": "MARK BEGG",
+    "Account_address": "65 CASTLE FRANK CRES",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W3A2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100623",
+    "Account_name": "ROBIN KERBEL INVESTMENTS LIMITED",
+    "Account_address": "88 DAVENPORT RD SUITE 701",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R0A5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100705",
+    "Account_name": "FRANK KUS",
+    "Account_address": "14 CHARLESTON RD",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M9B4M7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100682",
+    "Account_name": "JOCELYNE ABBOTT",
+    "Account_address": "508 RIVERSIDE DR",
+    "Account_city": "YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M6S4B5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100717",
+    "Account_name": "173458 CANADA INC.",
+    "Account_address": "ATTN: MARGARET MUIR, C/O MARIETTA ZULUETA, 25 YORKVILLE AVE 2ND FL",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W1L1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100724",
+    "Account_name": "JUDITH SILVERSTEIN",
+    "Account_address": "505-8 COVINGTON RD",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M6A3E5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100446",
+    "Account_name": "SARAH COOPER",
+    "Account_address": "683 CARLAW AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4K3K7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100654",
+    "Account_name": "JUDITH BEGG",
+    "Account_address": "71 CASTLE FRANK CRES",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W3A2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100670",
+    "Account_name": "NICOLA PANTALEO",
+    "Account_address": "71 DIANA DR",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M3M2W5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100441",
+    "Account_name": "EMPIRE FUND",
+    "Account_address": "4703 5 ST SW",
+    "Account_city": "CALGARY",
+    "Account_prov": "AB",
+    "Account_postal": "T2S2E7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100687",
+    "Account_name": "MAURICE DRUCK",
+    "Account_address": "620 VESTA DR",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5N1H9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100461",
+    "Account_name": "DOUGLAS GILBERT PROFESSIONAL COR",
+    "Account_address": "16 CROWN PARK RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4E1J9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100651",
+    "Account_name": "NICHOLAS THOMPSON",
+    "Account_address": "288 GLEN RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W2X3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100560",
+    "Account_name": "GORDON WILLCOCKS",
+    "Account_address": "50 INGLEWOOD DR",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4T1H1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100477",
+    "Account_name": "EPWORTH PROPERTY CORPORATION",
+    "Account_address": "ATTN: SAM GENKOV, 14 FOREST GLEN CRES",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M4N2E8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100618",
+    "Account_name": "ELIZABETH MAHABIR",
+    "Account_address": "14 SPRINGBROOK GDNS",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M8Z3B5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100581",
+    "Account_name": "WILLIAM HEIBEIN",
+    "Account_address": "1189 PARKERS POINT RD",
+    "Account_city": "GRAVENHURST",
+    "Account_prov": "ON",
+    "Account_postal": "P1P1R2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100765",
+    "Account_name": "SOMMER MEDICINE PROFESSIONAL CORPORATION",
+    "Account_address": "187 ALBANY AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R3C7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100694",
+    "Account_name": "MANDI EPSTEIN",
+    "Account_address": "16 DELORAINE AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5M2A7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100590",
+    "Account_name": "KEVIN LUCES",
+    "Account_address": "19 MONTROSE CRES",
+    "Account_city": "WHITBY",
+    "Account_prov": "ON",
+    "Account_postal": "L1R1C8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100738",
+    "Account_name": "YEHEZKEL ZAHAVY",
+    "Account_address": "3027-80 HARRISON GARDEN BLVD",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M2N7E3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100756",
+    "Account_name": "SOMMER COGAN MEDICINE PROFESSIONAL CORPO",
+    "Account_address": "71 KING GEORGES RD",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M8X1L8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100747",
+    "Account_name": "SONIA YUNG",
+    "Account_address": "2 BLANCHARD RD",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M4N3L9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100578",
+    "Account_name": "RYAN LOWE",
+    "Account_address": "8960 ASHBURN RD",
+    "Account_city": "ASHBURN",
+    "Account_prov": "ON",
+    "Account_postal": "L0B1A0",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100422",
+    "Account_name": "JENNIFER BOWEN-PRING",
+    "Account_address": "3 BAYERN DR",
+    "Account_city": "BROOKLIN",
+    "Account_prov": "ON",
+    "Account_postal": "L1M0A4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100570",
+    "Account_name": "ANDREW (ROSS RAHN",
+    "Account_address": "620 SIMCOE ST SS1",
+    "Account_city": "NIAGARA ON THE",
+    "Account_prov": "ON",
+    "Account_postal": "L0S1J0",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100626",
+    "Account_name": "ALBERT HUI",
+    "Account_address": "1268 GREEN ACRES RD",
+    "Account_city": "SARNIA",
+    "Account_prov": "ON",
+    "Account_postal": "N7S2M7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100573",
+    "Account_name": "JOSEPH VARKEY",
+    "Account_address": "1918 CALLINGHAM CRT",
+    "Account_city": "LONDON",
+    "Account_prov": "ON",
+    "Account_postal": "N6G5L9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100714",
+    "Account_name": "MARTIN PARENT",
+    "Account_address": "3031 CH DE BRESLAY",
+    "Account_city": "MONTREAL",
+    "Account_prov": "QC",
+    "Account_postal": "H3Y2G8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100432",
+    "Account_name": "BRUCE CLARK",
+    "Account_address": "9 AMOS DRIVE, UNIT 19",
+    "Account_city": "GUELPH",
+    "Account_prov": "ON",
+    "Account_postal": "N1L0M3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100604",
+    "Account_name": "JONATHAN IZAWA",
+    "Account_address": "77 GREEN ACRES DR",
+    "Account_city": "LONDON",
+    "Account_prov": "ON",
+    "Account_postal": "N6G2S4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC011011",
+    "Account_name": "MARK WELLINGS",
+    "Account_address": "2 HIGHLAND AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W2A3",
+    "Account_email": "Markrwellings@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC070307",
+    "Account_name": "SPRUCELAND MALL LPBY ITS GENERAL PRTNR",
+    "Account_address": "1701 - 1166 ALBERNI ST",
+    "Account_city": "VANCOUVER",
+    "Account_prov": "BC",
+    "Account_postal": "V6E3Z3",
+    "Account_email": "beny@petersonbc.com, PatrickY@petersonbc.com, ShawnaC@petersonbc.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC110107",
+    "Account_name": "JASON MEIERS",
+    "Account_address": "138 ROCHESTER AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4N1P1",
+    "Account_email": "jason.meiers@me.com ",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC121208",
+    "Account_name": "KEN TESLIA",
+    "Account_address": "PO BOX 70",
+    "Account_city": "CALEDON VILLAGE",
+    "Account_prov": "ON",
+    "Account_postal": "L7K3L3",
+    "Account_email": "kteslia@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC120708",
+    "Account_name": "HOWARD CRONE",
+    "Account_address": "5623 LADBROOKE PL SW",
+    "Account_city": "CALGARY",
+    "Account_prov": "AB",
+    "Account_postal": "T3E5Y3",
+    "Account_email": "HCrone@cequence-energy.com, mcrone1@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC300001",
+    "Account_name": "WENDY JANZEN",
+    "Account_address": "290 WATERFRONT DR, UNIT 603",
+    "Account_city": "WINNIPEG",
+    "Account_prov": "MB",
+    "Account_postal": "R3B0A6",
+    "Account_email": "tjanzen5@gmail.com, wendyljanzen@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC900032",
+    "Account_name": "VERSTRAETE TRAVEL &CRUISES",
+    "Account_address": "300 - 14845 YONGE ST",
+    "Account_city": "AURORA",
+    "Account_prov": "ON",
+    "Account_postal": "L4G6H8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC080207",
+    "Account_name": "3821137 MANITOBA LIMITED",
+    "Account_address": "180 TUXEDO AVE, UNIT 504",
+    "Account_city": "WINNIPEG",
+    "Account_prov": "MB",
+    "Account_postal": "R3P2A6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC000001",
+    "Account_name": "HIYAM JIBRY",
+    "Account_address": "16 CARDIFF RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4P2N7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC100708",
+    "Account_name": "WELLINGS GM&P PARTNER CORPORATION",
+    "Account_address": "145 King Street W",
+    "Account_city": "Toronto",
+    "Account_prov": "ON",
+    "Account_postal": "M5H1J8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC120407",
+    "Account_name": "LYLE HUSTON",
+    "Account_address": "SITE 270 COMP 26 RR",
+    "Account_city": "CARVEL",
+    "Account_prov": "AB",
+    "Account_postal": "T0E0H0",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC062907",
+    "Account_name": "DALE MACMASTER",
+    "Account_address": "11 WELLAND CRES",
+    "Account_city": "ST. ALBERT",
+    "Account_prov": "AB",
+    "Account_postal": "T8N3W3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC040708",
+    "Account_name": "ERNEST WEINRIB",
+    "Account_address": "16 Shorncliffe Ave.",
+    "Account_city": "Toronto",
+    "Account_prov": "ON",
+    "Account_postal": "M4V1T1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCM000594",
+    "Account_name": "BRIAN ROLFE",
+    "Account_address": "1751 Pickmere Crt",
+    "Account_city": "Mississauga",
+    "Account_prov": "ON",
+    "Account_postal": "L4X1Z3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC030107",
+    "Account_name": "1680167 ONTARIO LIMITED",
+    "Account_address": "XX",
+    "Account_city": "XX",
+    "Account_prov": "ON",
+    "Account_postal": "X1X1X1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC042407",
+    "Account_name": "EARL M. COOPERMAN",
+    "Account_address": "XX",
+    "Account_city": "XX",
+    "Account_prov": "ON",
+    "Account_postal": "X1X1X1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC130707",
+    "Account_name": "STEPHEN MILLER",
+    "Account_address": "XX",
+    "Account_city": "XX",
+    "Account_prov": "ON",
+    "Account_postal": "X1X1X1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCD10001",
+    "Account_name": "MARCELLE LEAN",
+    "Account_address": "25 GEORGE ST, SUITE 401",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5A4L8",
+    "Account_email": "rlean@leanglobaladvisors.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCD10002",
+    "Account_name": "RICHARD STONEMAN",
+    "Account_address": "57 VITTORIA ROAD",
+    "Account_city": "ST WILLIAMS",
+    "Account_prov": "ON",
+    "Account_postal": "N0E1P0",
+    "Account_email": "r.stoneman@mac.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCD10003",
+    "Account_name": "TOM BUCHANAN",
+    "Account_address": "67 Lynx Meadows Dr.",
+    "Account_city": "Calgary",
+    "Account_prov": "AB",
+    "Account_postal": "T3L 2L9",
+    "Account_email": "twbuchanan@shaw.ca, twbuchanan@me.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCD10004",
+    "Account_name": "GRAY FOWLER",
+    "Account_address": "934499 Airport Road",
+    "Account_city": "Mono",
+    "Account_prov": "ON",
+    "Account_postal": "L9W6C5",
+    "Account_email": "gfowler@mfam.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCD10005",
+    "Account_name": "STEPHEN HARRIS",
+    "Account_address": "34 Rosedale Hights Drive",
+    "Account_city": "Toronto",
+    "Account_prov": "ON",
+    "Account_postal": "M4T 1C3",
+    "Account_email": "harrisbuskard@rogers.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCD10006",
+    "Account_name": "DREW TAYLOR",
+    "Account_address": "8 Fidelia Ave",
+    "Account_city": "Toronto",
+    "Account_prov": "ON",
+    "Account_postal": "M4N3E8",
+    "Account_email": "drew.w.taylor@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCD10007",
+    "Account_name": "BOZENA GRZEGORCZYK",
+    "Account_address": "1681 Bramsey Dr",
+    "Account_city": "Mississauga",
+    "Account_prov": "ON",
+    "Account_postal": "L5J 2H9",
+    "Account_email": "Bryan@magellanlimited.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCD10008",
+    "Account_name": "BERNICE MIEDZINSKI",
+    "Account_address": "300 Front St. W,, Suite 208",
+    "Account_city": "Toronto",
+    "Account_prov": "ON",
+    "Account_postal": "M5V0E9",
+    "Account_email": "bernice39@rogers.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100781",
+    "Account_name": "1499200 ONTARIO INC",
+    "Account_address": "42 KINGSPARK CRES",
+    "Account_city": "LONDON",
+    "Account_prov": "ON",
+    "Account_postal": "N6H4C4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100789",
+    "Account_name": "JENNIFER HARTVIKSEN",
+    "Account_address": "87 GLEN RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W2V5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100798",
+    "Account_name": "1571115 ONTARIO INC",
+    "Account_address": "19 ROBINSON CRT",
+    "Account_city": "LONDON",
+    "Account_prov": "ON",
+    "Account_postal": "N5X3V3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100801",
+    "Account_name": "JEFFREY BRYCE",
+    "Account_address": "40 WINSTON GROVE",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M8Y2K9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100806",
+    "Account_name": "2243968 ONTARIO LIMITED",
+    "Account_address": "ATTN: E J WHALEY, 920-44 CHARLES ST W",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4Y1R7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100845",
+    "Account_name": "EDWARD CLASPER",
+    "Account_address": "78 WALBY DR",
+    "Account_city": "OAKVILLE",
+    "Account_prov": "ON",
+    "Account_postal": "L6L4C7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100842",
+    "Account_name": "KATHLEEN STARES",
+    "Account_address": "178 OLD ORCHARD GROVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5M2E5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100835",
+    "Account_name": "DAVID MORGENSTERN",
+    "Account_address": "132 IMPERIAL ST",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5P1C6",
+    "Account_email": "david.morgenstern@accenture.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100819",
+    "Account_name": "PATRICIA PALERMO",
+    "Account_address": "2012-2000 ISLINGTON AVE",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M9P3S7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100828",
+    "Account_name": "PHILIP HEALEY PROFESSIONAL CORPORATION",
+    "Account_address": "120 ADELAIDE ST W SUITE 2500",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5H1T1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100784",
+    "Account_name": "KENNETH POSTILL",
+    "Account_address": "28 SIR LANCELOT DR",
+    "Account_city": "MARKHAM",
+    "Account_prov": "ON",
+    "Account_postal": "L3P2H8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100811",
+    "Account_name": "JEAN GRIFFITHS",
+    "Account_address": "5958 16TH AVE SUITE 134",
+    "Account_city": "MARKHAM",
+    "Account_prov": "ON",
+    "Account_postal": "L3P8N1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100816",
+    "Account_name": "PATRICK CALLAGHAN",
+    "Account_address": "915-225 DAVISVILLE AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4S1G9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100854",
+    "Account_name": "BLAIR COWPER-SMITH",
+    "Account_address": "62 LYTTON BLVD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4R1L3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100633",
+    "Account_name": "WARDEH LAWLOR",
+    "Account_address": "340 DIXON RD APT 109",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M9R1T1",
+    "Account_email": "N/A",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100454",
+    "Account_name": "MARGARET MUIR",
+    "Account_address": "25 YORKVILLE AVE 2ND FLOOR",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W1L1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100861",
+    "Account_name": "PATRICIA PALERMO",
+    "Account_address": "2012-2000 ISLINGTON AVE",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M9P3S7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100900",
+    "Account_name": "ROSS GRAY",
+    "Account_address": "1476 WILDLARK DR",
+    "Account_city": "PETERBOROUGH",
+    "Account_prov": "ON",
+    "Account_postal": "K9K1X4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100920",
+    "Account_name": "HEATHER CHAMBERS",
+    "Account_address": "33 CARDIGAN STREET, #809",
+    "Account_city": "GUELPH",
+    "Account_prov": "ON",
+    "Account_postal": "N1H3Z5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100921",
+    "Account_name": " IZZY GALLERY",
+    "Account_address": "1255 Bay Street, Unit 102",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R2A9",
+    "Account_email": "izzygallery@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100005",
+    "Account_name": "SCOTT LAMACRAFT",
+    "Account_address": "15 WYCHWOOD PARK",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M6G2V5",
+    "Account_email": "slamacraft@cormark.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC120608",
+    "Account_name": "MICHAEL BESTER",
+    "Account_address": "77 Charles St W, Suite 1205",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5S1K5",
+    "Account_email": "mbester@primarycapital.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100940",
+    "Account_name": "MURTAZA JAFFER",
+    "Account_address": "38 O'MEARA CRT",
+    "Account_city": "NORTHYORK",
+    "Account_prov": "ON",
+    "Account_postal": "M2J4Y9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100960",
+    "Account_name": "BRUCE CLARK",
+    "Account_address": "9 AMOS DRIVE, UNIT 19",
+    "Account_city": "GUELPH",
+    "Account_prov": "ON",
+    "Account_postal": "N1L0M3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100980",
+    "Account_name": "PHILIP HEALEY PROFESSIONAL CORPORATION",
+    "Account_address": "8 LAKESHORE BLVD",
+    "Account_city": "KINGSTON",
+    "Account_prov": "ON",
+    "Account_postal": "K7M4J6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100981",
+    "Account_name": "KATHRINA HEALEY",
+    "Account_address": "2B LAKESHORE BLVD",
+    "Account_city": "KINGSTON",
+    "Account_prov": "ON",
+    "Account_postal": "K7M4J6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101000",
+    "Account_name": "ALBERT HUI",
+    "Account_address": "1268 GREEN ACRES RD",
+    "Account_city": "SARNIA",
+    "Account_prov": "ON",
+    "Account_postal": "N7S2M7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101020",
+    "Account_name": "2066803 ONTARIO INC",
+    "Account_address": "12 LAWRENCE CRES",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4N1N1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101040",
+    "Account_name": "COSIMO PANTALEO",
+    "Account_address": "71 DIANA DR",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M3M2W5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101041",
+    "Account_name": "ROBERT C HARASON PROFESSIONAL CORPORATIO",
+    "Account_address": "310 BENITA CRT",
+    "Account_city": "OAKVILLE",
+    "Account_prov": "ON",
+    "Account_postal": "L6J4L2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101042",
+    "Account_name": "ANDREW SHARP",
+    "Account_address": "288 SOUTHVIEW ROAD",
+    "Account_city": "OAKVILLE",
+    "Account_prov": "ON",
+    "Account_postal": "L6K2P5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101043",
+    "Account_name": "MEGAN SHARP",
+    "Account_address": "288 SOUTHVIEW ROAD",
+    "Account_city": "OAKVILLE",
+    "Account_prov": "ON",
+    "Account_postal": "L6K2P5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101044",
+    "Account_name": "LETITIA KUAN",
+    "Account_address": "38 ANNESLEY AVE",
+    "Account_city": "EAST YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M4G2T7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101045",
+    "Account_name": "MARILYN CUKIER",
+    "Account_address": "476 DOUGLAS AVE",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M5M1H5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101046",
+    "Account_name": "RHODES FAMILY TRUST  2010",
+    "Account_address": "ATTN: HOLDEN RHODES, 1633 GLOUCESTER RD",
+    "Account_city": "LONDON",
+    "Account_prov": "ON",
+    "Account_postal": "N6G2S5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101047",
+    "Account_name": "JONATHAN I IZAWA MEDICINE PROFESSIONAL C",
+    "Account_address": "77 GREEN ACRES DR",
+    "Account_city": "LONDON",
+    "Account_prov": "ON",
+    "Account_postal": "N6G2S4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101048",
+    "Account_name": "REBECCA MILLER",
+    "Account_address": "43 WEBSTER ST",
+    "Account_city": "DUNDAS",
+    "Account_prov": "ON",
+    "Account_postal": "L9H4Z5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101049",
+    "Account_name": "YVONNE BAYER",
+    "Account_address": "154 DELAWARE AVE 2ND FLOOR",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M6H2T3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101050",
+    "Account_name": "DR PAUL MILLER MEDICINE PROFESSIONAL COR",
+    "Account_address": "43 WEBSTER ST",
+    "Account_city": "DUNDAS",
+    "Account_prov": "ON",
+    "Account_postal": "L9H4Z5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101052",
+    "Account_name": "ALEXANDRIA ( ADAMS",
+    "Account_address": "25 GOWER ST",
+    "Account_city": "ST. JOHN'S",
+    "Account_prov": "NL",
+    "Account_postal": "A1C1N2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101053",
+    "Account_name": "CHRISTOPHER HUGH",
+    "Account_address": "3875 TRELAWNY CIR",
+    "Account_city": "MISSISSAUGA",
+    "Account_prov": "ON",
+    "Account_postal": "L5N6S4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101054",
+    "Account_name": "LETITIA KUAN",
+    "Account_address": "38 ANNESLEY AVE",
+    "Account_city": "EAST YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M4G2T7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101056",
+    "Account_name": "PROFESSIONAL GEROLD GOLDLIST",
+    "Account_address": "CORPORATION, ATTN GEROLD GOLDLIST, 139 STRATHEARN ROAD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M6C1R7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101057",
+    "Account_name": "KELLY WHALEY SENIKE",
+    "Account_address": "2419 TORQUAY CRT",
+    "Account_city": "BURLINGTON",
+    "Account_prov": "ON",
+    "Account_postal": "L7P4H9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101058",
+    "Account_name": "KIRK PINKOWSKI",
+    "Account_address": "308 GAINSBOROUGH RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4L3C6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101059",
+    "Account_name": "JERALD SHUMAN INVESTMENTS LTD ATTN JERAL",
+    "Account_address": "336 SPADINA RD SUITE 602",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R2V8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101060",
+    "Account_name": "PATRICK CALLAGHAN",
+    "Account_address": "915-225 DAVISVILLE AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4S1G9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101088",
+    "Account_name": "DANETTE KRUSKY",
+    "Account_address": "PO BOX 861",
+    "Account_city": "BRAGG CREEK",
+    "Account_prov": "AB",
+    "Account_postal": "T0L0K0",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101106",
+    "Account_name": "ESSIONAL CORPORATIONDOUGLAS GILBERT PROF",
+    "Account_address": "16 CROWN PARK RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4E1J9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101118",
+    "Account_name": "LEY ALTER EGO TRUSTTHE EDWIN JOSEPH WHA",
+    "Account_address": "C/O RAYMOND RENDER, PO BOX 435",
+    "Account_city": "LAKEFIELD",
+    "Account_prov": "ON",
+    "Account_postal": "K0L2H0",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101121",
+    "Account_name": "SHARON BLACK",
+    "Account_address": "296 WINDERMERE CRT W",
+    "Account_city": "LONDON",
+    "Account_prov": "ON",
+    "Account_postal": "N6G4J5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101122",
+    "Account_name": "DAVID MORGENSTERN",
+    "Account_address": "27 FOXBAR RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4V2G5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101123",
+    "Account_name": "CHRIS SALAPOUTIS",
+    "Account_address": "1377 GOLDTHORPE RD",
+    "Account_city": "MISSISSAUGA",
+    "Account_prov": "ON",
+    "Account_postal": "L5G3R2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101129",
+    "Account_name": "SARAH COOPER",
+    "Account_address": "683 CARLAW AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4K3K7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101132",
+    "Account_name": "EVA ZAHAVY",
+    "Account_address": "3027-80 HARRISON GARDEN BLVD",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M2N7E3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101135",
+    "Account_name": "ROBIN KERBEL INVESTMENTS LIMITED",
+    "Account_address": "88 DAVENPORT RD SUITE 701",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R0A5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC101163",
+    "Account_name": "DAVIDA ARONOVITCH",
+    "Account_address": "58 MAPLE AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W2T7",
+    "Account_email": "skaplanis@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101164",
+    "Account_name": "ENTS LIMITEDROBIN KERBEL INVESTM",
+    "Account_address": "88 DAVENPORT RD SUITE 701",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R0A5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101174",
+    "Account_name": "DANETTE KRUSKY",
+    "Account_address": "PO BOX 861",
+    "Account_city": "BRAGG CREEK",
+    "Account_prov": "AB",
+    "Account_postal": "T0L0K0",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101209",
+    "Account_name": "THE APPLICATION TEAM",
+    "Account_address": "ATTN: BINDU KHOSLA, 359 LAKE PROMENADE",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M8W1B8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101213",
+    "Account_name": "SERENA CHENG ITF MACKENZIE CHENG",
+    "Account_address": "3 HIGHBOURNE RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5P2J1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101078",
+    "Account_name": "MICHAEL FITZHENRY",
+    "Account_address": "188 GLENCAIRN AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4R1N2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC121008",
+    "Account_name": "DAVID CORNHILL",
+    "Account_address": "125 26 AVE SW",
+    "Account_city": "CALGARY",
+    "Account_prov": "AB",
+    "Account_postal": "T2S0M2",
+    "Account_email": "david@dwcornhill.com, david.cornhill@altagas.ca, annemarie@dwcornhill.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101090",
+    "Account_name": "NEILL KALVIN PROFESSIONAL CORP",
+    "Account_address": "ATTN: MR NEILL KALVIN, 625 RUSHTON ROAD",
+    "Account_city": "YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M6C2Y8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101114",
+    "Account_name": "JORDON CHEUNG",
+    "Account_address": "3026 10 ST SW",
+    "Account_city": "CALGARY",
+    "Account_prov": "AB",
+    "Account_postal": "T2T3H5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCD10014",
+    "Account_name": "SHEILSCOTT HOLDINGS INC.",
+    "Account_address": "17 Stratheden Dr.",
+    "Account_city": "Toronto",
+    "Account_prov": "ON",
+    "Account_postal": "M4N1E2",
+    "Account_email": "smacnicol63@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101120",
+    "Account_name": "KELLY WHALEY SENIKE",
+    "Account_address": "2419 TORQUAY CRT",
+    "Account_city": "BURLINGTON",
+    "Account_prov": "ON",
+    "Account_postal": "L7P4H9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101131",
+    "Account_name": "ROSS GRAY",
+    "Account_address": "1476 WILDLARK DR",
+    "Account_city": "PETERBOROUGH",
+    "Account_prov": "ON",
+    "Account_postal": "K9K1X4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC120110",
+    "Account_name": "RUTNAISH PRIHAR",
+    "Account_address": "1395 CONSTANCE DRIVE",
+    "Account_city": "OAKVILLE",
+    "Account_prov": "ON",
+    "Account_postal": "L6J2T8",
+    "Account_email": "anoopprihar@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC130710",
+    "Account_name": "FELICITY BANNISTER",
+    "Account_address": "65 SUMMERHILL AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4T1A9",
+    "Account_email": "fbannister@rogers.com, pdvaillancourt@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC130712",
+    "Account_name": "FELICITY BANNISTER",
+    "Account_address": "65 SUMMERHILL AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4T1A9",
+    "Account_email": "fbannister@rogers.com, pdvaillancourt@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100083",
+    "Account_name": "KENNETH POSTILL",
+    "Account_address": "28 SIR LANCELOT DR",
+    "Account_city": "MARKHAM",
+    "Account_prov": "ON",
+    "Account_postal": "L3P2H8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCM000910",
+    "Account_name": "DAN TSUBOUCHI",
+    "Account_address": "639 SIFTON BLVD. SW",
+    "Account_city": "CALGARY",
+    "Account_prov": "AB",
+    "Account_postal": "T2T2K8",
+    "Account_email": "dan.tsubouchi@gmail.com, diane.tsubouchi@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC120308",
+    "Account_name": "RICHARD ELDER",
+    "Account_address": "21 GLENALLAN RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4N1G6",
+    "Account_email": "relder@bell.net, richard.elder57@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100642",
+    "Account_name": "D. GRIFFITHS",
+    "Account_address": "19 SOMERDALE SQ",
+    "Account_city": "SCARBOROUGH",
+    "Account_prov": "ON",
+    "Account_postal": "M1E1M9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100470",
+    "Account_name": "GAYLE SHUMAN",
+    "Account_address": "#602-336 SPADINA RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R2V8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC101906",
+    "Account_name": "FERNMAR ENTERPRISES LIMITED",
+    "Account_address": "212-3181 BAYVIEW AVE",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M2K2Y2",
+    "Account_email": "david.sugarman@slf.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC300000",
+    "Account_name": "AVENIR CC FINANCE INC",
+    "Account_address": "300-808 1ST ST SW",
+    "Account_city": "CALGARY",
+    "Account_prov": "AB",
+    "Account_postal": "T2P1M9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100287",
+    "Account_name": "1758049 ONTARIO INC",
+    "Account_address": "ATTN ROBERT MANTROP, 634843 PRETTY RIVER RD",
+    "Account_city": "NOTTAWA",
+    "Account_prov": "ON",
+    "Account_postal": "L0M1P0",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100150",
+    "Account_name": "LUCES MEDICINE PROFESSIONAL CORPORATION",
+    "Account_address": "19 MONTROSE CRES",
+    "Account_city": "WHITBY",
+    "Account_prov": "ON",
+    "Account_postal": "L1R1C8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100731",
+    "Account_name": "MITCHELL SPIVAK PROFESSIONAL CORPORATION",
+    "Account_address": "111 PUMP HILL DR SW",
+    "Account_city": "CALGARY",
+    "Account_prov": "AB",
+    "Account_postal": "T2V4R5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100702",
+    "Account_name": "RUSSELL HOLLINS MEDICINE PROFESSIONAL CO",
+    "Account_address": "121 QUEEN ST SUITE 206",
+    "Account_city": "KINGSTON",
+    "Account_prov": "ON",
+    "Account_postal": "K7K0G6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCD10009",
+    "Account_name": "TRALEE INVESTMENTS",
+    "Account_address": "36 Toronto St,, Suite 750",
+    "Account_city": "Toronto",
+    "Account_prov": "ON",
+    "Account_postal": "M5C 2C5",
+    "Account_email": "JMcGovern@arrow-capital.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101051",
+    "Account_name": "JPB CONSULTING LIMITED ATTN JOHN BOZEK",
+    "Account_address": "5-4300 UPPER MIDDLE RD",
+    "Account_city": "BURLINGTON",
+    "Account_prov": "ON",
+    "Account_postal": "L7M4P6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101134",
+    "Account_name": "ANDREW (ROSS RAHN",
+    "Account_address": "620 SIMCOE ST SS1",
+    "Account_city": "NIAGARA ON THE",
+    "Account_prov": "ON",
+    "Account_postal": "L0S1J0",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101136",
+    "Account_name": "GAYLE SHUMAN",
+    "Account_address": "336 SPADINA RD SUITE 602",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R2V8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCD10015",
+    "Account_name": "TOWNSEND VENTURES INC.",
+    "Account_address": "736 33A ST NW",
+    "Account_city": "CALGARY",
+    "Account_prov": "AB",
+    "Account_postal": "T2N2X1",
+    "Account_email": "scotttownsend351@hotmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101150",
+    "Account_name": "MKD HOLDINGS INC.",
+    "Account_address": "227 HADDINGTON AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5M2P7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101158",
+    "Account_name": "1991250 ONTARIO INC",
+    "Account_address": "ATTN: HOLDEN RHODES, 1633 GLOUCESTER RD",
+    "Account_city": "LONDON",
+    "Account_prov": "ON",
+    "Account_postal": "N6G2S5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101159",
+    "Account_name": "2010RHODES FAMILY TRUST ",
+    "Account_address": "ATTN: HOLDEN RHODES, 1633 GLOUCESTER RD",
+    "Account_city": "LONDON",
+    "Account_prov": "ON",
+    "Account_postal": "N6G2S5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101161",
+    "Account_name": "DONNA THOMPSON",
+    "Account_address": "288 GLEN RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W2X3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101162",
+    "Account_name": "NICHOLAS THOMPSON",
+    "Account_address": "10 DELISLE AVE UNIT 904",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4V3C6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101166",
+    "Account_name": "THE APPTEAM INVESTMENT INC.",
+    "Account_address": "359 LAKE PROMENADE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M8W1B7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101170",
+    "Account_name": "S PAULINE POSTILL",
+    "Account_address": "28 SIR LANCELOT DR",
+    "Account_city": "MARKHAM",
+    "Account_prov": "ON",
+    "Account_postal": "L3P2H8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101173",
+    "Account_name": "THE ESTATE OF MAURICE DRUCK",
+    "Account_address": "620 VESTA DRIVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5N1H9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101079",
+    "Account_name": "MARK BERTSCHMANN",
+    "Account_address": "223 KINGSWOOD RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4E3N6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101089",
+    "Account_name": "NEILL KALVIN",
+    "Account_address": "625 RUSHTON ROAD",
+    "Account_city": "YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M6C2Y8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101146",
+    "Account_name": "PATRICK LUNDY",
+    "Account_address": "1157 KANE RD",
+    "Account_city": "MISSISSAUGA",
+    "Account_prov": "ON",
+    "Account_postal": "L5H2M2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101176",
+    "Account_name": "SIN YEE CHENG",
+    "Account_address": "1030 CORONATION DR UNIT 1302",
+    "Account_city": "LONDON",
+    "Account_prov": "ON",
+    "Account_postal": "N6G0G5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101177",
+    "Account_name": "GORDON CHENG",
+    "Account_address": "701 GENEVA ST SUITE 1403",
+    "Account_city": "ST CATHARINES",
+    "Account_prov": "ON",
+    "Account_postal": "L2N7H9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101178",
+    "Account_name": "CINE PROFESSIONAL CORUSSELL HOLLINS MEDI",
+    "Account_address": "ATTN: DR. RUSSELL HOLLINS, 121 QUEEN ST SUITE 206",
+    "Account_city": "KINGSTON",
+    "Account_prov": "ON",
+    "Account_postal": "K7K0G6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101187",
+    "Account_name": "ANNE-MARIE CRISTIANO",
+    "Account_address": "95 PRINCE ARTHUR AVE UNIT 320",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R3P6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101197",
+    "Account_name": "JEAN GRIFFITHS",
+    "Account_address": "5958 16TH AVE SUITE 134",
+    "Account_city": "MARKHAM",
+    "Account_prov": "ON",
+    "Account_postal": "L3P8N1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101198",
+    "Account_name": "TANGANYIKA INC",
+    "Account_address": "ATTN: MARGARET MUIR, 36 HAZELTON AVE UNIT 2B",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R2E2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101211",
+    "Account_name": "ROBIN KERBEL",
+    "Account_address": "GUARANTOR, 1148 1000 ROAD",
+    "Account_city": "GRAVENHURST",
+    "Account_prov": "ON",
+    "Account_postal": "P1P1R2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101212",
+    "Account_name": "SERENA CHENG",
+    "Account_address": "3 HIGHBOURNE RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5P2J1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101214",
+    "Account_name": "DONNA THOMPSON",
+    "Account_address": "288 GLEN RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W2X3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101221",
+    "Account_name": "JEFFREY WEINGARTEN",
+    "Account_address": "45 WOODYCREST AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4J3A8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC220506",
+    "Account_name": "Epic International Subscriptions LP",
+    "Account_address": "45 St. Clair Ave W., Suite 103",
+    "Account_city": "Toronto",
+    "Account_prov": "ON",
+    "Account_postal": "M4V1L3",
+    "Account_email": "skoudas@epiccapital.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101222",
+    "Account_name": "JUDITH SILVERSTEIN",
+    "Account_address": "505-8 COVINGTON RD",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M6A3E5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101223",
+    "Account_name": "IONAL CORPNEILL KALVIN PROFESS",
+    "Account_address": "ATTN: MR NEILL KALVIN, 625 RUSHTON RD",
+    "Account_city": "YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M6C2Y8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101225",
+    "Account_name": "CINDY WAN",
+    "Account_address": "247 CONLEY ST",
+    "Account_city": "THORNHILL",
+    "Account_prov": "ON",
+    "Account_postal": "L4J2Z2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101226",
+    "Account_name": "MITCHELL SPIVAK PROFESSIONAL CORPORATION",
+    "Account_address": "111 PUMP HILL DR SW",
+    "Account_city": "CALGARY",
+    "Account_prov": "AB",
+    "Account_postal": "T2V4R5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101230",
+    "Account_name": "SERENA CHENG",
+    "Account_address": "3 HIGHBOURNE RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5P2J1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101063",
+    "Account_name": "ANDREW (ROSS RAHN",
+    "Account_address": "620 SIMCOE ST SS1",
+    "Account_city": "NIAGARA ON THE",
+    "Account_prov": "ON",
+    "Account_postal": "L0S1J0",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101105",
+    "Account_name": "DOUGLAS GILBERT",
+    "Account_address": "16 CROWN PARK RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4E1J9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101066",
+    "Account_name": "TAMARA BAHRY",
+    "Account_address": "85 GLENGROVE AVE W",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4R1N8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101107",
+    "Account_name": "GAYLE SHUMAN",
+    "Account_address": "336 SPADINA RD SUITE 602",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R2V8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101112",
+    "Account_name": "NEIL SMITH",
+    "Account_address": "38 TECUMSETH ST",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5V2R6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101113",
+    "Account_name": "JOANNA VAN HAASTRECHT",
+    "Account_address": "640 ALBION FALLS DR",
+    "Account_city": "NEPEAN",
+    "Account_prov": "ON",
+    "Account_postal": "K2J6P8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101119",
+    "Account_name": "PETER MARIT",
+    "Account_address": "4210 INGLEWOOD DR",
+    "Account_city": "BURLINGTON",
+    "Account_prov": "ON",
+    "Account_postal": "L7L1E2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101137",
+    "Account_name": "TANYA IZAWA",
+    "Account_address": "77 GREEN ACRES DR",
+    "Account_city": "LONDON",
+    "Account_prov": "ON",
+    "Account_postal": "N6G2S4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101138",
+    "Account_name": "PATRICK LUNDY",
+    "Account_address": "1157 KANE ROAD",
+    "Account_city": "MISSISSAUGA",
+    "Account_prov": "ON",
+    "Account_postal": "L5H2M2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101141",
+    "Account_name": "PATRICK LUNDY",
+    "Account_address": "1157 KANE ROAD",
+    "Account_city": "MISSISSAUGA",
+    "Account_prov": "ON",
+    "Account_postal": "L5H2M2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101144",
+    "Account_name": "ER EGO TRUSTMARGARET B. MUIR ALT",
+    "Account_address": "ATTN MARGARET MUIR, 28-36 HAZELTON AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R2E2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCD101134",
+    "Account_name": "ROSS AND YVONNE RAHN",
+    "Account_address": "620 SIMCOE ST SS1",
+    "Account_city": "NOTL",
+    "Account_prov": "ON",
+    "Account_postal": "L0S1J0",
+    "Account_email": "ryrahn@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101167",
+    "Account_name": "VALERIE FOOTE ROGERS",
+    "Account_address": "64 ROXBOROUGH ST W",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R1T8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101169",
+    "Account_name": "TANGANYIKA INC",
+    "Account_address": "ATTN: MARGARET MUIR, 36 HAZELTON AVE UNIT 2B",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R2E2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101175",
+    "Account_name": "RICHARD TRINETTI",
+    "Account_address": "38 FONTENAY CRT UNIT 507",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M9A5H5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101195",
+    "Account_name": "ANNA CRISTIANO",
+    "Account_address": "95 PRINCE ARTHUR AVE UNIT 320",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R3P6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101067",
+    "Account_name": "SHARON NIZNIK",
+    "Account_address": "2540 REGIONAL RD 20 R1",
+    "Account_city": "BOWMANVILLE",
+    "Account_prov": "ON",
+    "Account_postal": "L1C3K2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101070",
+    "Account_name": "KATHRINA HEALEY",
+    "Account_address": "2B LAKESHORE BLVD",
+    "Account_city": "KINGSTON",
+    "Account_prov": "ON",
+    "Account_postal": "K7M4J6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101071",
+    "Account_name": "T. MICHAEL BRANCH",
+    "Account_address": "60 SKIPPER LANE",
+    "Account_city": "OAKVILLE",
+    "Account_prov": "ON",
+    "Account_postal": "L6L5Y8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101092",
+    "Account_name": "DAVID SALTER",
+    "Account_address": "130 FACTORY LANE, PO BOX 239",
+    "Account_city": "BATH",
+    "Account_prov": "ON",
+    "Account_postal": "K0H1G0",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101094",
+    "Account_name": "JAMES ROGERS",
+    "Account_address": "4255 PROSPECT RD",
+    "Account_city": "NORTH VANCOUVER",
+    "Account_prov": "BC",
+    "Account_postal": "V7N3L6",
+    "Account_email": "jdnnrogers@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101096",
+    "Account_name": "PARDEEP SANGHA",
+    "Account_address": "15070 86A AVE",
+    "Account_city": "SURREY",
+    "Account_prov": "BC",
+    "Account_postal": "V3S4V1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101098",
+    "Account_name": "VOICE OF POSSIBILITY GROUP INC",
+    "Account_address": "ATTN: DEBRA GOULD, 1917 4TH AVE W SUITE 245",
+    "Account_city": "VANCOUVER",
+    "Account_prov": "BC",
+    "Account_postal": "V6J1M7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101099",
+    "Account_name": "DANIEL ONDRACK",
+    "Account_address": "112 GLENFOREST RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4N1Z9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101101",
+    "Account_name": "BENJAMIN FIRTH",
+    "Account_address": "409 CANYON CLOSE",
+    "Account_city": "CANMORE",
+    "Account_prov": "AB",
+    "Account_postal": "T1W1H4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101102",
+    "Account_name": "JUDITH BEGG",
+    "Account_address": "71 CASTLE FRANK CRES",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W3A2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101103",
+    "Account_name": "RONALD BEGG",
+    "Account_address": "71 CASTLE FRANK CRES",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W3A2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101111",
+    "Account_name": "EPWORTH PROPERTY CORPORATION",
+    "Account_address": "ATTN: SAM GENKOV, 14 FOREST GLEN CRES",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M4N2E8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101117",
+    "Account_name": "2010RHODES FAMILY TRUST ",
+    "Account_address": "ATTN: HOLDEN RHODES, 1633 GLOUCESTER RD",
+    "Account_city": "LONDON",
+    "Account_prov": "ON",
+    "Account_postal": "N6G2S5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101125",
+    "Account_name": "MICHAEL FITZHENRY",
+    "Account_address": "77 HIGHLAND AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W2A4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101126",
+    "Account_name": "ANNE-MARIE CRISTIANO",
+    "Account_address": "95 PRINCE ARTHUR AVE UNIT 320",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R3P6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101127",
+    "Account_name": "NEIL SMITH",
+    "Account_address": "38 TECUMSETH ST",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5V2R6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101130",
+    "Account_name": "YEHEZKEL ZAHAVY",
+    "Account_address": "3027-80 HARRISON GARDEN BLVD",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M2N7E3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101139",
+    "Account_name": "KINGSWAY RECORDS",
+    "Account_address": "1403 LONDONDERRY BLVD",
+    "Account_city": "MISSISSAUGA",
+    "Account_prov": "ON",
+    "Account_postal": "L5E2S2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100301",
+    "Account_name": "SERENA CHENG",
+    "Account_address": "3 HIGHBOURNE RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5P2J1",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101145",
+    "Account_name": "CRAIG MACHEL",
+    "Account_address": "179 WOBURN AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5M1K8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101148",
+    "Account_name": "FINNEGAN INC.",
+    "Account_address": "ATTN: NIALL FINNEGAN, 6 LAMPORT AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W1S6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101152",
+    "Account_name": "RICHARD TRINETTI",
+    "Account_address": "38 FONTENAY CRT UNIT 507",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M9A5H5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101153",
+    "Account_name": "RAZIYA JAFFER",
+    "Account_address": "38 O'MEARA CRT",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M2J4Y9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101157",
+    "Account_name": "ER EGO TRUSTMARGARET B. MUIR ALT",
+    "Account_address": "ATTN MARGARET MUIR, 28-36 HAZELTON AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R2E2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101168",
+    "Account_name": "INE PROF CORDR KAREN CHIEN MEDIC",
+    "Account_address": "ATTN DR KAREN CHIEN, 185 BAIN AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4K1E9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101193",
+    "Account_name": "CHRISTOPHER HUGH",
+    "Account_address": "3875 TRELAWNY CIR",
+    "Account_city": "MISSISSAUGA",
+    "Account_prov": "ON",
+    "Account_postal": "L5N6S4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101196",
+    "Account_name": "MANDI EPSTEIN",
+    "Account_address": "16 DELORAINE AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5M2A7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101216",
+    "Account_name": "NICOLA PANTALEO",
+    "Account_address": "71 DIANA DR",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M3M2W5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC220507",
+    "Account_name": "Antonio Cruz",
+    "Account_address": "2020 N. Bayshore Dr, #807",
+    "Account_city": "Miami",
+    "Account_prov": "FL",
+    "Account_postal": "33137-5160",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC010708",
+    "Account_name": "DAVID FAWCETT",
+    "Account_address": "8 RUSSELL HILL DRIVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R2Y5",
+    "Account_email": "dfawcett@epiccapital.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101231",
+    "Account_name": "MORRIS WAINTRAUB",
+    "Account_address": "48 HIGHVIEW CRES",
+    "Account_city": "RICHMOND HILL",
+    "Account_prov": "ON",
+    "Account_postal": "L4B2T2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCD10010",
+    "Account_name": "A TIMOTHY BARON PROFESSIONAL CORPORA",
+    "Account_address": "155 Wellington St. W",
+    "Account_city": "Toronto",
+    "Account_prov": "ON",
+    "Account_postal": "M5V3S7",
+    "Account_email": "tbaron@dwpv.com, tegiles@hotmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCD10011",
+    "Account_name": "SEAN KINOSHITA",
+    "Account_address": "104 Sutherland Close",
+    "Account_city": "Calgary",
+    "Account_prov": "AB",
+    "Account_postal": "T3R1H1",
+    "Account_email": "kinoshitasean@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCD10012",
+    "Account_name": "SCOTT TOWNSEND PROFESSIONAL CORPORA",
+    "Account_address": "103 Lynx Meadows Dr.",
+    "Account_city": "Calgary",
+    "Account_prov": "AB",
+    "Account_postal": "T3L2L9",
+    "Account_email": "scotttownsend351@hotmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101068",
+    "Account_name": "MORRIS WAINTRAUB",
+    "Account_address": "48 HIGHVIEW CRES",
+    "Account_city": "RICHMOND HILL",
+    "Account_prov": "ON",
+    "Account_postal": "L4B2T2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101069",
+    "Account_name": "SHARON NIZNIK",
+    "Account_address": "2540 REGIONAL RD 20 R1",
+    "Account_city": "BOWMANVILLE",
+    "Account_prov": "ON",
+    "Account_postal": "L1C3K2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101100",
+    "Account_name": "ALISON MCMAHON",
+    "Account_address": "1315 SILVER SPEAR RD UNIT 411",
+    "Account_city": "MISSISSAUGA",
+    "Account_prov": "ON",
+    "Account_postal": "L4Y2W8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101108",
+    "Account_name": "DRMIV INC",
+    "Account_address": "338 DAVENPORT RD UNIT 102",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R1K6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101109",
+    "Account_name": "MENTS LIMITEDJERALD SHUMAN INVEST",
+    "Account_address": "336 SPADINA RD SUITE 602",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R2V8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101116",
+    "Account_name": "831857 ONTARIO INC.",
+    "Account_address": "65 CHERITAN AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4R1S7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101149",
+    "Account_name": "ALERMOESTATE OF PATRICIA P",
+    "Account_address": "ATTN: MICHELLE WILLIAMS, 99 CLEVELAND ST",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4S2W4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101165",
+    "Account_name": "NEIL SMITH",
+    "Account_address": "38 TECUMSETH ST",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5V2R6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101171",
+    "Account_name": "SHAWN ASPDEN",
+    "Account_address": "49 RUMSEY RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4G1N9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101183",
+    "Account_name": "VALERIE FOOTE ROGERS",
+    "Account_address": "64 ROXBOROUGH ST W",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R1T8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101184",
+    "Account_name": "KATHLEEN STARES",
+    "Account_address": "178 OLD ORCHARD GROVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5M2E5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101185",
+    "Account_name": "PETER MARIT",
+    "Account_address": "4210 INGLEWOOD DR",
+    "Account_city": "BURLINGTON",
+    "Account_prov": "ON",
+    "Account_postal": "L7L1E2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101192",
+    "Account_name": "KELLY SENIKE",
+    "Account_address": "2419 TORQUAY CRT",
+    "Account_city": "BURLINGTON",
+    "Account_prov": "ON",
+    "Account_postal": "L7P4H9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101210",
+    "Account_name": "FINNEGAN INC.",
+    "Account_address": "ATTN: NIALL FINNEGAN, 6 LAMPORT AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W1S6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101215",
+    "Account_name": "COSIMO PANTALEO",
+    "Account_address": "71 DIANA DR",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M3M2W5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101229",
+    "Account_name": "ELIZABETH MAHABIR",
+    "Account_address": "14 SPRINGBROOK GDNS",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M8Z3B5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC101234",
+    "Account_name": "DANIELLE MONACHELLO",
+    "Account_address": "6512 LARKSPUR WAY SW",
+    "Account_city": "CALGARY",
+    "Account_prov": "AB",
+    "Account_postal": "T3E5R1",
+    "Account_email": "monachello.tim@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101064",
+    "Account_name": "JEFFREY BRYCE",
+    "Account_address": "40 WINSTON GROVE",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M8Y2K9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101065",
+    "Account_name": "JEFFREY BRYCE",
+    "Account_address": "40 WINSTON GROVE",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M8Y2K9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101080",
+    "Account_name": "NEIL ORNSTEIN",
+    "Account_address": "255 CASTLEFIELD AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4R1G6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101081",
+    "Account_name": "ERIC DUFOUR",
+    "Account_address": "202 RIVERDALE AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4K1C5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101082",
+    "Account_name": "LIMITEDPENBRIT INVESTMENTS ",
+    "Account_address": "ATTN: CHARLES PENSTONE, 10 MARSHVIEW AVE",
+    "Account_city": "AURORA",
+    "Account_prov": "ON",
+    "Account_postal": "L4G7W2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101083",
+    "Account_name": "KELLY SENIKE",
+    "Account_address": "2419 TORQUAY CRT",
+    "Account_city": "BURLINGTON",
+    "Account_prov": "ON",
+    "Account_postal": "L7P4H9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101084",
+    "Account_name": "ANNE-MARIE CRISTIANO",
+    "Account_address": "38 ALCORN AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4V1E4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101097",
+    "Account_name": "NEIL SMITH",
+    "Account_address": "508 WELLINGTON ST W PH 01",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5V0K8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101104",
+    "Account_name": "2075239 ONTARIO LTD.",
+    "Account_address": "592 GLADWYNE CRT",
+    "Account_city": "MISSISSAUGA",
+    "Account_prov": "ON",
+    "Account_postal": "L5H4L4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101110",
+    "Account_name": "1758049 ONTARIO INC",
+    "Account_address": "164 BARTLETT BLVD",
+    "Account_city": "COLLINGWOOD",
+    "Account_prov": "ON",
+    "Account_postal": "L9Y5C9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101128",
+    "Account_name": "WILLIAM HEIBEIN",
+    "Account_address": "1189 PARKERS POINT RD",
+    "Account_city": "GRAVENHURST",
+    "Account_prov": "ON",
+    "Account_postal": "P1P1R2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101133",
+    "Account_name": "VALERIE FOOTE-ROGERS",
+    "Account_address": "60 HIGHLAND AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W2A3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101147",
+    "Account_name": "1991250 ONTARIO INC",
+    "Account_address": "ATTN: HOLDEN RHODES, 1633 GLOUCESTER RD",
+    "Account_city": "LONDON",
+    "Account_prov": "ON",
+    "Account_postal": "N6G2S5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101151",
+    "Account_name": "EPWORTH PROPERTY CORPORATION",
+    "Account_address": "ATTN: SAM GENKOV, 14 FOREST GLEN CRES",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M4N2E8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101160",
+    "Account_name": "ER EGO TRUSTMARGARET B. MUIR ALT",
+    "Account_address": "ATTN MARGARET MUIR, 28-36 HAZELTON AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5R2E2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "100143",
+    "Account_name": "SHAWN ASPDEN",
+    "Account_address": "49 RUMSEY RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4G1N9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101179",
+    "Account_name": "E PROFESSIONAL CORPOSOMMER COGAN MEDICIN",
+    "Account_address": "ATTN DORON SOMMER, 71 KING GEORGE'S RD",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M8X1L8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101181",
+    "Account_name": "IONAL CORPNEILL KALVIN PROFESS",
+    "Account_address": "ATTN: MR NEILL KALVIN, 625 RUSHTON RD",
+    "Account_city": "YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M6C2Y8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101182",
+    "Account_name": "JUDITH SILVERSTEIN",
+    "Account_address": "505-8 COVINGTON RD",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M6A3E5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101186",
+    "Account_name": "NICHOLAS THOMPSON",
+    "Account_address": "10 DELISLE AVE UNIT 904",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4V3C6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101194",
+    "Account_name": "CINDY WAN",
+    "Account_address": "38 BROOKFIELD ST",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M6J3A9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101224",
+    "Account_name": "THE ESTATE OF MAURICE DRUCK",
+    "Account_address": "620 VESTA DRIVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5N1H9",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101227",
+    "Account_name": "RUSSELL HOLLINS MEDICINE PROFESSIONAL CO",
+    "Account_address": "121 QUEEN ST SUITE 206",
+    "Account_city": "KINGSTON",
+    "Account_prov": "ON",
+    "Account_postal": "K7K0G6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101232",
+    "Account_name": "NIHAN MCCLURE",
+    "Account_address": "44 DALE AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W1K6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101073",
+    "Account_name": "MORRIS WAINTRAUB",
+    "Account_address": "48 HIGHVIEW CRES",
+    "Account_city": "RICHMOND HILL",
+    "Account_prov": "ON",
+    "Account_postal": "L4B2T2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101074",
+    "Account_name": "CHRISTOPHER HUGH",
+    "Account_address": "3875 TRELAWNY CIR",
+    "Account_city": "MISSISSAUGA",
+    "Account_prov": "ON",
+    "Account_postal": "L5N6S4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101075",
+    "Account_name": "PETER MARIT",
+    "Account_address": "85 BARRINGHAM DR",
+    "Account_city": "OAKVILLE",
+    "Account_prov": "ON",
+    "Account_postal": "L6J4B3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101076",
+    "Account_name": "BENJAMIN FIRTH",
+    "Account_address": "409 CANYON CLOSE",
+    "Account_city": "CANMORE",
+    "Account_prov": "AB",
+    "Account_postal": "T1W1H4",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101085",
+    "Account_name": "DANIEL ONDRACK",
+    "Account_address": "166 CHAPLIN CRES",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5P1B3",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101086",
+    "Account_name": "MARK BEGG",
+    "Account_address": "65 CASTLE FRANK CRES",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W3A2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101087",
+    "Account_name": "JEFFREY WEINGARTEN",
+    "Account_address": "45 WOODYCREST AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4J3A8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101091",
+    "Account_name": "EDWARD CLASPER",
+    "Account_address": "78 WALBY DR",
+    "Account_city": "OAKVILLE",
+    "Account_prov": "ON",
+    "Account_postal": "L6L4C7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101093",
+    "Account_name": "MARK BERTSCHMANN",
+    "Account_address": "223 KINGSWOOD RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4E3N6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPCD10013",
+    "Account_name": "CHRISTOPHER R. SEIP",
+    "Account_address": "62 Duggan Ave",
+    "Account_city": "Toronto",
+    "Account_prov": "ON",
+    "Account_postal": "M4V1Y2",
+    "Account_email": "seipch@gmail.com",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101115",
+    "Account_name": "NEIL ORNSTEIN",
+    "Account_address": "255 CASTLEFIELD AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4R1G6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101124",
+    "Account_name": "KIRK PINKOWSKI",
+    "Account_address": "308 GAINSBOROUGH RD",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4L3C6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101140",
+    "Account_name": "TED1391329 ONTARIO LIMI",
+    "Account_address": "ATTN: HUGH CUMMING, 28A GIVINS ST",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M6J2X7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101142",
+    "Account_name": "USTAGHAR 2015 FAMILY TR",
+    "Account_address": "ATTN: PETER AGHAR, 84 FOLLIS AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M6G1S6",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101143",
+    "Account_name": "NICOLA PANTALEO",
+    "Account_address": "71 DIANA DR",
+    "Account_city": "NORTH YORK",
+    "Account_prov": "ON",
+    "Account_postal": "M3M2W5",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC220500",
+    "Account_name": "Kurtis Bouwers",
+    "Account_address": "1161C Lookout St.",
+    "Account_city": "Ridgeville",
+    "Account_prov": "ON",
+    "Account_postal": "L0S1M0",
+    "Account_email": "glendanrob@gmail.com, sbouwers@epiccapital.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC220501",
+    "Account_name": "Glenda Bouwers",
+    "Account_address": "1161C Lookout St.",
+    "Account_city": "Ridgeville",
+    "Account_prov": "ON",
+    "Account_postal": "L0S1M0",
+    "Account_email": "glendanrob@gmail.com, sbouwers@epiccapital.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC220502",
+    "Account_name": "Rob Bouwers",
+    "Account_address": "1161C Lookout St.",
+    "Account_city": "Ridgeville",
+    "Account_prov": "ON",
+    "Account_postal": "L0S1M0",
+    "Account_email": "glendanrob@gmail.com, sbouwers@epiccapital.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC220503",
+    "Account_name": "Sean Bouwers",
+    "Account_address": "",
+    "Account_city": "",
+    "Account_prov": "ON",
+    "Account_postal": "",
+    "Account_email": "sbouwers@epiccapital.ca",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "EPC220505",
+    "Account_name": "Yinghui Guo",
+    "Account_address": "65 REIDMOUNT AVE.",
+    "Account_city": "Scarborough",
+    "Account_prov": "ON",
+    "Account_postal": "M1S1B6",
+    "Account_email": "1982GYH@GMAIL.COM",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101172",
+    "Account_name": "THE APPLICATION TEAM",
+    "Account_address": "ATTN: BINDU KHOSLA, 359 LAKE PROMENADE",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M8W1B8",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101191",
+    "Account_name": "MKD HOLDINGS INC.",
+    "Account_address": "227 HADDINGTON AVE",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M5M2P7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101220",
+    "Account_name": "FRANK KUS",
+    "Account_address": "14 CHARLESTON RD",
+    "Account_city": "ETOBICOKE",
+    "Account_prov": "ON",
+    "Account_postal": "M9B4M7",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101228",
+    "Account_name": "MARK BEGG",
+    "Account_address": "65 CASTLE FRANK CRES",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4W3A2",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
+    "Fund_account_id": "101233",
+    "Account_name": "GORDON WILLCOCKS",
+    "Account_address": "50 INGLEWOOD DR",
+    "Account_city": "TORONTO",
+    "Account_prov": "ON",
+    "Account_postal": "M4T1H1",
+    "Account_email": "",
+    "Account_type": "Open"
+  }
+]
