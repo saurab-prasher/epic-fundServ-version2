@@ -21,6 +21,8 @@ const AccoundFundsTable = () => {
   const [accountInfo, setAccountInfo] = useState({});
   const [transactionsData, setTransactionsData] = useState([]);
 
+  const [searchTerm, setSearchTerm] = useState("");
+
   useEffect(() => {
     const fetchData = async () => {
       try {
@@ -165,8 +167,34 @@ const AccoundFundsTable = () => {
     transactionsData.filter(
       (transaction) => transaction.Fund_account_id == fundAccountId
     );
+  }
 
-    console.log(transactionsData[5]);
+  function handleSearch(e) {
+    const value = e.target.value.toLowerCase();
+    setSearchTerm(value);
+    console.log(value);
+
+    // let localAccountNameSet = new Set();
+    accountLookupData.forEach((account) => {
+      console.log(account);
+      // if (
+      //   account.Fund_account_id == searchTerm ||
+      //   account.Dealer_account_id == searchTerm
+      // )
+      //   console.log(account);
+    });
+
+    // setAccountName([...localAccountNameSet]);
+
+    // const filteredData = data?.filter((account) => {
+    //   const accountFundID = account.Fund_account_id;
+
+    //   return [...localAccountNameSet].some((value) =>
+    //     value.includes(accountFundID)
+    //   );
+    // });
+
+    // setFilteredData(filteredData);
   }
 
   return (
@@ -243,9 +271,12 @@ const AccoundFundsTable = () => {
                     className='block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2'
                     htmlFor='search'
                   >
-                    Enter First 4+ Characters of Account Search
+                    Enter First 4+ Characters of Account Search: <br />
+                    Name, Dealer Account or Fund Account, then select account
                   </label>
                   <input
+                    value={searchTerm}
+                    onChange={(e) => handleSearch(e)}
                     placeholder='Search by Account'
                     className='appearance-none rounded-r rounded-l pl-3 pr-5 border border-gray-300 block py-2 w-full bg-white text-sm rounded-md placeholder-gray-400 text-gray-700 focus:bg-white focus:placeholder-gray-600 focus:text-gray-700 focus:outline-none
                 '
