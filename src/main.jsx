@@ -1,4 +1,3 @@
-import React from "react";
 import ReactDOM from "react-dom/client";
 
 import { RouterProvider } from "react-router-dom";
@@ -8,11 +7,9 @@ import { router } from "./routes.jsx";
 import { FundProvider } from "./contexts/FundContext.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <React.StrictMode>
+  <FundProvider>
     <RouterProvider router={router}>
-      <FundProvider>
-        <App />
-      </FundProvider>
+      <App />
     </RouterProvider>
-  </React.StrictMode>
+  </FundProvider>
 );
