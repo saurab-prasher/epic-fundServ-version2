@@ -1,69 +1,77 @@
 import { Link } from "react-router-dom";
+import logo from "../../assets/Images/EPIC_normal.png";
 
 const Navbar = () => {
   return (
-    <>
-      <header className='bg-white shadow-sm'>
-        <div className='max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8 flex justify-between items-center'>
-          <h1 className='text-xl font-bold'>EPIC/FundServ</h1>
-          <div className='flex items-center gap-2'>
-            <button className='text-white bg-red-500 hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-opacity-50 rounded-md text-sm px-5 py-2.5'>
-              Log out
-            </button>
-          </div>
+    <header className="bg-[#2b6777] text-white flex justify-between">
+      <div className="flex py-2 px-4 mt-8">
+        {/* Logo*/}
+        <div className="">
+          <img className="w-[90px] h-[94px]" src={logo} />
         </div>
-      </header>
+        {/* Navigation Links */}
+        <nav className="">
+          <div className="h-8 text-white text-[25px] font-normal font-['Balsamiq Sans'] leading-normal pl-8 pb-16">
+            EPIC/ FundServ
+          </div>
 
-      {/* Navigation */}
-      <nav className='bg-white'>
-        <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8'>
-          <div className='flex space-x-4 py-3'>
-            <Link
-              to='/'
-              className='text-gray-700 hover:text-gray-900 px-3 py-2 rounded-md text-sm font-medium'
-            >
-              Home
-            </Link>
-            <Link
-              to='/accounts'
-              className='text-gray-700 hover:text-gray-900 px-3 py-2 rounded-md text-sm font-medium'
-            >
-              Accounts
-            </Link>
-            <Link
-              to='transactions'
-              className='text-gray-700 hover:text-gray-900 px-3 py-2 rounded-md text-sm font-medium'
-            >
-              Transactions
-            </Link>
-            <Link
-              to='NAV'
-              className='text-gray-700 hover:text-gray-900 px-3 py-2 rounded-md text-sm font-medium'
-            >
-              NAV
-            </Link>
-            <Link
-              to='distribution'
-              className='text-gray-700 hover:text-gray-900 px-3 py-2 rounded-md text-sm font-medium'
-            >
-              Distribution
-            </Link>
-            <Link
-              to='#'
-              className='text-gray-700 hover:text-gray-900 px-3 py-2 rounded-md text-sm font-medium'
-            >
-              FundServ
-            </Link>
-            <Link
-              to='about'
-              className='text-gray-700 hover:text-gray-900 px-3 py-2 rounded-md text-sm font-medium'
-            >
-              About
-            </Link>
-          </div>
+          <Link
+            to="/"
+            className="text-white text-xl font-normal font-['Balsamiq Sans'] leading-normal pl-8"
+          >
+            Home
+          </Link>
+          <Link
+            to="/accounts"
+            className="text-white text-xl font-normal font-['Balsamiq Sans'] leading-normal pl-8"
+          >
+            Accounts
+          </Link>
+          <Link
+            to="/transactions"
+            className="text-white text-xl font-normal font-['Balsamiq Sans'] leading-normal pl-8"
+          >
+            Transactions
+          </Link>
+          <Link
+            to="/nav"
+            className="text-white text-xl font-normal font-['Balsamiq Sans'] leading-normal pl-8"
+          >
+            Nav
+          </Link>
+          <Link
+            to="/distribution"
+            className="text-white text-xl font-normal font-['Balsamiq Sans'] leading-normal pl-8"
+          >
+            Distribution
+          </Link>
+          <Link
+            to="/fundserv"
+            className="text-white text-xl font-normal font-['Balsamiq Sans'] leading-normal pl-8"
+          >
+            FundServ
+          </Link>
+        </nav>
+      </div>
+      <div className="py-2 px-4 flex flex-col items-end">
+        {/* Right-aligned links */}
+        <div className="float-right flex items-center">
+          <a className="mx-2" href="/about">
+            About
+          </a>
+          <a className="mx-2" href="/contact">
+            Contact
+          </a>
+          <a className="mx-2" href="/help">
+            Help
+          </a>
+          <button className="w-24 h-8 bg-white flex items-center pl-4 text-black text-xl font-normal font-['Balsamiq Sans'] leading-normal">
+            Log out
+          </button>
         </div>
-      </nav>
-    </>
+        <span className="mt-8">Welcome User01</span>
+      </div>
+    </header>
   );
 };
 
