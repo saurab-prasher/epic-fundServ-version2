@@ -5,28 +5,26 @@ export const FundContext = createContext();
 export const FundProvider = ({ children }) => {
   const [fundData, setFundData] = useState([]);
   const [dealerData, setDealerData] = useState([]);
-  const [accountDataNames, setAccountNames] = useState([]);
+  const [accountData, setAccount] = useState([]);
   const [allData, setAllData] = useState([]);
   const [dealerAccountId, setDealerAccountId] = useState("");
   const [accountLookupData, setAccountLookupData] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
   const [fundDealerAccountData, setFundDealerAccountData] = useState([]);
   const [fundAccountId, setFundAccountId] = useState("");
-  const [suggestions, setSuggestions] = useState(accountDataNames);
-
-  const [accountName, setAccountName] = useState([]);
+  const [suggestions, setSuggestions] = useState(accountData);
+  const [selectedFundId, setSelectedFundId] = useState({});
+  // const [accountName, setAccountName] = useState([]);
   const [filteredData, setFilteredData] = useState([]);
 
   const [accountInfoData, setAccountInfoData] = useState([]);
   const [accountInfo, setAccountInfo] = useState({});
   const [transactionsData, setTransactionsData] = useState([]);
 
-  const fetchAccountDataNames = async () => {
+  const fetchAccountData = async () => {
     const response = await fetch("/suncrestFiles/xx_account_info.json");
     const data = await response.json();
-    // Account_name
-    const accountNames = data.map(({ Account_name }) => Account_name);
-    setAccountNames(accountNames);
+    setAccount(data);
   };
 
   async function fetchAllData() {
@@ -60,16 +58,20 @@ export const FundProvider = ({ children }) => {
     setDealerData(dealerAccoundIds);
   };
 
-  const fetchAccountData = async () => {
-    const response = await fetch("/suncrestFiles/xx_account_lookup.json");
-    const data = await response.json();
-    setAccountLookupData(data);
-  };
+  const fetchTransactionData = async (fundId) => {
+    try {
+      const response = await fetch("/suncrestFiles/xx_transaction.json");
+      const transactionsData = await response.json();
 
-  const fetchTransactionData = async () => {
-    const response = await fetch("/suncrestFiles/xx_transaction.json");
-    const data = await response.json();
-    setTransactionsData(data);
+      const filteredTransactions = transactionsData.filter(
+        (transaction) => transaction.Fund_id == fundId
+      );
+
+      setTransactionsData(filteredTransactions);
+      console.log(filteredTransactions);
+    } catch (error) {
+      console.error("Error fetching transaction data:", error);
+    }
   };
 
   const handleSelectedAccount = (value, type) => {
@@ -99,20 +101,16 @@ export const FundProvider = ({ children }) => {
     }
   };
 
-  function getAccountInfo() {
-    accountInfoData.map((account) => {
-      if (allData.length > 0)
-        if (account.Fund_account_id == fundAccountId) {
-          setAccountInfo(account);
-        }
-    });
-  }
+  // function getTransactionsInfo(fundId) {
+  //   fetchTransactionData();
 
-  function getTransactionInfo() {
-    transactionsData.filter(
-      (transaction) => transaction.Fund_account_id == fundAccountId
-    );
-  }
+  //   const filteredTransactions = transactionsData.filter(
+  //     (transaction) => transaction.Fund_id == fundId
+  //   );
+
+  //   setTransactionsData(filteredTransactions);
+  //   console.log(filteredTransactions);
+  // }
 
   function loadDataIntoFundsTable() {
     const data = allData?.filter(
@@ -162,14 +160,20 @@ export const FundProvider = ({ children }) => {
   function handleSearchTerm(value) {
     setSearchTerm(value);
   }
-  function handleSearch(e) {
-    const value = e.target?.value.toLowerCase();
-    setSearchTerm(value);
+  function handleSearch(value) {
+    // console.log(formattedString);
 
+    if (typeof value === "object") {
+      const formattedString = `${value?.Account_name} - ${value?.Fund_account_id} - ${value?.Dealer_account_id}`;
+      setSearchTerm(formattedString);
+    }
     if (value?.length > 0) {
-      const filteredSuggestions = accountDataNames
-        .filter((suggestion) =>
-          suggestion.toLowerCase().includes(value.toLowerCase())
+      const filteredSuggestions = accountData
+        .filter(
+          (account) =>
+            account.Account_name.toLowerCase().includes(value) ||
+            account.Fund_account_id.toLowerCase().includes(value) ||
+            account.Dealer_account_id.toLowerCase().includes(value)
         )
         .slice(0, 5);
       // Limit to the first 5 suggestions
@@ -182,9 +186,19 @@ export const FundProvider = ({ children }) => {
   function handleSuggestions(suggestions) {
     setSuggestions(suggestions);
   }
+
+  function handleSelectedFundAccTable(fundId, e) {
+    // console.log(fundId, e);
+    const newSelected = {
+      ...selectedFundId,
+      [fundId]: e.target.checked, // Directly use fundId as the key
+    };
+    setSelectedFundId(newSelected);
+  }
   return (
     <FundContext.Provider
       value={{
+        selectedFundId,
         fundAccountId,
         filteredData,
         fundData,
@@ -198,12 +212,12 @@ export const FundProvider = ({ children }) => {
         fetchTransactionData,
         fetchAccountInfoData,
         dealerAccountId,
-        fetchAccountDataNames,
-        accountDataNames,
+        handleSelectedFundAccTable,
+        accountData,
         handleSelectedAccount,
         handleSelectedFundAccount,
-        getAccountInfo,
-        getTransactionInfo,
+
+        // getTransactionsInfo,
         handleSelectedDealerAccount,
 
         fetchAllData,

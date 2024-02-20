@@ -1,6 +1,7 @@
 [
   {
     "Fund_account_id": "EPC100001",
+    "Dealer_account_id": "EPC100001",
     "Account_name": "EPIC OPPORTUNISTICGP INC",
     "Account_address": "45 ST. CLAIR AVE. W, SUITE 103",
     "Account_city": "Toronto",
@@ -11,6 +12,7 @@
   },
   {
     "Fund_account_id": "EPC130715",
+    "Dealer_account_id": "EPC130715",
     "Account_name": "DENISE MACDONALD",
     "Account_address": "20 GLENVIEW AVE",
     "Account_city": "TORONTO",
@@ -21,6 +23,7 @@
   },
   {
     "Fund_account_id": "EPC011006",
+    "Dealer_account_id": "EPC011006",
     "Account_name": "LIONEL DEMERCADO",
     "Account_address": "160 SILVER ROSE CRES",
     "Account_city": "MARKHAM",
@@ -31,6 +34,7 @@
   },
   {
     "Fund_account_id": "EPC011004",
+    "Dealer_account_id": "EPC011004",
     "Account_name": "JOHN O'SULLIVAN",
     "Account_address": "21 Park St. East, Suite 1802",
     "Account_city": "Mississauga",
@@ -41,6 +45,7 @@
   },
   {
     "Fund_account_id": "EPC011409",
+    "Dealer_account_id": "EPC011409",
     "Account_name": "JSL FAMILY HOLDINGS INC",
     "Account_address": "1603 MAIN ST. W.",
     "Account_city": "HAMILTON",
@@ -51,6 +56,7 @@
   },
   {
     "Fund_account_id": "EPC011007",
+    "Dealer_account_id": "EPC011007",
     "Account_name": "ANDREW KIGUEL",
     "Account_address": "17A AVONDALE RD",
     "Account_city": "TORONTO",
@@ -61,6 +67,7 @@
   },
   {
     "Fund_account_id": "EPC011005",
+    "Dealer_account_id": "EPC011005",
     "Account_name": "CHRISTENSEN GM&P HOLDINGS",
     "Account_address": "112 HAZELTON AVE",
     "Account_city": "TORONTO",
@@ -71,6 +78,7 @@
   },
   {
     "Fund_account_id": "EPC120108",
+    "Dealer_account_id": "EPC120108",
     "Account_name": "GREG FISHER",
     "Account_address": "501 SUNDERLAND AVE SW",
     "Account_city": "CALGARY",
@@ -81,6 +89,7 @@
   },
   {
     "Fund_account_id": "EPC120111",
+    "Dealer_account_id": "EPC120111",
     "Account_name": "HIYAM JIBRY",
     "Account_address": "16 CARDIFF RD",
     "Account_city": "TORONTO",
@@ -91,6 +100,7 @@
   },
   {
     "Fund_account_id": "EPC121108",
+    "Dealer_account_id": "EPC121108",
     "Account_name": "GREG FISCHBUCH",
     "Account_address": "126 SCARBORO AVE SW",
     "Account_city": "CALGARY",
@@ -101,6 +111,7 @@
   },
   {
     "Fund_account_id": "EPCM000510",
+    "Dealer_account_id": "EPCM000510",
     "Account_name": "ROB ZAKRESKY",
     "Account_address": "Suite 700, 639 5th Ave SW",
     "Account_city": "Calgary",
@@ -111,6 +122,7 @@
   },
   {
     "Fund_account_id": "EPC120408",
+    "Dealer_account_id": "EPC120408",
     "Account_name": "SUSAN STREETER",
     "Account_address": "34 WOODLAWN AVE. WEST",
     "Account_city": "TORONTO",
@@ -121,6 +133,7 @@
   },
   {
     "Fund_account_id": "EPC011010",
+    "Dealer_account_id": "EPC011010",
     "Account_name": "GARY TANNER",
     "Account_address": "113-440 CASCIA DRIVE",
     "Account_city": "KELOWNA",
@@ -131,6 +144,7 @@
   },
   {
     "Fund_account_id": "EPCM100000",
+    "Dealer_account_id": "EPCM100000",
     "Account_name": "TAMARA BAHRY",
     "Account_address": "18 CHESTNUT PARK RD",
     "Account_city": "TORONTO",
@@ -141,6 +155,7 @@
   },
   {
     "Fund_account_id": "EPC011008",
+    "Dealer_account_id": "EPC011008",
     "Account_name": "MARTIN REYNOLDS",
     "Account_address": "5318 Glen Abbey Pl",
     "Account_city": "Delta",
@@ -151,6 +166,7 @@
   },
   {
     "Fund_account_id": "EPC011009",
+    "Dealer_account_id": "EPC011009",
     "Account_name": "GRAHAM SAUNDERS",
     "Account_address": "30 HARGRAVE LANE, UNIT #12",
     "Account_city": "TORONTO",
@@ -161,6 +177,7 @@
   },
   {
     "Fund_account_id": "EPC120208",
+    "Dealer_account_id": "EPC120208",
     "Account_name": "ROB JEPSON",
     "Account_address": "144 WOODACRES DR SW",
     "Account_city": "CALGARY",
@@ -171,6 +188,7 @@
   },
   {
     "Fund_account_id": "EPC120908",
+    "Dealer_account_id": "EPC120908",
     "Account_name": "LEE PETTIGREW",
     "Account_address": "846 RIDEAU RD SW",
     "Account_city": "CALGARY",
@@ -181,6 +199,7 @@
   },
   {
     "Fund_account_id": "EPC120508",
+    "Dealer_account_id": "EPC120508",
     "Account_name": "KEVIN WILLIAMS",
     "Account_address": "PH808-39 JARVIS STREET",
     "Account_city": "TORONTO",
@@ -191,6 +210,7 @@
   },
   {
     "Fund_account_id": "EPC130709",
+    "Dealer_account_id": "EPC130709",
     "Account_name": "HOWARD CRONE",
     "Account_address": "5623 LADBROOKE PL SW",
     "Account_city": "CALGARY",
@@ -201,6 +221,7 @@
   },
   {
     "Fund_account_id": "EPC130719",
+    "Dealer_account_id": "EPC130719",
     "Account_name": "EPIC CAPITALMANAGEMENT INC.",
     "Account_address": "45 ST. CLAIR AVE. W, SUITE 103",
     "Account_city": "Toronto",
@@ -211,6 +232,7 @@
   },
   {
     "Fund_account_id": "EPC011003",
+    "Dealer_account_id": "EPC011003",
     "Account_name": "SCOTT KAPLANIS",
     "Account_address": "58 MAPLE AVE",
     "Account_city": "TORONTO",
@@ -221,6 +243,7 @@
   },
   {
     "Fund_account_id": "EPC010707",
+    "Dealer_account_id": "EPC010707",
     "Account_name": "DAVID FAWCETT",
     "Account_address": "8 RUSSELL HILL DRIVE",
     "Account_city": "TORONTO",
@@ -231,6 +254,7 @@
   },
   {
     "Fund_account_id": "EPC011002",
+    "Dealer_account_id": "EPC011002",
     "Account_name": "ARISTIDES KAPLANIS",
     "Account_address": "155 CROSSBOW PL, #317",
     "Account_city": "CANMORE",
@@ -241,6 +265,7 @@
   },
   {
     "Fund_account_id": "EPC130708",
+    "Dealer_account_id": "EPC130708",
     "Account_name": "THEODORE DARMOS",
     "Account_address": "5899 LESLIE ST, PO BOX #23559",
     "Account_city": "NORTH YORK",
@@ -251,6 +276,7 @@
   },
   {
     "Fund_account_id": "100062",
+    "Dealer_account_id": "100062",
     "Account_name": "SUGARMAN GM&PPARTNER CORP",
     "Account_address": "167 DEWBOURNE AVE",
     "Account_city": "TORONTO",
@@ -261,6 +287,7 @@
   },
   {
     "Fund_account_id": "100045",
+    "Dealer_account_id": "100045",
     "Account_name": "MARTIN CECCHETTO",
     "Account_address": "119 EASTBOURNE AVE",
     "Account_city": "TORONTO",
@@ -271,6 +298,7 @@
   },
   {
     "Fund_account_id": "100008",
+    "Dealer_account_id": "100008",
     "Account_name": "WILLIAM WHITE",
     "Account_address": "45 Hazelton Ave, Unit B",
     "Account_city": "TORONTO",
@@ -281,6 +309,7 @@
   },
   {
     "Fund_account_id": "100015",
+    "Dealer_account_id": "100015",
     "Account_name": "TIM BARON",
     "Account_address": "226 INGLEWOOD DR.",
     "Account_city": "TORONTO",
@@ -291,6 +320,7 @@
   },
   {
     "Fund_account_id": "100029",
+    "Dealer_account_id": "50FF3B0E",
     "Account_name": "WARDEH LAWLOR",
     "Account_address": "109-340 DIXON RD",
     "Account_city": "ETOBICOKE",
@@ -301,6 +331,7 @@
   },
   {
     "Fund_account_id": "EPC130711",
+    "Dealer_account_id": "EPC130711",
     "Account_name": "LORNE SUGARMAN",
     "Account_address": "167 DEWBOURNE AVE",
     "Account_city": "TORONTO",
@@ -311,6 +342,7 @@
   },
   {
     "Fund_account_id": "100261",
+    "Dealer_account_id": "H0PNE00E",
     "Account_name": "DR SANJEEV SHARMA MEDICINE PROFESSIONAL",
     "Account_address": "1582 STAVEBANK RD",
     "Account_city": "MISSISSAUGA",
@@ -321,6 +353,7 @@
   },
   {
     "Fund_account_id": "100396",
+    "Dealer_account_id": "50FV9E0E",
     "Account_name": "KATHRINA HEALEY",
     "Account_address": "2B LAKESHORE BLVD",
     "Account_city": "KINGSTON",
@@ -331,6 +364,7 @@
   },
   {
     "Fund_account_id": "100384",
+    "Dealer_account_id": "50F6CK0A",
     "Account_name": "2066803 ONTARIO INC",
     "Account_address": "12 LAWRENCE CRES",
     "Account_city": "TORONTO",
@@ -341,6 +375,7 @@
   },
   {
     "Fund_account_id": "100393",
+    "Dealer_account_id": "40FWR20E",
     "Account_name": "ERIC DUFOUR",
     "Account_address": "202 RIVERDALE AVE",
     "Account_city": "TORONTO",
@@ -351,6 +386,7 @@
   },
   {
     "Fund_account_id": "100381",
+    "Dealer_account_id": "50FFAT0E",
     "Account_name": "BLAIR COWPER-SMITH",
     "Account_address": "62 LYTTON BLVD",
     "Account_city": "TORONTO",
@@ -361,6 +397,7 @@
   },
   {
     "Fund_account_id": "100372",
+    "Dealer_account_id": "40FUZ80E",
     "Account_name": "1391329 ONTARIO LIMITED",
     "Account_address": "ATTN HUGH CUMMING, 2532 RIDGESIDE LANE",
     "Account_city": "OAKVILLE",
@@ -371,6 +408,7 @@
   },
   {
     "Fund_account_id": "100369",
+    "Dealer_account_id": "50F6360E",
     "Account_name": "THE APPLICATION TEAM INC",
     "Account_address": "ATTN: BINDU KHOSLA, 359 LAKE PROMENADE",
     "Account_city": "ETOBICOKE",
@@ -381,6 +419,7 @@
   },
   {
     "Fund_account_id": "100366",
+    "Dealer_account_id": "41F04A0E",
     "Account_name": "SHANE CHAMBERS",
     "Account_address": "2119 WINDING WOODS DR",
     "Account_city": "OAKVILLE",
@@ -391,6 +430,7 @@
   },
   {
     "Fund_account_id": "100332",
+    "Dealer_account_id": "41F4M30E",
     "Account_name": "JEFFREY BRYCE",
     "Account_address": "40 WINSTON GROVE",
     "Account_city": "ETOBICOKE",
@@ -401,6 +441,7 @@
   },
   {
     "Fund_account_id": "100322",
+    "Dealer_account_id": "50F7EV0E",
     "Account_name": "DRMIV INC",
     "Account_address": "ATTN: DONALD MCCLURE, 338 DAVENPORT RD UNIT 102",
     "Account_city": "TORONTO",
@@ -411,6 +452,7 @@
   },
   {
     "Fund_account_id": "100304",
+    "Dealer_account_id": "40FTDU0E",
     "Account_name": "MARGARET MUIR",
     "Account_address": "25 YORKVILLE AVE 2ND FLOOR",
     "Account_city": "TORONTO",
@@ -421,6 +463,7 @@
   },
   {
     "Fund_account_id": "100278",
+    "Dealer_account_id": "H08L7F0E",
     "Account_name": "2128221 ONTARIO INC",
     "Account_address": "ATTN: KIRK COOPER, PO BOX 1461, 1204 AMBER LANE",
     "Account_city": "HALIBURTON",
@@ -431,6 +474,7 @@
   },
   {
     "Fund_account_id": "100281",
+    "Dealer_account_id": "40FPPD0E",
     "Account_name": "831857 ONTARIO INC ATTN: GORDON & MARTHA",
     "Account_address": "65 CHERITAN AVE",
     "Account_city": "TORONTO",
@@ -441,6 +485,7 @@
   },
   {
     "Fund_account_id": "100284",
+    "Dealer_account_id": "50FR7K0E",
     "Account_name": "COSIMO PANTALEO",
     "Account_address": "71 DIANA DR",
     "Account_city": "NORTH YORK",
@@ -451,6 +496,7 @@
   },
   {
     "Fund_account_id": "100268",
+    "Dealer_account_id": "50FFEZ0E",
     "Account_name": "DOUGLAS GILBERT",
     "Account_address": "16 CROWN PARK RD",
     "Account_city": "TORONTO",
@@ -461,6 +507,7 @@
   },
   {
     "Fund_account_id": "100271",
+    "Dealer_account_id": "50FRFA0A",
     "Account_name": "ALISON MCMAHON",
     "Account_address": "1315 SILVER SPEAR RD UNIT 411",
     "Account_city": "MISSISSAUGA",
@@ -471,6 +518,7 @@
   },
   {
     "Fund_account_id": "100254",
+    "Dealer_account_id": "4106H60A",
     "Account_name": "CINDY WAN",
     "Account_address": "38 BROOKFIELD ST",
     "Account_city": "TORONTO",
@@ -481,6 +529,7 @@
   },
   {
     "Fund_account_id": "100208",
+    "Dealer_account_id": "50FVE80E",
     "Account_name": "TAMARA BAHRY",
     "Account_address": "89 GLENGROVE AVE W",
     "Account_city": "TORONTO",
@@ -491,6 +540,7 @@
   },
   {
     "Fund_account_id": "100215",
+    "Dealer_account_id": "50FNK50E",
     "Account_name": "JOANNA VAN HAASTRECHT",
     "Account_address": "640 ALBION FALLS DR",
     "Account_city": "NEPEAN",
@@ -501,6 +551,7 @@
   },
   {
     "Fund_account_id": "100222",
+    "Dealer_account_id": "H0UUNF0E",
     "Account_name": "SIN YEE CHENG",
     "Account_address": "1030 CORONATION DR UNIT 1302",
     "Account_city": "LONDON",
@@ -511,6 +562,7 @@
   },
   {
     "Fund_account_id": "100231",
+    "Dealer_account_id": "50FJJW0E",
     "Account_name": "RONALD BEGG",
     "Account_address": "71 CASTLE FRANK CRES",
     "Account_city": "TORONTO",
@@ -521,6 +573,7 @@
   },
   {
     "Fund_account_id": "100198",
+    "Dealer_account_id": "H0S5L00E",
     "Account_name": "GORDON CHENG",
     "Account_address": "701 GENEVA ST SUITE 1403",
     "Account_city": "ST CATHARINES",
@@ -531,6 +584,7 @@
   },
   {
     "Fund_account_id": "100201",
+    "Dealer_account_id": "H1BVY00A",
     "Account_name": "JPB CONSULTING LIMITED",
     "Account_address": "5-4300 UPPER MIDDLE RD",
     "Account_city": "BURLINGTON",
@@ -541,6 +595,7 @@
   },
   {
     "Fund_account_id": "100177",
+    "Dealer_account_id": "H136T00E",
     "Account_name": "THOMAS HURAS",
     "Account_address": "65 CHELSEA AVE",
     "Account_city": "TORONTO",
@@ -551,6 +606,7 @@
   },
   {
     "Fund_account_id": "100184",
+    "Dealer_account_id": "50FFBT0E",
     "Account_name": "MURTAZA JAFFER",
     "Account_address": "38 O'MEARA CRT",
     "Account_city": "NORTH YORK",
@@ -561,6 +617,7 @@
   },
   {
     "Fund_account_id": "100191",
+    "Dealer_account_id": "50FGXD0A",
     "Account_name": "PATRICK CALLAGHAN",
     "Account_address": "915-225 DAVISVILLE AVE",
     "Account_city": "TORONTO",
@@ -571,6 +628,7 @@
   },
   {
     "Fund_account_id": "100170",
+    "Dealer_account_id": "610CU00A",
     "Account_name": "SHARON BLACK",
     "Account_address": "296 WINDERMERE CRT W",
     "Account_city": "LONDON",
@@ -581,6 +639,7 @@
   },
   {
     "Fund_account_id": "100165",
+    "Dealer_account_id": "41F3611A",
     "Account_name": "2383413 ONTARIO INC",
     "Account_address": "1633 GLOUCESTER ROAD",
     "Account_city": "LONDON",
@@ -591,6 +650,7 @@
   },
   {
     "Fund_account_id": "100162",
+    "Dealer_account_id": "H1E8CF0E",
     "Account_name": "J. ALEXANDER MOORE PROF. CORP. C/O BLAKE",
     "Account_address": "ATTN: ALEX MOORE, 199 BAY ST SUITE 4000",
     "Account_city": "TORONTO",
@@ -601,6 +661,7 @@
   },
   {
     "Fund_account_id": "100153",
+    "Dealer_account_id": "40FSPE0A",
     "Account_name": "PENBRIT INVESTMENTS LIMITED",
     "Account_address": "ATTN CHARLES PENSTONE, 92 CADORNA AVE",
     "Account_city": "EAST YORK",
@@ -611,6 +672,7 @@
   },
   {
     "Fund_account_id": "100134",
+    "Dealer_account_id": "61FZUP0A",
     "Account_name": "DISTEFANO MEDICINE PROFESSIONAL CORPORAT",
     "Account_address": "ATTN: MATTHEW DISTEFANO, 27303 SIDEROAD 30, RR 1",
     "Account_city": "THORNBURY",
@@ -621,6 +683,7 @@
   },
   {
     "Fund_account_id": "100088",
+    "Dealer_account_id": "40FN7B0A",
     "Account_name": "SHARON NIZNIK",
     "Account_address": "2540 DURHAM RD 20",
     "Account_city": "BOWMANVILLE",
@@ -631,6 +694,7 @@
   },
   {
     "Fund_account_id": "100091",
+    "Dealer_account_id": "H1M5TF0E",
     "Account_name": "TR O'NEILL LTD",
     "Account_address": "ATTN TED O'NEILL, #205-40 TROTT BLVD",
     "Account_city": "COLLINGWOOD",
@@ -641,6 +705,7 @@
   },
   {
     "Fund_account_id": "100101",
+    "Dealer_account_id": "50FAHW0A",
     "Account_name": "ROSS GRAY",
     "Account_address": "1476 WILDLARK DR",
     "Account_city": "PETERBOROUGH",
@@ -651,6 +716,7 @@
   },
   {
     "Fund_account_id": "100110",
+    "Dealer_account_id": "50F5AX0E",
     "Account_name": "2075239 ONTARIO LTD",
     "Account_address": "592 GLADWYNE CRT",
     "Account_city": "MISSISSAUGA",
@@ -661,6 +727,7 @@
   },
   {
     "Fund_account_id": "100425",
+    "Dealer_account_id": "H0RV1G0A",
     "Account_name": "BLAIR COWPER-SMITH",
     "Account_address": "62 LYTTON BLVD",
     "Account_city": "TORONTO",
@@ -671,6 +738,7 @@
   },
   {
     "Fund_account_id": "100408",
+    "Dealer_account_id": "H0J9700A",
     "Account_name": "DISTEFANO MEDICINE PROFESSIONAL CORPORAT",
     "Account_address": "ATTN: MATTHEW DISTEFANO, 27303 SIDEROAD 30, RR 1",
     "Account_city": "THORNBURY",
@@ -681,6 +749,7 @@
   },
   {
     "Fund_account_id": "100403",
+    "Dealer_account_id": "H1HNKG0E",
     "Account_name": "CINDY WAN",
     "Account_address": "38 BROOKFIELD ST",
     "Account_city": "TORONTO",
@@ -691,6 +760,7 @@
   },
   {
     "Fund_account_id": "EPCM000511",
+    "Dealer_account_id": "EPCM000511",
     "Account_name": "SEAN MONAGHAN",
     "Account_address": "51 Wolfwillow Lane SW",
     "Account_city": "Calgary",
@@ -701,6 +771,7 @@
   },
   {
     "Fund_account_id": "100119",
+    "Dealer_account_id": "100119",
     "Account_name": "1704870 ONTARIO LTD",
     "Account_address": "26 Taylorwood Drive.",
     "Account_city": "Etobicoke",
@@ -711,6 +782,7 @@
   },
   {
     "Fund_account_id": "100335",
+    "Dealer_account_id": "100335",
     "Account_name": "WILLIAM WRIGHT",
     "Account_address": "49 BARRACLOUGH BLVD",
     "Account_city": "GLEN WILLIAMS",
@@ -721,6 +793,7 @@
   },
   {
     "Fund_account_id": "100344",
+    "Dealer_account_id": "100344",
     "Account_name": "JIM CHRISTODOULIS",
     "Account_address": "2 Fleance Drive",
     "Account_city": "Thornhill",
@@ -731,6 +804,7 @@
   },
   {
     "Fund_account_id": "100351",
+    "Dealer_account_id": "100351",
     "Account_name": "TIMOTHY NEWINGTON",
     "Account_address": "5 MILLINGTON ST",
     "Account_city": "TORONTO",
@@ -741,6 +815,7 @@
   },
   {
     "Fund_account_id": "100354",
+    "Dealer_account_id": "100354",
     "Account_name": "KAPLANIS 2012 TRUST",
     "Account_address": "1 BROOKE AVE",
     "Account_city": "TORONTO",
@@ -751,6 +826,7 @@
   },
   {
     "Fund_account_id": "EPC011001",
+    "Dealer_account_id": "EPC011001",
     "Account_name": "JASON MEIERS",
     "Account_address": "138 ROCHESTER AVE",
     "Account_city": "TORONTO",
@@ -761,6 +837,7 @@
   },
   {
     "Fund_account_id": "100313",
+    "Dealer_account_id": "6200KQ0E",
     "Account_name": "CHRIS SALAPOUTIS",
     "Account_address": "1377 GOLDTHORPE RD",
     "Account_city": "MISSISSAUGA",
@@ -771,6 +848,7 @@
   },
   {
     "Fund_account_id": "100329",
+    "Dealer_account_id": "HP1V300E",
     "Account_name": "GAIL HEWITT-BEGG",
     "Account_address": "65 CASTLE FRANK CRES",
     "Account_city": "TORONTO",
@@ -781,6 +859,7 @@
   },
   {
     "Fund_account_id": "100292",
+    "Dealer_account_id": "HP0G700A",
     "Account_name": "SERENA CHENG",
     "Account_address": "3 HIGHBOURNE RD",
     "Account_city": "TORONTO",
@@ -791,6 +870,7 @@
   },
   {
     "Fund_account_id": "100238",
+    "Dealer_account_id": "HP0X600E",
     "Account_name": "SERENA CHENG",
     "Account_address": "3 HIGHBOURNE RD",
     "Account_city": "TORONTO",
@@ -801,6 +881,7 @@
   },
   {
     "Fund_account_id": "100247",
+    "Dealer_account_id": "3B002K0A",
     "Account_name": "HELEN BUCKNELL",
     "Account_address": "107 DOUGLAS AVE",
     "Account_city": "TORONTO",
@@ -811,6 +892,7 @@
   },
   {
     "Fund_account_id": "100143A",
+    "Dealer_account_id": "3001AQ0E",
     "Account_name": "SHAWN ASPDEN",
     "Account_address": "49 RUMSEY RD",
     "Account_city": "TORONTO",
@@ -821,6 +903,7 @@
   },
   {
     "Fund_account_id": "EPC031008",
+    "Dealer_account_id": "EPC031008",
     "Account_name": "COLIN JANG",
     "Account_address": "1003-95 BATHURST ST",
     "Account_city": "TORONTO",
@@ -831,6 +914,7 @@
   },
   {
     "Fund_account_id": "100128",
+    "Dealer_account_id": "100128",
     "Account_name": "SADIQ LALANI",
     "Account_address": "88 COULEE WAY SW",
     "Account_city": "CALGARY",
@@ -841,6 +925,7 @@
   },
   {
     "Fund_account_id": "100131",
+    "Dealer_account_id": "100131",
     "Account_name": "JAYMAT LIMITED",
     "Account_address": "PO BOX 70119, FLETCHERS MEADOW PO",
     "Account_city": "BRAMPTON",
@@ -851,6 +936,7 @@
   },
   {
     "Fund_account_id": "100359",
+    "Dealer_account_id": "HP19C00A",
     "Account_name": "SERENA CHENG ITF MACKENZIE CHENG",
     "Account_address": "3 HIGHBOURNE RD",
     "Account_city": "TORONTO",
@@ -861,6 +947,7 @@
   },
   {
     "Fund_account_id": "EPC130720",
+    "Dealer_account_id": "EPC130720",
     "Account_name": "DAYELLE FARGEY",
     "Account_address": "PO BOX, SITE 9, RR#2",
     "Account_city": "OKOTOKS",
@@ -871,6 +958,7 @@
   },
   {
     "Fund_account_id": "EPC130718",
+    "Dealer_account_id": "EPC130718",
     "Account_name": "NIKOLAOS KOUDAS",
     "Account_address": "43 HANNA AVE, UNIT 210",
     "Account_city": "TORONTO",
@@ -881,6 +969,7 @@
   },
   {
     "Fund_account_id": "EPC130717",
+    "Dealer_account_id": "EPC130717",
     "Account_name": "DAVID MORGENSTERN",
     "Account_address": "132 IMPERIAL ST",
     "Account_city": "TORONTO",
@@ -891,6 +980,7 @@
   },
   {
     "Fund_account_id": "EPC120808",
+    "Dealer_account_id": "EPC120808",
     "Account_name": "VIVIAN KE",
     "Account_address": "58 SAYBROOK AVE",
     "Account_city": "TORONTO",
@@ -901,6 +991,7 @@
   },
   {
     "Fund_account_id": "100774",
+    "Dealer_account_id": "40GY3Y0E",
     "Account_name": "DR KAREN CHIEN MEDICINE PROF COR ATTN DR",
     "Account_address": "185 BAIN AVE",
     "Account_city": "TORONTO",
@@ -911,6 +1002,7 @@
   },
   {
     "Fund_account_id": "100699",
+    "Dealer_account_id": "50GKQC1E",
     "Account_name": "MICHAEL FITZHENRY",
     "Account_address": "188 GLENCAIRN AVE",
     "Account_city": "TORONTO",
@@ -921,6 +1013,7 @@
   },
   {
     "Fund_account_id": "100599",
+    "Dealer_account_id": "H0BYT00A",
     "Account_name": "KAREN STERLING",
     "Account_address": "59 WESTGATE BLVD",
     "Account_city": "NORTH YORK",
@@ -931,6 +1024,7 @@
   },
   {
     "Fund_account_id": "100609",
+    "Dealer_account_id": "H0XPUG0A",
     "Account_name": "1687430 ONTARIO LTD ATTN: CHARLES COPELA",
     "Account_address": "1 MAPLEGLEN CRT",
     "Account_city": "WHITBY",
@@ -941,6 +1035,7 @@
   },
   {
     "Fund_account_id": "100661",
+    "Dealer_account_id": "50FSY20E",
     "Account_name": "RICHARD TRINETTI",
     "Account_address": "507-38 FONTENAY CRT",
     "Account_city": "ETOBICOKE",
@@ -951,6 +1046,7 @@
   },
   {
     "Fund_account_id": "100679",
+    "Dealer_account_id": "HP0Y200A",
     "Account_name": "MARK BEGG",
     "Account_address": "65 CASTLE FRANK CRES",
     "Account_city": "TORONTO",
@@ -961,6 +1057,7 @@
   },
   {
     "Fund_account_id": "100623",
+    "Dealer_account_id": "669094CA",
     "Account_name": "ROBIN KERBEL INVESTMENTS LIMITED",
     "Account_address": "88 DAVENPORT RD SUITE 701",
     "Account_city": "TORONTO",
@@ -971,6 +1068,7 @@
   },
   {
     "Fund_account_id": "100705",
+    "Dealer_account_id": "H1TKHG0E",
     "Account_name": "FRANK KUS",
     "Account_address": "14 CHARLESTON RD",
     "Account_city": "ETOBICOKE",
@@ -981,6 +1079,7 @@
   },
   {
     "Fund_account_id": "100682",
+    "Dealer_account_id": "H1J4TG0E",
     "Account_name": "JOCELYNE ABBOTT",
     "Account_address": "508 RIVERSIDE DR",
     "Account_city": "YORK",
@@ -991,6 +1090,7 @@
   },
   {
     "Fund_account_id": "100717",
+    "Dealer_account_id": "41GD6X0A",
     "Account_name": "173458 CANADA INC.",
     "Account_address": "ATTN: MARGARET MUIR, C/O MARIETTA ZULUETA, 25 YORKVILLE AVE 2ND FL",
     "Account_city": "TORONTO",
@@ -1001,6 +1101,7 @@
   },
   {
     "Fund_account_id": "100724",
+    "Dealer_account_id": "H0DZFG0E",
     "Account_name": "JUDITH SILVERSTEIN",
     "Account_address": "505-8 COVINGTON RD",
     "Account_city": "NORTH YORK",
@@ -1011,6 +1112,7 @@
   },
   {
     "Fund_account_id": "100446",
+    "Dealer_account_id": "50F7C80E",
     "Account_name": "SARAH COOPER",
     "Account_address": "683 CARLAW AVE",
     "Account_city": "TORONTO",
@@ -1021,6 +1123,7 @@
   },
   {
     "Fund_account_id": "100654",
+    "Dealer_account_id": "50F1130E",
     "Account_name": "JUDITH BEGG",
     "Account_address": "71 CASTLE FRANK CRES",
     "Account_city": "TORONTO",
@@ -1031,6 +1134,7 @@
   },
   {
     "Fund_account_id": "100670",
+    "Dealer_account_id": "40FYM60E",
     "Account_name": "NICOLA PANTALEO",
     "Account_address": "71 DIANA DR",
     "Account_city": "NORTH YORK",
@@ -1041,6 +1145,7 @@
   },
   {
     "Fund_account_id": "100441",
+    "Dealer_account_id": "41F64S0E",
     "Account_name": "EMPIRE FUND",
     "Account_address": "4703 5 ST SW",
     "Account_city": "CALGARY",
@@ -1051,6 +1156,7 @@
   },
   {
     "Fund_account_id": "100687",
+    "Dealer_account_id": "H0X7UG1E",
     "Account_name": "MAURICE DRUCK",
     "Account_address": "620 VESTA DR",
     "Account_city": "TORONTO",
@@ -1061,6 +1167,7 @@
   },
   {
     "Fund_account_id": "100461",
+    "Dealer_account_id": "41F66D0E",
     "Account_name": "DOUGLAS GILBERT PROFESSIONAL COR",
     "Account_address": "16 CROWN PARK RD",
     "Account_city": "TORONTO",
@@ -1071,6 +1178,7 @@
   },
   {
     "Fund_account_id": "100651",
+    "Dealer_account_id": "50FF5G0E",
     "Account_name": "NICHOLAS THOMPSON",
     "Account_address": "288 GLEN RD",
     "Account_city": "TORONTO",
@@ -1081,6 +1189,7 @@
   },
   {
     "Fund_account_id": "100560",
+    "Dealer_account_id": "H0JDA00A",
     "Account_name": "GORDON WILLCOCKS",
     "Account_address": "50 INGLEWOOD DR",
     "Account_city": "TORONTO",
@@ -1091,6 +1200,7 @@
   },
   {
     "Fund_account_id": "100477",
+    "Dealer_account_id": "4108AS0E",
     "Account_name": "EPWORTH PROPERTY CORPORATION",
     "Account_address": "ATTN: SAM GENKOV, 14 FOREST GLEN CRES",
     "Account_city": "NORTH YORK",
@@ -1101,6 +1211,7 @@
   },
   {
     "Fund_account_id": "100618",
+    "Dealer_account_id": "HP0WL00A",
     "Account_name": "ELIZABETH MAHABIR",
     "Account_address": "14 SPRINGBROOK GDNS",
     "Account_city": "ETOBICOKE",
@@ -1111,6 +1222,7 @@
   },
   {
     "Fund_account_id": "100581",
+    "Dealer_account_id": "60028R0A",
     "Account_name": "WILLIAM HEIBEIN",
     "Account_address": "1189 PARKERS POINT RD",
     "Account_city": "GRAVENHURST",
@@ -1121,6 +1233,7 @@
   },
   {
     "Fund_account_id": "100765",
+    "Dealer_account_id": "H1Q0UG0E",
     "Account_name": "SOMMER MEDICINE PROFESSIONAL CORPORATION",
     "Account_address": "187 ALBANY AVE",
     "Account_city": "TORONTO",
@@ -1131,6 +1244,7 @@
   },
   {
     "Fund_account_id": "100694",
+    "Dealer_account_id": "H1827G0E",
     "Account_name": "MANDI EPSTEIN",
     "Account_address": "16 DELORAINE AVE",
     "Account_city": "TORONTO",
@@ -1141,6 +1255,7 @@
   },
   {
     "Fund_account_id": "100590",
+    "Dealer_account_id": "H14LH00A",
     "Account_name": "KEVIN LUCES",
     "Account_address": "19 MONTROSE CRES",
     "Account_city": "WHITBY",
@@ -1151,6 +1266,7 @@
   },
   {
     "Fund_account_id": "100738",
+    "Dealer_account_id": "50GVDN0E",
     "Account_name": "YEHEZKEL ZAHAVY",
     "Account_address": "3027-80 HARRISON GARDEN BLVD",
     "Account_city": "NORTH YORK",
@@ -1161,6 +1277,7 @@
   },
   {
     "Fund_account_id": "100756",
+    "Dealer_account_id": "H0HLYG0E",
     "Account_name": "SOMMER COGAN MEDICINE PROFESSIONAL CORPO",
     "Account_address": "71 KING GEORGES RD",
     "Account_city": "ETOBICOKE",
@@ -1171,6 +1288,7 @@
   },
   {
     "Fund_account_id": "100747",
+    "Dealer_account_id": "50G9A90E",
     "Account_name": "SONIA YUNG",
     "Account_address": "2 BLANCHARD RD",
     "Account_city": "NORTH YORK",
@@ -1181,6 +1299,7 @@
   },
   {
     "Fund_account_id": "100578",
+    "Dealer_account_id": "H0UDKG0A",
     "Account_name": "RYAN LOWE",
     "Account_address": "8960 ASHBURN RD",
     "Account_city": "ASHBURN",
@@ -1191,6 +1310,7 @@
   },
   {
     "Fund_account_id": "100422",
+    "Dealer_account_id": "HP1D700A",
     "Account_name": "JENNIFER BOWEN-PRING",
     "Account_address": "3 BAYERN DR",
     "Account_city": "BROOKLIN",
@@ -1201,6 +1321,7 @@
   },
   {
     "Fund_account_id": "100570",
+    "Dealer_account_id": "41GCYK0A",
     "Account_name": "ANDREW (ROSS RAHN",
     "Account_address": "620 SIMCOE ST SS1",
     "Account_city": "NIAGARA ON THE",
@@ -1211,6 +1332,7 @@
   },
   {
     "Fund_account_id": "100626",
+    "Dealer_account_id": "50FUM00E",
     "Account_name": "ALBERT HUI",
     "Account_address": "1268 GREEN ACRES RD",
     "Account_city": "SARNIA",
@@ -1221,6 +1343,7 @@
   },
   {
     "Fund_account_id": "100573",
+    "Dealer_account_id": "H0XMPG0A",
     "Account_name": "JOSEPH VARKEY",
     "Account_address": "1918 CALLINGHAM CRT",
     "Account_city": "LONDON",
@@ -1231,6 +1354,7 @@
   },
   {
     "Fund_account_id": "100714",
+    "Dealer_account_id": "41G9Q90E",
     "Account_name": "MARTIN PARENT",
     "Account_address": "3031 CH DE BRESLAY",
     "Account_city": "MONTREAL",
@@ -1241,6 +1365,7 @@
   },
   {
     "Fund_account_id": "100432",
+    "Dealer_account_id": "41F1JV0E",
     "Account_name": "BRUCE CLARK",
     "Account_address": "9 AMOS DRIVE, UNIT 19",
     "Account_city": "GUELPH",
@@ -1251,6 +1376,7 @@
   },
   {
     "Fund_account_id": "100604",
+    "Dealer_account_id": "H1EFEG0A",
     "Account_name": "JONATHAN IZAWA",
     "Account_address": "77 GREEN ACRES DR",
     "Account_city": "LONDON",
@@ -1261,6 +1387,7 @@
   },
   {
     "Fund_account_id": "EPC011011",
+    "Dealer_account_id": "EPC011011",
     "Account_name": "MARK WELLINGS",
     "Account_address": "2 HIGHLAND AVE",
     "Account_city": "TORONTO",
@@ -1271,6 +1398,7 @@
   },
   {
     "Fund_account_id": "EPC070307",
+    "Dealer_account_id": "EPC070307",
     "Account_name": "SPRUCELAND MALL LPBY ITS GENERAL PRTNR",
     "Account_address": "1701 - 1166 ALBERNI ST",
     "Account_city": "VANCOUVER",
@@ -1281,6 +1409,7 @@
   },
   {
     "Fund_account_id": "EPC110107",
+    "Dealer_account_id": "EPC110107",
     "Account_name": "JASON MEIERS",
     "Account_address": "138 ROCHESTER AVE",
     "Account_city": "TORONTO",
@@ -1291,6 +1420,7 @@
   },
   {
     "Fund_account_id": "EPC121208",
+    "Dealer_account_id": "EPC121208",
     "Account_name": "KEN TESLIA",
     "Account_address": "PO BOX 70",
     "Account_city": "CALEDON VILLAGE",
@@ -1301,6 +1431,7 @@
   },
   {
     "Fund_account_id": "EPC120708",
+    "Dealer_account_id": "EPC120708",
     "Account_name": "HOWARD CRONE",
     "Account_address": "5623 LADBROOKE PL SW",
     "Account_city": "CALGARY",
@@ -1311,6 +1442,7 @@
   },
   {
     "Fund_account_id": "EPC300001",
+    "Dealer_account_id": "EPC300001",
     "Account_name": "WENDY JANZEN",
     "Account_address": "290 WATERFRONT DR, UNIT 603",
     "Account_city": "WINNIPEG",
@@ -1321,6 +1453,7 @@
   },
   {
     "Fund_account_id": "EPC900032",
+    "Dealer_account_id": "EPC900032",
     "Account_name": "VERSTRAETE TRAVEL &CRUISES",
     "Account_address": "300 - 14845 YONGE ST",
     "Account_city": "AURORA",
@@ -1331,6 +1464,7 @@
   },
   {
     "Fund_account_id": "EPC080207",
+    "Dealer_account_id": "EPC080207",
     "Account_name": "3821137 MANITOBA LIMITED",
     "Account_address": "180 TUXEDO AVE, UNIT 504",
     "Account_city": "WINNIPEG",
@@ -1341,6 +1475,7 @@
   },
   {
     "Fund_account_id": "EPC000001",
+    "Dealer_account_id": "EPC000001",
     "Account_name": "HIYAM JIBRY",
     "Account_address": "16 CARDIFF RD",
     "Account_city": "TORONTO",
@@ -1351,6 +1486,7 @@
   },
   {
     "Fund_account_id": "EPC100708",
+    "Dealer_account_id": "EPC100708",
     "Account_name": "WELLINGS GM&P PARTNER CORPORATION",
     "Account_address": "145 King Street W",
     "Account_city": "Toronto",
@@ -1361,6 +1497,7 @@
   },
   {
     "Fund_account_id": "EPC120407",
+    "Dealer_account_id": "EPC120407",
     "Account_name": "LYLE HUSTON",
     "Account_address": "SITE 270 COMP 26 RR",
     "Account_city": "CARVEL",
@@ -1371,6 +1508,7 @@
   },
   {
     "Fund_account_id": "EPC062907",
+    "Dealer_account_id": "EPC062907",
     "Account_name": "DALE MACMASTER",
     "Account_address": "11 WELLAND CRES",
     "Account_city": "ST. ALBERT",
@@ -1381,6 +1519,7 @@
   },
   {
     "Fund_account_id": "EPC040708",
+    "Dealer_account_id": "EPC040708",
     "Account_name": "ERNEST WEINRIB",
     "Account_address": "16 Shorncliffe Ave.",
     "Account_city": "Toronto",
@@ -1391,6 +1530,7 @@
   },
   {
     "Fund_account_id": "EPCM000594",
+    "Dealer_account_id": "EPCM000594",
     "Account_name": "BRIAN ROLFE",
     "Account_address": "1751 Pickmere Crt",
     "Account_city": "Mississauga",
@@ -1401,6 +1541,7 @@
   },
   {
     "Fund_account_id": "EPC030107",
+    "Dealer_account_id": "EPC030107",
     "Account_name": "1680167 ONTARIO LIMITED",
     "Account_address": "XX",
     "Account_city": "XX",
@@ -1411,6 +1552,7 @@
   },
   {
     "Fund_account_id": "EPC042407",
+    "Dealer_account_id": "EPC042407",
     "Account_name": "EARL M. COOPERMAN",
     "Account_address": "XX",
     "Account_city": "XX",
@@ -1421,6 +1563,7 @@
   },
   {
     "Fund_account_id": "EPC130707",
+    "Dealer_account_id": "EPC130707",
     "Account_name": "STEPHEN MILLER",
     "Account_address": "XX",
     "Account_city": "XX",
@@ -1431,6 +1574,7 @@
   },
   {
     "Fund_account_id": "EPCD10001",
+    "Dealer_account_id": "EPCD10001",
     "Account_name": "MARCELLE LEAN",
     "Account_address": "25 GEORGE ST, SUITE 401",
     "Account_city": "TORONTO",
@@ -1441,6 +1585,7 @@
   },
   {
     "Fund_account_id": "EPCD10002",
+    "Dealer_account_id": "EPCD10002",
     "Account_name": "RICHARD STONEMAN",
     "Account_address": "57 VITTORIA ROAD",
     "Account_city": "ST WILLIAMS",
@@ -1451,6 +1596,7 @@
   },
   {
     "Fund_account_id": "EPCD10003",
+    "Dealer_account_id": "EPCD10003",
     "Account_name": "TOM BUCHANAN",
     "Account_address": "67 Lynx Meadows Dr.",
     "Account_city": "Calgary",
@@ -1461,6 +1607,7 @@
   },
   {
     "Fund_account_id": "EPCD10004",
+    "Dealer_account_id": "EPCD10004",
     "Account_name": "GRAY FOWLER",
     "Account_address": "934499 Airport Road",
     "Account_city": "Mono",
@@ -1471,6 +1618,7 @@
   },
   {
     "Fund_account_id": "EPCD10005",
+    "Dealer_account_id": "EPCD10005",
     "Account_name": "STEPHEN HARRIS",
     "Account_address": "34 Rosedale Hights Drive",
     "Account_city": "Toronto",
@@ -1481,6 +1629,7 @@
   },
   {
     "Fund_account_id": "EPCD10006",
+    "Dealer_account_id": "EPCD10006",
     "Account_name": "DREW TAYLOR",
     "Account_address": "8 Fidelia Ave",
     "Account_city": "Toronto",
@@ -1491,6 +1640,7 @@
   },
   {
     "Fund_account_id": "EPCD10007",
+    "Dealer_account_id": "EPCD10007",
     "Account_name": "BOZENA GRZEGORCZYK",
     "Account_address": "1681 Bramsey Dr",
     "Account_city": "Mississauga",
@@ -1501,6 +1651,7 @@
   },
   {
     "Fund_account_id": "EPCD10008",
+    "Dealer_account_id": "EPCD10008",
     "Account_name": "BERNICE MIEDZINSKI",
     "Account_address": "300 Front St. W,, Suite 208",
     "Account_city": "Toronto",
@@ -1511,6 +1662,7 @@
   },
   {
     "Fund_account_id": "100781",
+    "Dealer_account_id": "H1JS5G0A",
     "Account_name": "1499200 ONTARIO INC",
     "Account_address": "42 KINGSPARK CRES",
     "Account_city": "LONDON",
@@ -1521,6 +1673,7 @@
   },
   {
     "Fund_account_id": "100789",
+    "Dealer_account_id": "H1777G0E",
     "Account_name": "JENNIFER HARTVIKSEN",
     "Account_address": "87 GLEN RD",
     "Account_city": "TORONTO",
@@ -1531,6 +1684,7 @@
   },
   {
     "Fund_account_id": "100798",
+    "Dealer_account_id": "H0778G0A",
     "Account_name": "1571115 ONTARIO INC",
     "Account_address": "19 ROBINSON CRT",
     "Account_city": "LONDON",
@@ -1541,6 +1695,7 @@
   },
   {
     "Fund_account_id": "100801",
+    "Dealer_account_id": "41F4KT0E",
     "Account_name": "JEFFREY BRYCE",
     "Account_address": "40 WINSTON GROVE",
     "Account_city": "ETOBICOKE",
@@ -1551,6 +1706,7 @@
   },
   {
     "Fund_account_id": "100806",
+    "Dealer_account_id": "41FBUQ0E",
     "Account_name": "2243968 ONTARIO LIMITED",
     "Account_address": "ATTN: E J WHALEY, 920-44 CHARLES ST W",
     "Account_city": "TORONTO",
@@ -1561,6 +1717,7 @@
   },
   {
     "Fund_account_id": "100845",
+    "Dealer_account_id": "50FQF10E",
     "Account_name": "EDWARD CLASPER",
     "Account_address": "78 WALBY DR",
     "Account_city": "OAKVILLE",
@@ -1571,6 +1728,7 @@
   },
   {
     "Fund_account_id": "100842",
+    "Dealer_account_id": "HP1Z9F0E",
     "Account_name": "KATHLEEN STARES",
     "Account_address": "178 OLD ORCHARD GROVE",
     "Account_city": "TORONTO",
@@ -1581,6 +1739,7 @@
   },
   {
     "Fund_account_id": "100835",
+    "Dealer_account_id": "400ZCK0A",
     "Account_name": "DAVID MORGENSTERN",
     "Account_address": "132 IMPERIAL ST",
     "Account_city": "TORONTO",
@@ -1591,6 +1750,7 @@
   },
   {
     "Fund_account_id": "100819",
+    "Dealer_account_id": "50FF990A",
     "Account_name": "PATRICIA PALERMO",
     "Account_address": "2012-2000 ISLINGTON AVE",
     "Account_city": "ETOBICOKE",
@@ -1601,6 +1761,7 @@
   },
   {
     "Fund_account_id": "100828",
+    "Dealer_account_id": "41F8W80E",
     "Account_name": "PHILIP HEALEY PROFESSIONAL CORPORATION",
     "Account_address": "120 ADELAIDE ST W SUITE 2500",
     "Account_city": "TORONTO",
@@ -1611,6 +1772,7 @@
   },
   {
     "Fund_account_id": "100784",
+    "Dealer_account_id": "41GE020E",
     "Account_name": "KENNETH POSTILL",
     "Account_address": "28 SIR LANCELOT DR",
     "Account_city": "MARKHAM",
@@ -1621,6 +1783,7 @@
   },
   {
     "Fund_account_id": "100811",
+    "Dealer_account_id": "H09P3G0A",
     "Account_name": "JEAN GRIFFITHS",
     "Account_address": "5958 16TH AVE SUITE 134",
     "Account_city": "MARKHAM",
@@ -1631,6 +1794,7 @@
   },
   {
     "Fund_account_id": "100816",
+    "Dealer_account_id": "H0NQNG0A",
     "Account_name": "PATRICK CALLAGHAN",
     "Account_address": "915-225 DAVISVILLE AVE",
     "Account_city": "TORONTO",
@@ -1641,6 +1805,7 @@
   },
   {
     "Fund_account_id": "100854",
+    "Dealer_account_id": "H06JKG0A",
     "Account_name": "BLAIR COWPER-SMITH",
     "Account_address": "62 LYTTON BLVD",
     "Account_city": "TORONTO",
@@ -1651,6 +1816,7 @@
   },
   {
     "Fund_account_id": "100633",
+    "Dealer_account_id": "H0EE4G0E",
     "Account_name": "WARDEH LAWLOR",
     "Account_address": "340 DIXON RD APT 109",
     "Account_city": "ETOBICOKE",
@@ -1661,6 +1827,7 @@
   },
   {
     "Fund_account_id": "100454",
+    "Dealer_account_id": "41GBZF0E",
     "Account_name": "MARGARET MUIR",
     "Account_address": "25 YORKVILLE AVE 2ND FLOOR",
     "Account_city": "TORONTO",
@@ -1671,6 +1838,7 @@
   },
   {
     "Fund_account_id": "100861",
+    "Dealer_account_id": "41GECD0A",
     "Account_name": "PATRICIA PALERMO",
     "Account_address": "2012-2000 ISLINGTON AVE",
     "Account_city": "ETOBICOKE",
@@ -1681,6 +1849,7 @@
   },
   {
     "Fund_account_id": "100900",
+    "Dealer_account_id": "50FMXM0A",
     "Account_name": "ROSS GRAY",
     "Account_address": "1476 WILDLARK DR",
     "Account_city": "PETERBOROUGH",
@@ -1691,6 +1860,7 @@
   },
   {
     "Fund_account_id": "100920",
+    "Dealer_account_id": "41FGEW0E",
     "Account_name": "HEATHER CHAMBERS",
     "Account_address": "33 CARDIGAN STREET, #809",
     "Account_city": "GUELPH",
@@ -1701,6 +1871,7 @@
   },
   {
     "Fund_account_id": "100921",
+    "Dealer_account_id": "100921",
     "Account_name": " IZZY GALLERY",
     "Account_address": "1255 Bay Street, Unit 102",
     "Account_city": "TORONTO",
@@ -1711,6 +1882,7 @@
   },
   {
     "Fund_account_id": "100005",
+    "Dealer_account_id": "100005",
     "Account_name": "SCOTT LAMACRAFT",
     "Account_address": "15 WYCHWOOD PARK",
     "Account_city": "TORONTO",
@@ -1721,6 +1893,7 @@
   },
   {
     "Fund_account_id": "EPC120608",
+    "Dealer_account_id": "EPC120608",
     "Account_name": "MICHAEL BESTER",
     "Account_address": "77 Charles St W, Suite 1205",
     "Account_city": "TORONTO",
@@ -1731,6 +1904,7 @@
   },
   {
     "Fund_account_id": "100940",
+    "Dealer_account_id": "41GFM70E",
     "Account_name": "MURTAZA JAFFER",
     "Account_address": "38 O'MEARA CRT",
     "Account_city": "NORTHYORK",
@@ -1741,6 +1915,7 @@
   },
   {
     "Fund_account_id": "100960",
+    "Dealer_account_id": "H1BM4G0E",
     "Account_name": "BRUCE CLARK",
     "Account_address": "9 AMOS DRIVE, UNIT 19",
     "Account_city": "GUELPH",
@@ -1751,6 +1926,7 @@
   },
   {
     "Fund_account_id": "100980",
+    "Dealer_account_id": "H05N8G0E",
     "Account_name": "PHILIP HEALEY PROFESSIONAL CORPORATION",
     "Account_address": "8 LAKESHORE BLVD",
     "Account_city": "KINGSTON",
@@ -1761,6 +1937,7 @@
   },
   {
     "Fund_account_id": "100981",
+    "Dealer_account_id": "H01QVG0E",
     "Account_name": "KATHRINA HEALEY",
     "Account_address": "2B LAKESHORE BLVD",
     "Account_city": "KINGSTON",
@@ -1771,6 +1948,7 @@
   },
   {
     "Fund_account_id": "101000",
+    "Dealer_account_id": "H1BK6G0E",
     "Account_name": "ALBERT HUI",
     "Account_address": "1268 GREEN ACRES RD",
     "Account_city": "SARNIA",
@@ -1781,6 +1959,7 @@
   },
   {
     "Fund_account_id": "101020",
+    "Dealer_account_id": "H0YAHG0A",
     "Account_name": "2066803 ONTARIO INC",
     "Account_address": "12 LAWRENCE CRES",
     "Account_city": "TORONTO",
@@ -1791,6 +1970,7 @@
   },
   {
     "Fund_account_id": "101040",
+    "Dealer_account_id": "H1GA1F0A",
     "Account_name": "COSIMO PANTALEO",
     "Account_address": "71 DIANA DR",
     "Account_city": "NORTH YORK",
@@ -1801,6 +1981,7 @@
   },
   {
     "Fund_account_id": "101041",
+    "Dealer_account_id": "41F93V0A",
     "Account_name": "ROBERT C HARASON PROFESSIONAL CORPORATIO",
     "Account_address": "310 BENITA CRT",
     "Account_city": "OAKVILLE",
@@ -1811,6 +1992,7 @@
   },
   {
     "Fund_account_id": "101042",
+    "Dealer_account_id": "H0JZXG0A",
     "Account_name": "ANDREW SHARP",
     "Account_address": "288 SOUTHVIEW ROAD",
     "Account_city": "OAKVILLE",
@@ -1821,6 +2003,7 @@
   },
   {
     "Fund_account_id": "101043",
+    "Dealer_account_id": "H0DZDG0A",
     "Account_name": "MEGAN SHARP",
     "Account_address": "288 SOUTHVIEW ROAD",
     "Account_city": "OAKVILLE",
@@ -1831,6 +2014,7 @@
   },
   {
     "Fund_account_id": "101044",
+    "Dealer_account_id": "61GE8B0A",
     "Account_name": "LETITIA KUAN",
     "Account_address": "38 ANNESLEY AVE",
     "Account_city": "EAST YORK",
@@ -1841,6 +2025,7 @@
   },
   {
     "Fund_account_id": "101045",
+    "Dealer_account_id": "H0X79G0A",
     "Account_name": "MARILYN CUKIER",
     "Account_address": "476 DOUGLAS AVE",
     "Account_city": "NORTH YORK",
@@ -1851,6 +2036,7 @@
   },
   {
     "Fund_account_id": "101046",
+    "Dealer_account_id": "62G0070A",
     "Account_name": "RHODES FAMILY TRUST  2010",
     "Account_address": "ATTN: HOLDEN RHODES, 1633 GLOUCESTER RD",
     "Account_city": "LONDON",
@@ -1861,6 +2047,7 @@
   },
   {
     "Fund_account_id": "101047",
+    "Dealer_account_id": "41GAUQ0A",
     "Account_name": "JONATHAN I IZAWA MEDICINE PROFESSIONAL C",
     "Account_address": "77 GREEN ACRES DR",
     "Account_city": "LONDON",
@@ -1871,6 +2058,7 @@
   },
   {
     "Fund_account_id": "101048",
+    "Dealer_account_id": "H1RDSG0E",
     "Account_name": "REBECCA MILLER",
     "Account_address": "43 WEBSTER ST",
     "Account_city": "DUNDAS",
@@ -1881,6 +2069,7 @@
   },
   {
     "Fund_account_id": "101049",
+    "Dealer_account_id": "H0J9NG0A",
     "Account_name": "YVONNE BAYER",
     "Account_address": "154 DELAWARE AVE 2ND FLOOR",
     "Account_city": "TORONTO",
@@ -1891,6 +2080,7 @@
   },
   {
     "Fund_account_id": "101050",
+    "Dealer_account_id": "H0LQPG0A",
     "Account_name": "DR PAUL MILLER MEDICINE PROFESSIONAL COR",
     "Account_address": "43 WEBSTER ST",
     "Account_city": "DUNDAS",
@@ -1901,6 +2091,7 @@
   },
   {
     "Fund_account_id": "101052",
+    "Dealer_account_id": "H1RA9G0A",
     "Account_name": "ALEXANDRIA ( ADAMS",
     "Account_address": "25 GOWER ST",
     "Account_city": "ST. JOHN'S",
@@ -1911,6 +2102,7 @@
   },
   {
     "Fund_account_id": "101053",
+    "Dealer_account_id": "50FUQU0E",
     "Account_name": "CHRISTOPHER HUGH",
     "Account_address": "3875 TRELAWNY CIR",
     "Account_city": "MISSISSAUGA",
@@ -1921,6 +2113,7 @@
   },
   {
     "Fund_account_id": "101054",
+    "Dealer_account_id": "H0FQPG0A",
     "Account_name": "LETITIA KUAN",
     "Account_address": "38 ANNESLEY AVE",
     "Account_city": "EAST YORK",
@@ -1931,6 +2124,7 @@
   },
   {
     "Fund_account_id": "101056",
+    "Dealer_account_id": "3752858617",
     "Account_name": "PROFESSIONAL GEROLD GOLDLIST",
     "Account_address": "CORPORATION, ATTN GEROLD GOLDLIST, 139 STRATHEARN ROAD",
     "Account_city": "TORONTO",
@@ -1941,6 +2135,7 @@
   },
   {
     "Fund_account_id": "101057",
+    "Dealer_account_id": "410KMK0A",
     "Account_name": "KELLY WHALEY SENIKE",
     "Account_address": "2419 TORQUAY CRT",
     "Account_city": "BURLINGTON",
@@ -1951,6 +2146,7 @@
   },
   {
     "Fund_account_id": "101058",
+    "Dealer_account_id": "500FCW0A",
     "Account_name": "KIRK PINKOWSKI",
     "Account_address": "308 GAINSBOROUGH RD",
     "Account_city": "TORONTO",
@@ -1961,6 +2157,7 @@
   },
   {
     "Fund_account_id": "101059",
+    "Dealer_account_id": "40FXSY0E",
     "Account_name": "JERALD SHUMAN INVESTMENTS LTD ATTN JERAL",
     "Account_address": "336 SPADINA RD SUITE 602",
     "Account_city": "TORONTO",
@@ -1971,6 +2168,7 @@
   },
   {
     "Fund_account_id": "101060",
+    "Dealer_account_id": "500GWF0A",
     "Account_name": "PATRICK CALLAGHAN",
     "Account_address": "915-225 DAVISVILLE AVE",
     "Account_city": "TORONTO",
@@ -1981,6 +2179,7 @@
   },
   {
     "Fund_account_id": "101088",
+    "Dealer_account_id": "H0ZCN00A",
     "Account_name": "DANETTE KRUSKY",
     "Account_address": "PO BOX 861",
     "Account_city": "BRAGG CREEK",
@@ -1991,6 +2190,7 @@
   },
   {
     "Fund_account_id": "101106",
+    "Dealer_account_id": "H0X17G0E",
     "Account_name": "ESSIONAL CORPORATIONDOUGLAS GILBERT PROF",
     "Account_address": "16 CROWN PARK RD",
     "Account_city": "TORONTO",
@@ -2001,6 +2201,7 @@
   },
   {
     "Fund_account_id": "101118",
+    "Dealer_account_id": "410JZH0A",
     "Account_name": "LEY ALTER EGO TRUSTTHE EDWIN JOSEPH WHA",
     "Account_address": "C/O RAYMOND RENDER, PO BOX 435",
     "Account_city": "LAKEFIELD",
@@ -2011,6 +2212,7 @@
   },
   {
     "Fund_account_id": "101121",
+    "Dealer_account_id": "H14WGG0A",
     "Account_name": "SHARON BLACK",
     "Account_address": "296 WINDERMERE CRT W",
     "Account_city": "LONDON",
@@ -2021,6 +2223,7 @@
   },
   {
     "Fund_account_id": "101122",
+    "Dealer_account_id": "H0PB0G1E",
     "Account_name": "DAVID MORGENSTERN",
     "Account_address": "27 FOXBAR RD",
     "Account_city": "TORONTO",
@@ -2031,6 +2234,7 @@
   },
   {
     "Fund_account_id": "101123",
+    "Dealer_account_id": "3702665120",
     "Account_name": "CHRIS SALAPOUTIS",
     "Account_address": "1377 GOLDTHORPE RD",
     "Account_city": "MISSISSAUGA",
@@ -2041,6 +2245,7 @@
   },
   {
     "Fund_account_id": "101129",
+    "Dealer_account_id": "H1KR5G0E",
     "Account_name": "SARAH COOPER",
     "Account_address": "683 CARLAW AVE",
     "Account_city": "TORONTO",
@@ -2051,6 +2256,7 @@
   },
   {
     "Fund_account_id": "101132",
+    "Dealer_account_id": "6CLARME",
     "Account_name": "EVA ZAHAVY",
     "Account_address": "3027-80 HARRISON GARDEN BLVD",
     "Account_city": "NORTH YORK",
@@ -2061,6 +2267,7 @@
   },
   {
     "Fund_account_id": "101135",
+    "Dealer_account_id": "1KN1L0A0",
     "Account_name": "ROBIN KERBEL INVESTMENTS LIMITED",
     "Account_address": "88 DAVENPORT RD SUITE 701",
     "Account_city": "TORONTO",
@@ -2071,6 +2278,7 @@
   },
   {
     "Fund_account_id": "EPC101163",
+    "Dealer_account_id": "EPC101163",
     "Account_name": "DAVIDA ARONOVITCH",
     "Account_address": "58 MAPLE AVE",
     "Account_city": "TORONTO",
@@ -2081,6 +2289,7 @@
   },
   {
     "Fund_account_id": "101164",
+    "Dealer_account_id": "1KN1LMA0",
     "Account_name": "ENTS LIMITEDROBIN KERBEL INVESTM",
     "Account_address": "88 DAVENPORT RD SUITE 701",
     "Account_city": "TORONTO",
@@ -2091,6 +2300,7 @@
   },
   {
     "Fund_account_id": "101174",
+    "Dealer_account_id": "H0ZCNG0E",
     "Account_name": "DANETTE KRUSKY",
     "Account_address": "PO BOX 861",
     "Account_city": "BRAGG CREEK",
@@ -2101,6 +2311,7 @@
   },
   {
     "Fund_account_id": "101209",
+    "Dealer_account_id": "",
     "Account_name": "THE APPLICATION TEAM",
     "Account_address": "ATTN: BINDU KHOSLA, 359 LAKE PROMENADE",
     "Account_city": "ETOBICOKE",
@@ -2111,6 +2322,7 @@
   },
   {
     "Fund_account_id": "101213",
+    "Dealer_account_id": "1NETHVA0",
     "Account_name": "SERENA CHENG ITF MACKENZIE CHENG",
     "Account_address": "3 HIGHBOURNE RD",
     "Account_city": "TORONTO",
@@ -2121,6 +2333,7 @@
   },
   {
     "Fund_account_id": "101078",
+    "Dealer_account_id": "1HSMZVA0",
     "Account_name": "MICHAEL FITZHENRY",
     "Account_address": "188 GLENCAIRN AVE",
     "Account_city": "TORONTO",
@@ -2131,6 +2344,7 @@
   },
   {
     "Fund_account_id": "EPC121008",
+    "Dealer_account_id": "EPC121008",
     "Account_name": "DAVID CORNHILL",
     "Account_address": "125 26 AVE SW",
     "Account_city": "CALGARY",
@@ -2141,6 +2355,7 @@
   },
   {
     "Fund_account_id": "101090",
+    "Dealer_account_id": "H1DFAF0E",
     "Account_name": "NEILL KALVIN PROFESSIONAL CORP",
     "Account_address": "ATTN: MR NEILL KALVIN, 625 RUSHTON ROAD",
     "Account_city": "YORK",
@@ -2151,6 +2366,7 @@
   },
   {
     "Fund_account_id": "101114",
+    "Dealer_account_id": "H0X1YG0A",
     "Account_name": "JORDON CHEUNG",
     "Account_address": "3026 10 ST SW",
     "Account_city": "CALGARY",
@@ -2161,6 +2377,7 @@
   },
   {
     "Fund_account_id": "EPCD10014",
+    "Dealer_account_id": "EPCD10014",
     "Account_name": "SHEILSCOTT HOLDINGS INC.",
     "Account_address": "17 Stratheden Dr.",
     "Account_city": "Toronto",
@@ -2171,6 +2388,7 @@
   },
   {
     "Fund_account_id": "101120",
+    "Dealer_account_id": "410KMK0E",
     "Account_name": "KELLY WHALEY SENIKE",
     "Account_address": "2419 TORQUAY CRT",
     "Account_city": "BURLINGTON",
@@ -2181,6 +2399,7 @@
   },
   {
     "Fund_account_id": "101131",
+    "Dealer_account_id": "H10ENG0A",
     "Account_name": "ROSS GRAY",
     "Account_address": "1476 WILDLARK DR",
     "Account_city": "PETERBOROUGH",
@@ -2191,6 +2410,7 @@
   },
   {
     "Fund_account_id": "EPC120110",
+    "Dealer_account_id": "EPC120110",
     "Account_name": "RUTNAISH PRIHAR",
     "Account_address": "1395 CONSTANCE DRIVE",
     "Account_city": "OAKVILLE",
@@ -2201,6 +2421,7 @@
   },
   {
     "Fund_account_id": "EPC130710",
+    "Dealer_account_id": "EPC130710",
     "Account_name": "FELICITY BANNISTER",
     "Account_address": "65 SUMMERHILL AVE",
     "Account_city": "TORONTO",
@@ -2211,6 +2432,7 @@
   },
   {
     "Fund_account_id": "EPC130712",
+    "Dealer_account_id": "EPC130712",
     "Account_name": "FELICITY BANNISTER",
     "Account_address": "65 SUMMERHILL AVE",
     "Account_city": "TORONTO",
@@ -2221,6 +2443,7 @@
   },
   {
     "Fund_account_id": "100083",
+    "Dealer_account_id": "50FHEC0E",
     "Account_name": "KENNETH POSTILL",
     "Account_address": "28 SIR LANCELOT DR",
     "Account_city": "MARKHAM",
@@ -2231,6 +2454,7 @@
   },
   {
     "Fund_account_id": "EPCM000910",
+    "Dealer_account_id": "EPCM000910",
     "Account_name": "DAN TSUBOUCHI",
     "Account_address": "639 SIFTON BLVD. SW",
     "Account_city": "CALGARY",
@@ -2241,6 +2465,7 @@
   },
   {
     "Fund_account_id": "EPC120308",
+    "Dealer_account_id": "EPC120308",
     "Account_name": "RICHARD ELDER",
     "Account_address": "21 GLENALLAN RD",
     "Account_city": "TORONTO",
@@ -2251,6 +2476,7 @@
   },
   {
     "Fund_account_id": "100642",
+    "Dealer_account_id": "50FFA80A",
     "Account_name": "D. GRIFFITHS",
     "Account_address": "19 SOMERDALE SQ",
     "Account_city": "SCARBOROUGH",
@@ -2261,6 +2487,7 @@
   },
   {
     "Fund_account_id": "100470",
+    "Dealer_account_id": "40FSZE0E",
     "Account_name": "GAYLE SHUMAN",
     "Account_address": "#602-336 SPADINA RD",
     "Account_city": "TORONTO",
@@ -2271,6 +2498,7 @@
   },
   {
     "Fund_account_id": "EPC101906",
+    "Dealer_account_id": "EPC101906",
     "Account_name": "FERNMAR ENTERPRISES LIMITED",
     "Account_address": "212-3181 BAYVIEW AVE",
     "Account_city": "NORTH YORK",
@@ -2281,6 +2509,7 @@
   },
   {
     "Fund_account_id": "EPC300000",
+    "Dealer_account_id": "EPC300000",
     "Account_name": "AVENIR CC FINANCE INC",
     "Account_address": "300-808 1ST ST SW",
     "Account_city": "CALGARY",
@@ -2291,6 +2520,7 @@
   },
   {
     "Fund_account_id": "100287",
+    "Dealer_account_id": "40FMDF0E",
     "Account_name": "1758049 ONTARIO INC",
     "Account_address": "ATTN ROBERT MANTROP, 634843 PRETTY RIVER RD",
     "Account_city": "NOTTAWA",
@@ -2301,6 +2531,7 @@
   },
   {
     "Fund_account_id": "100150",
+    "Dealer_account_id": "H0RQ6G0A",
     "Account_name": "LUCES MEDICINE PROFESSIONAL CORPORATION",
     "Account_address": "19 MONTROSE CRES",
     "Account_city": "WHITBY",
@@ -2311,6 +2542,7 @@
   },
   {
     "Fund_account_id": "100731",
+    "Dealer_account_id": "H00RSG0E",
     "Account_name": "MITCHELL SPIVAK PROFESSIONAL CORPORATION",
     "Account_address": "111 PUMP HILL DR SW",
     "Account_city": "CALGARY",
@@ -2321,6 +2553,7 @@
   },
   {
     "Fund_account_id": "100702",
+    "Dealer_account_id": "H06P1G0E",
     "Account_name": "RUSSELL HOLLINS MEDICINE PROFESSIONAL CO",
     "Account_address": "121 QUEEN ST SUITE 206",
     "Account_city": "KINGSTON",
@@ -2331,6 +2564,7 @@
   },
   {
     "Fund_account_id": "EPCD10009",
+    "Dealer_account_id": "EPCD10009",
     "Account_name": "TRALEE INVESTMENTS",
     "Account_address": "36 Toronto St,, Suite 750",
     "Account_city": "Toronto",
@@ -2341,6 +2575,7 @@
   },
   {
     "Fund_account_id": "101051",
+    "Dealer_account_id": "H1BVYG0A",
     "Account_name": "JPB CONSULTING LIMITED ATTN JOHN BOZEK",
     "Account_address": "5-4300 UPPER MIDDLE RD",
     "Account_city": "BURLINGTON",
@@ -2351,6 +2586,7 @@
   },
   {
     "Fund_account_id": "101134",
+    "Dealer_account_id": "6DHXRYA",
     "Account_name": "ANDREW (ROSS RAHN",
     "Account_address": "620 SIMCOE ST SS1",
     "Account_city": "NIAGARA ON THE",
@@ -2361,6 +2597,7 @@
   },
   {
     "Fund_account_id": "101136",
+    "Dealer_account_id": "H0LH7F0E",
     "Account_name": "GAYLE SHUMAN",
     "Account_address": "336 SPADINA RD SUITE 602",
     "Account_city": "TORONTO",
@@ -2371,6 +2608,7 @@
   },
   {
     "Fund_account_id": "EPCD10015",
+    "Dealer_account_id": "EPCD10015",
     "Account_name": "TOWNSEND VENTURES INC.",
     "Account_address": "736 33A ST NW",
     "Account_city": "CALGARY",
@@ -2381,6 +2619,7 @@
   },
   {
     "Fund_account_id": "101150",
+    "Dealer_account_id": "H1SLA00E",
     "Account_name": "MKD HOLDINGS INC.",
     "Account_address": "227 HADDINGTON AVE",
     "Account_city": "TORONTO",
@@ -2391,6 +2630,7 @@
   },
   {
     "Fund_account_id": "101158",
+    "Dealer_account_id": "H0YHVG0A",
     "Account_name": "1991250 ONTARIO INC",
     "Account_address": "ATTN: HOLDEN RHODES, 1633 GLOUCESTER RD",
     "Account_city": "LONDON",
@@ -2401,6 +2641,7 @@
   },
   {
     "Fund_account_id": "101159",
+    "Dealer_account_id": "H16BYG1A",
     "Account_name": "2010RHODES FAMILY TRUST ",
     "Account_address": "ATTN: HOLDEN RHODES, 1633 GLOUCESTER RD",
     "Account_city": "LONDON",
@@ -2411,6 +2652,7 @@
   },
   {
     "Fund_account_id": "101161",
+    "Dealer_account_id": "H0HFYG0E",
     "Account_name": "DONNA THOMPSON",
     "Account_address": "288 GLEN RD",
     "Account_city": "TORONTO",
@@ -2421,6 +2663,7 @@
   },
   {
     "Fund_account_id": "101162",
+    "Dealer_account_id": "H18W3G0E",
     "Account_name": "NICHOLAS THOMPSON",
     "Account_address": "10 DELISLE AVE UNIT 904",
     "Account_city": "TORONTO",
@@ -2431,6 +2674,7 @@
   },
   {
     "Fund_account_id": "101166",
+    "Dealer_account_id": "42FBHS0E",
     "Account_name": "THE APPTEAM INVESTMENT INC.",
     "Account_address": "359 LAKE PROMENADE",
     "Account_city": "TORONTO",
@@ -2441,6 +2685,7 @@
   },
   {
     "Fund_account_id": "101170",
+    "Dealer_account_id": "H0PX2G0E",
     "Account_name": "S PAULINE POSTILL",
     "Account_address": "28 SIR LANCELOT DR",
     "Account_city": "MARKHAM",
@@ -2451,6 +2696,7 @@
   },
   {
     "Fund_account_id": "101173",
+    "Dealer_account_id": "H1WG600A",
     "Account_name": "THE ESTATE OF MAURICE DRUCK",
     "Account_address": "620 VESTA DRIVE",
     "Account_city": "TORONTO",
@@ -2461,6 +2707,7 @@
   },
   {
     "Fund_account_id": "101079",
+    "Dealer_account_id": "41FEFK0E",
     "Account_name": "MARK BERTSCHMANN",
     "Account_address": "223 KINGSWOOD RD",
     "Account_city": "TORONTO",
@@ -2471,6 +2718,7 @@
   },
   {
     "Fund_account_id": "101089",
+    "Dealer_account_id": "50F9AQ0E",
     "Account_name": "NEILL KALVIN",
     "Account_address": "625 RUSHTON ROAD",
     "Account_city": "YORK",
@@ -2481,6 +2729,7 @@
   },
   {
     "Fund_account_id": "101146",
+    "Dealer_account_id": "3702814710",
     "Account_name": "PATRICK LUNDY",
     "Account_address": "1157 KANE RD",
     "Account_city": "MISSISSAUGA",
@@ -2491,6 +2740,7 @@
   },
   {
     "Fund_account_id": "101176",
+    "Dealer_account_id": "1N6QRVE0",
     "Account_name": "SIN YEE CHENG",
     "Account_address": "1030 CORONATION DR UNIT 1302",
     "Account_city": "LONDON",
@@ -2501,6 +2751,7 @@
   },
   {
     "Fund_account_id": "101177",
+    "Dealer_account_id": "1N6RAVE0",
     "Account_name": "GORDON CHENG",
     "Account_address": "701 GENEVA ST SUITE 1403",
     "Account_city": "ST CATHARINES",
@@ -2511,6 +2762,7 @@
   },
   {
     "Fund_account_id": "101178",
+    "Dealer_account_id": "H06P100A",
     "Account_name": "CINE PROFESSIONAL CORUSSELL HOLLINS MEDI",
     "Account_address": "ATTN: DR. RUSSELL HOLLINS, 121 QUEEN ST SUITE 206",
     "Account_city": "KINGSTON",
@@ -2521,6 +2773,7 @@
   },
   {
     "Fund_account_id": "101187",
+    "Dealer_account_id": "1N74CVE0",
     "Account_name": "ANNE-MARIE CRISTIANO",
     "Account_address": "95 PRINCE ARTHUR AVE UNIT 320",
     "Account_city": "TORONTO",
@@ -2531,6 +2784,7 @@
   },
   {
     "Fund_account_id": "101197",
+    "Dealer_account_id": "1N6JRVE0",
     "Account_name": "JEAN GRIFFITHS",
     "Account_address": "5958 16TH AVE SUITE 134",
     "Account_city": "MARKHAM",
@@ -2541,6 +2795,7 @@
   },
   {
     "Fund_account_id": "101198",
+    "Dealer_account_id": "6C7NQ8E",
     "Account_name": "TANGANYIKA INC",
     "Account_address": "ATTN: MARGARET MUIR, 36 HAZELTON AVE UNIT 2B",
     "Account_city": "TORONTO",
@@ -2551,6 +2806,7 @@
   },
   {
     "Fund_account_id": "101211",
+    "Dealer_account_id": "1NB66ME0",
     "Account_name": "ROBIN KERBEL",
     "Account_address": "GUARANTOR, 1148 1000 ROAD",
     "Account_city": "GRAVENHURST",
@@ -2561,6 +2817,7 @@
   },
   {
     "Fund_account_id": "101212",
+    "Dealer_account_id": "1NEQ8VE0",
     "Account_name": "SERENA CHENG",
     "Account_address": "3 HIGHBOURNE RD",
     "Account_city": "TORONTO",
@@ -2571,6 +2828,7 @@
   },
   {
     "Fund_account_id": "101214",
+    "Dealer_account_id": "1N7GMVE0",
     "Account_name": "DONNA THOMPSON",
     "Account_address": "288 GLEN RD",
     "Account_city": "TORONTO",
@@ -2581,6 +2839,7 @@
   },
   {
     "Fund_account_id": "101221",
+    "Dealer_account_id": "MDS98A02",
     "Account_name": "JEFFREY WEINGARTEN",
     "Account_address": "45 WOODYCREST AVE",
     "Account_city": "TORONTO",
@@ -2591,6 +2850,7 @@
   },
   {
     "Fund_account_id": "EPC220506",
+    "Dealer_account_id": "EPC220506",
     "Account_name": "Epic International Subscriptions LP",
     "Account_address": "45 St. Clair Ave W., Suite 103",
     "Account_city": "Toronto",
@@ -2601,6 +2861,7 @@
   },
   {
     "Fund_account_id": "101222",
+    "Dealer_account_id": "MDS97S02",
     "Account_name": "JUDITH SILVERSTEIN",
     "Account_address": "505-8 COVINGTON RD",
     "Account_city": "NORTH YORK",
@@ -2611,6 +2872,7 @@
   },
   {
     "Fund_account_id": "101223",
+    "Dealer_account_id": "MDS96802",
     "Account_name": "IONAL CORPNEILL KALVIN PROFESS",
     "Account_address": "ATTN: MR NEILL KALVIN, 625 RUSHTON RD",
     "Account_city": "YORK",
@@ -2621,6 +2883,7 @@
   },
   {
     "Fund_account_id": "101225",
+    "Dealer_account_id": "1N7M5VE0",
     "Account_name": "CINDY WAN",
     "Account_address": "247 CONLEY ST",
     "Account_city": "THORNHILL",
@@ -2631,6 +2894,7 @@
   },
   {
     "Fund_account_id": "101226",
+    "Dealer_account_id": "MDS9BD02",
     "Account_name": "MITCHELL SPIVAK PROFESSIONAL CORPORATION",
     "Account_address": "111 PUMP HILL DR SW",
     "Account_city": "CALGARY",
@@ -2641,6 +2905,7 @@
   },
   {
     "Fund_account_id": "101230",
+    "Dealer_account_id": "1NPQZVA0",
     "Account_name": "SERENA CHENG",
     "Account_address": "3 HIGHBOURNE RD",
     "Account_city": "TORONTO",
@@ -2651,6 +2916,7 @@
   },
   {
     "Fund_account_id": "101063",
+    "Dealer_account_id": "6DHXRYA",
     "Account_name": "ANDREW (ROSS RAHN",
     "Account_address": "620 SIMCOE ST SS1",
     "Account_city": "NIAGARA ON THE",
@@ -2661,6 +2927,7 @@
   },
   {
     "Fund_account_id": "101105",
+    "Dealer_account_id": "H1F76G0E",
     "Account_name": "DOUGLAS GILBERT",
     "Account_address": "16 CROWN PARK RD",
     "Account_city": "TORONTO",
@@ -2671,6 +2938,7 @@
   },
   {
     "Fund_account_id": "101066",
+    "Dealer_account_id": "H091YG1E",
     "Account_name": "TAMARA BAHRY",
     "Account_address": "85 GLENGROVE AVE W",
     "Account_city": "TORONTO",
@@ -2681,6 +2949,7 @@
   },
   {
     "Fund_account_id": "101107",
+    "Dealer_account_id": "41GQKH0E",
     "Account_name": "GAYLE SHUMAN",
     "Account_address": "336 SPADINA RD SUITE 602",
     "Account_city": "TORONTO",
@@ -2691,6 +2960,7 @@
   },
   {
     "Fund_account_id": "101112",
+    "Dealer_account_id": "41GKE70E",
     "Account_name": "NEIL SMITH",
     "Account_address": "38 TECUMSETH ST",
     "Account_city": "TORONTO",
@@ -2701,6 +2971,7 @@
   },
   {
     "Fund_account_id": "101113",
+    "Dealer_account_id": "H1ESHG1E",
     "Account_name": "JOANNA VAN HAASTRECHT",
     "Account_address": "640 ALBION FALLS DR",
     "Account_city": "NEPEAN",
@@ -2711,6 +2982,7 @@
   },
   {
     "Fund_account_id": "101119",
+    "Dealer_account_id": "H1PKMG0E",
     "Account_name": "PETER MARIT",
     "Account_address": "4210 INGLEWOOD DR",
     "Account_city": "BURLINGTON",
@@ -2721,6 +2993,7 @@
   },
   {
     "Fund_account_id": "101137",
+    "Dealer_account_id": "H0YD0G0A",
     "Account_name": "TANYA IZAWA",
     "Account_address": "77 GREEN ACRES DR",
     "Account_city": "LONDON",
@@ -2731,6 +3004,7 @@
   },
   {
     "Fund_account_id": "101138",
+    "Dealer_account_id": "41GS0S0E",
     "Account_name": "PATRICK LUNDY",
     "Account_address": "1157 KANE ROAD",
     "Account_city": "MISSISSAUGA",
@@ -2741,6 +3015,7 @@
   },
   {
     "Fund_account_id": "101141",
+    "Dealer_account_id": "3702786710",
     "Account_name": "PATRICK LUNDY",
     "Account_address": "1157 KANE ROAD",
     "Account_city": "MISSISSAUGA",
@@ -2751,6 +3026,7 @@
   },
   {
     "Fund_account_id": "101144",
+    "Dealer_account_id": "41GY5M0E",
     "Account_name": "ER EGO TRUSTMARGARET B. MUIR ALT",
     "Account_address": "ATTN MARGARET MUIR, 28-36 HAZELTON AVE",
     "Account_city": "TORONTO",
@@ -2761,6 +3037,7 @@
   },
   {
     "Fund_account_id": "EPCD101134",
+    "Dealer_account_id": "6DHXRYA",
     "Account_name": "ROSS AND YVONNE RAHN",
     "Account_address": "620 SIMCOE ST SS1",
     "Account_city": "NOTL",
@@ -2771,6 +3048,7 @@
   },
   {
     "Fund_account_id": "101167",
+    "Dealer_account_id": "H1M6CG0A",
     "Account_name": "VALERIE FOOTE ROGERS",
     "Account_address": "64 ROXBOROUGH ST W",
     "Account_city": "TORONTO",
@@ -2781,6 +3059,7 @@
   },
   {
     "Fund_account_id": "101169",
+    "Dealer_account_id": "2R044QE",
     "Account_name": "TANGANYIKA INC",
     "Account_address": "ATTN: MARGARET MUIR, 36 HAZELTON AVE UNIT 2B",
     "Account_city": "TORONTO",
@@ -2791,6 +3070,7 @@
   },
   {
     "Fund_account_id": "101175",
+    "Dealer_account_id": "1N6JNVE0",
     "Account_name": "RICHARD TRINETTI",
     "Account_address": "38 FONTENAY CRT UNIT 507",
     "Account_city": "ETOBICOKE",
@@ -2801,6 +3081,7 @@
   },
   {
     "Fund_account_id": "101195",
+    "Dealer_account_id": "1N74CVA0",
     "Account_name": "ANNA CRISTIANO",
     "Account_address": "95 PRINCE ARTHUR AVE UNIT 320",
     "Account_city": "TORONTO",
@@ -2811,6 +3092,7 @@
   },
   {
     "Fund_account_id": "101067",
+    "Dealer_account_id": "H192BG0A",
     "Account_name": "SHARON NIZNIK",
     "Account_address": "2540 REGIONAL RD 20 R1",
     "Account_city": "BOWMANVILLE",
@@ -2821,6 +3103,7 @@
   },
   {
     "Fund_account_id": "101070",
+    "Dealer_account_id": "50FV9E0A",
     "Account_name": "KATHRINA HEALEY",
     "Account_address": "2B LAKESHORE BLVD",
     "Account_city": "KINGSTON",
@@ -2831,6 +3114,7 @@
   },
   {
     "Fund_account_id": "101071",
+    "Dealer_account_id": "H0FHJG0A",
     "Account_name": "T. MICHAEL BRANCH",
     "Account_address": "60 SKIPPER LANE",
     "Account_city": "OAKVILLE",
@@ -2841,6 +3125,7 @@
   },
   {
     "Fund_account_id": "101092",
+    "Dealer_account_id": "H1772G0A",
     "Account_name": "DAVID SALTER",
     "Account_address": "130 FACTORY LANE, PO BOX 239",
     "Account_city": "BATH",
@@ -2851,6 +3136,7 @@
   },
   {
     "Fund_account_id": "101094",
+    "Dealer_account_id": "HP1P700E",
     "Account_name": "JAMES ROGERS",
     "Account_address": "4255 PROSPECT RD",
     "Account_city": "NORTH VANCOUVER",
@@ -2861,6 +3147,7 @@
   },
   {
     "Fund_account_id": "101096",
+    "Dealer_account_id": "YC15286C",
     "Account_name": "PARDEEP SANGHA",
     "Account_address": "15070 86A AVE",
     "Account_city": "SURREY",
@@ -2871,6 +3158,7 @@
   },
   {
     "Fund_account_id": "101098",
+    "Dealer_account_id": "H1KZL00A",
     "Account_name": "VOICE OF POSSIBILITY GROUP INC",
     "Account_address": "ATTN: DEBRA GOULD, 1917 4TH AVE W SUITE 245",
     "Account_city": "VANCOUVER",
@@ -2881,6 +3169,7 @@
   },
   {
     "Fund_account_id": "101099",
+    "Dealer_account_id": "H04P0G0E",
     "Account_name": "DANIEL ONDRACK",
     "Account_address": "112 GLENFOREST RD",
     "Account_city": "TORONTO",
@@ -2891,6 +3180,7 @@
   },
   {
     "Fund_account_id": "101101",
+    "Dealer_account_id": "H0Q8HG0E",
     "Account_name": "BENJAMIN FIRTH",
     "Account_address": "409 CANYON CLOSE",
     "Account_city": "CANMORE",
@@ -2901,6 +3191,7 @@
   },
   {
     "Fund_account_id": "101102",
+    "Dealer_account_id": "H07ZJG0E",
     "Account_name": "JUDITH BEGG",
     "Account_address": "71 CASTLE FRANK CRES",
     "Account_city": "TORONTO",
@@ -2911,6 +3202,7 @@
   },
   {
     "Fund_account_id": "101103",
+    "Dealer_account_id": "H0LJSG0E",
     "Account_name": "RONALD BEGG",
     "Account_address": "71 CASTLE FRANK CRES",
     "Account_city": "TORONTO",
@@ -2921,6 +3213,7 @@
   },
   {
     "Fund_account_id": "101111",
+    "Dealer_account_id": "41GD7W0E",
     "Account_name": "EPWORTH PROPERTY CORPORATION",
     "Account_address": "ATTN: SAM GENKOV, 14 FOREST GLEN CRES",
     "Account_city": "NORTH YORK",
@@ -2931,6 +3224,7 @@
   },
   {
     "Fund_account_id": "101117",
+    "Dealer_account_id": "62F0071A",
     "Account_name": "2010RHODES FAMILY TRUST ",
     "Account_address": "ATTN: HOLDEN RHODES, 1633 GLOUCESTER RD",
     "Account_city": "LONDON",
@@ -2941,6 +3235,7 @@
   },
   {
     "Fund_account_id": "101125",
+    "Dealer_account_id": "1HSMZVE0",
     "Account_name": "MICHAEL FITZHENRY",
     "Account_address": "77 HIGHLAND AVE",
     "Account_city": "TORONTO",
@@ -2951,6 +3246,7 @@
   },
   {
     "Fund_account_id": "101126",
+    "Dealer_account_id": "H0TFUG0E",
     "Account_name": "ANNE-MARIE CRISTIANO",
     "Account_address": "95 PRINCE ARTHUR AVE UNIT 320",
     "Account_city": "TORONTO",
@@ -2961,6 +3257,7 @@
   },
   {
     "Fund_account_id": "101127",
+    "Dealer_account_id": "H03FTG0E",
     "Account_name": "NEIL SMITH",
     "Account_address": "38 TECUMSETH ST",
     "Account_city": "TORONTO",
@@ -2971,6 +3268,7 @@
   },
   {
     "Fund_account_id": "101130",
+    "Dealer_account_id": "6CLARNE",
     "Account_name": "YEHEZKEL ZAHAVY",
     "Account_address": "3027-80 HARRISON GARDEN BLVD",
     "Account_city": "NORTH YORK",
@@ -2981,6 +3279,7 @@
   },
   {
     "Fund_account_id": "101139",
+    "Dealer_account_id": "41GSR40E",
     "Account_name": "KINGSWAY RECORDS",
     "Account_address": "1403 LONDONDERRY BLVD",
     "Account_city": "MISSISSAUGA",
@@ -2991,6 +3290,7 @@
   },
   {
     "Fund_account_id": "100301",
+    "Dealer_account_id": "3002S51A",
     "Account_name": "SERENA CHENG",
     "Account_address": "3 HIGHBOURNE RD",
     "Account_city": "TORONTO",
@@ -3001,6 +3301,7 @@
   },
   {
     "Fund_account_id": "101145",
+    "Dealer_account_id": "HP1C200E",
     "Account_name": "CRAIG MACHEL",
     "Account_address": "179 WOBURN AVE",
     "Account_city": "TORONTO",
@@ -3011,6 +3312,7 @@
   },
   {
     "Fund_account_id": "101148",
+    "Dealer_account_id": "H13BGG0E",
     "Account_name": "FINNEGAN INC.",
     "Account_address": "ATTN: NIALL FINNEGAN, 6 LAMPORT AVE",
     "Account_city": "TORONTO",
@@ -3021,6 +3323,7 @@
   },
   {
     "Fund_account_id": "101152",
+    "Dealer_account_id": "H0Y8QG0E",
     "Account_name": "RICHARD TRINETTI",
     "Account_address": "38 FONTENAY CRT UNIT 507",
     "Account_city": "ETOBICOKE",
@@ -3031,6 +3334,7 @@
   },
   {
     "Fund_account_id": "101153",
+    "Dealer_account_id": "H0FFUG0E",
     "Account_name": "RAZIYA JAFFER",
     "Account_address": "38 O'MEARA CRT",
     "Account_city": "NORTH YORK",
@@ -3041,6 +3345,7 @@
   },
   {
     "Fund_account_id": "101157",
+    "Dealer_account_id": "38ZJUXE",
     "Account_name": "ER EGO TRUSTMARGARET B. MUIR ALT",
     "Account_address": "ATTN MARGARET MUIR, 28-36 HAZELTON AVE",
     "Account_city": "TORONTO",
@@ -3051,6 +3356,7 @@
   },
   {
     "Fund_account_id": "101168",
+    "Dealer_account_id": "H131T00A",
     "Account_name": "INE PROF CORDR KAREN CHIEN MEDIC",
     "Account_address": "ATTN DR KAREN CHIEN, 185 BAIN AVE",
     "Account_city": "TORONTO",
@@ -3061,6 +3367,7 @@
   },
   {
     "Fund_account_id": "101193",
+    "Dealer_account_id": "1N7G7VE0",
     "Account_name": "CHRISTOPHER HUGH",
     "Account_address": "3875 TRELAWNY CIR",
     "Account_city": "MISSISSAUGA",
@@ -3071,6 +3378,7 @@
   },
   {
     "Fund_account_id": "101196",
+    "Dealer_account_id": "3660843628",
     "Account_name": "MANDI EPSTEIN",
     "Account_address": "16 DELORAINE AVE",
     "Account_city": "TORONTO",
@@ -3081,6 +3389,7 @@
   },
   {
     "Fund_account_id": "101216",
+    "Dealer_account_id": "1NBMBVE0",
     "Account_name": "NICOLA PANTALEO",
     "Account_address": "71 DIANA DR",
     "Account_city": "NORTH YORK",
@@ -3091,6 +3400,7 @@
   },
   {
     "Fund_account_id": "EPC220507",
+    "Dealer_account_id": "EPC220507",
     "Account_name": "Antonio Cruz",
     "Account_address": "2020 N. Bayshore Dr, #807",
     "Account_city": "Miami",
@@ -3101,6 +3411,7 @@
   },
   {
     "Fund_account_id": "EPC010708",
+    "Dealer_account_id": "EPC010708",
     "Account_name": "DAVID FAWCETT",
     "Account_address": "8 RUSSELL HILL DRIVE",
     "Account_city": "TORONTO",
@@ -3111,6 +3422,7 @@
   },
   {
     "Fund_account_id": "101231",
+    "Dealer_account_id": "1NJ23VA0",
     "Account_name": "MORRIS WAINTRAUB",
     "Account_address": "48 HIGHVIEW CRES",
     "Account_city": "RICHMOND HILL",
@@ -3121,6 +3433,7 @@
   },
   {
     "Fund_account_id": "EPCD10010",
+    "Dealer_account_id": "EPCD10010",
     "Account_name": "A TIMOTHY BARON PROFESSIONAL CORPORA",
     "Account_address": "155 Wellington St. W",
     "Account_city": "Toronto",
@@ -3131,6 +3444,7 @@
   },
   {
     "Fund_account_id": "EPCD10011",
+    "Dealer_account_id": "EPCD10011",
     "Account_name": "SEAN KINOSHITA",
     "Account_address": "104 Sutherland Close",
     "Account_city": "Calgary",
@@ -3141,6 +3455,7 @@
   },
   {
     "Fund_account_id": "EPCD10012",
+    "Dealer_account_id": "EPCD10012",
     "Account_name": "SCOTT TOWNSEND PROFESSIONAL CORPORA",
     "Account_address": "103 Lynx Meadows Dr.",
     "Account_city": "Calgary",
@@ -3151,6 +3466,7 @@
   },
   {
     "Fund_account_id": "101068",
+    "Dealer_account_id": "40FZ870A",
     "Account_name": "MORRIS WAINTRAUB",
     "Account_address": "48 HIGHVIEW CRES",
     "Account_city": "RICHMOND HILL",
@@ -3161,6 +3477,7 @@
   },
   {
     "Fund_account_id": "101069",
+    "Dealer_account_id": "410NHZ0A",
     "Account_name": "SHARON NIZNIK",
     "Account_address": "2540 REGIONAL RD 20 R1",
     "Account_city": "BOWMANVILLE",
@@ -3171,6 +3488,7 @@
   },
   {
     "Fund_account_id": "101100",
+    "Dealer_account_id": "H1DMFG0A",
     "Account_name": "ALISON MCMAHON",
     "Account_address": "1315 SILVER SPEAR RD UNIT 411",
     "Account_city": "MISSISSAUGA",
@@ -3181,6 +3499,7 @@
   },
   {
     "Fund_account_id": "101108",
+    "Dealer_account_id": "H14AJG0E",
     "Account_name": "DRMIV INC",
     "Account_address": "338 DAVENPORT RD UNIT 102",
     "Account_city": "TORONTO",
@@ -3191,6 +3510,7 @@
   },
   {
     "Fund_account_id": "101109",
+    "Dealer_account_id": "H0BM8G0E",
     "Account_name": "MENTS LIMITEDJERALD SHUMAN INVEST",
     "Account_address": "336 SPADINA RD SUITE 602",
     "Account_city": "TORONTO",
@@ -3201,6 +3521,7 @@
   },
   {
     "Fund_account_id": "101116",
+    "Dealer_account_id": "H0SFRG0E",
     "Account_name": "831857 ONTARIO INC.",
     "Account_address": "65 CHERITAN AVE",
     "Account_city": "TORONTO",
@@ -3211,6 +3532,7 @@
   },
   {
     "Fund_account_id": "101149",
+    "Dealer_account_id": "42F19A0A",
     "Account_name": "ALERMOESTATE OF PATRICIA P",
     "Account_address": "ATTN: MICHELLE WILLIAMS, 99 CLEVELAND ST",
     "Account_city": "TORONTO",
@@ -3221,6 +3543,7 @@
   },
   {
     "Fund_account_id": "101165",
+    "Dealer_account_id": "37A27DA",
     "Account_name": "NEIL SMITH",
     "Account_address": "38 TECUMSETH ST",
     "Account_city": "TORONTO",
@@ -3231,6 +3554,7 @@
   },
   {
     "Fund_account_id": "101171",
+    "Dealer_account_id": "HP1H700E",
     "Account_name": "SHAWN ASPDEN",
     "Account_address": "49 RUMSEY RD",
     "Account_city": "TORONTO",
@@ -3241,6 +3565,7 @@
   },
   {
     "Fund_account_id": "101183",
+    "Dealer_account_id": "4103802726",
     "Account_name": "VALERIE FOOTE ROGERS",
     "Account_address": "64 ROXBOROUGH ST W",
     "Account_city": "TORONTO",
@@ -3251,6 +3576,7 @@
   },
   {
     "Fund_account_id": "101184",
+    "Dealer_account_id": "1N6JMVE0",
     "Account_name": "KATHLEEN STARES",
     "Account_address": "178 OLD ORCHARD GROVE",
     "Account_city": "TORONTO",
@@ -3261,6 +3587,7 @@
   },
   {
     "Fund_account_id": "101185",
+    "Dealer_account_id": "1N79AVE0",
     "Account_name": "PETER MARIT",
     "Account_address": "4210 INGLEWOOD DR",
     "Account_city": "BURLINGTON",
@@ -3271,6 +3598,7 @@
   },
   {
     "Fund_account_id": "101192",
+    "Dealer_account_id": "1N7SMVE0",
     "Account_name": "KELLY SENIKE",
     "Account_address": "2419 TORQUAY CRT",
     "Account_city": "BURLINGTON",
@@ -3281,6 +3609,7 @@
   },
   {
     "Fund_account_id": "101210",
+    "Dealer_account_id": "3769987318",
     "Account_name": "FINNEGAN INC.",
     "Account_address": "ATTN: NIALL FINNEGAN, 6 LAMPORT AVE",
     "Account_city": "TORONTO",
@@ -3291,6 +3620,7 @@
   },
   {
     "Fund_account_id": "101215",
+    "Dealer_account_id": "1NBM9VA0",
     "Account_name": "COSIMO PANTALEO",
     "Account_address": "71 DIANA DR",
     "Account_city": "NORTH YORK",
@@ -3301,6 +3631,7 @@
   },
   {
     "Fund_account_id": "101229",
+    "Dealer_account_id": "HP0WLG0E",
     "Account_name": "ELIZABETH MAHABIR",
     "Account_address": "14 SPRINGBROOK GDNS",
     "Account_city": "ETOBICOKE",
@@ -3311,6 +3642,7 @@
   },
   {
     "Fund_account_id": "EPC101234",
+    "Dealer_account_id": "EPC101234",
     "Account_name": "DANIELLE MONACHELLO",
     "Account_address": "6512 LARKSPUR WAY SW",
     "Account_city": "CALGARY",
@@ -3320,7 +3652,19 @@
     "Account_type": "Open"
   },
   {
+    "Fund_account_id": "101235",
+    "Dealer_account_id": "H0ZCNF0E",
+    "Account_name": "DANETTE KRUSKY",
+    "Account_address": "PO BOX 861",
+    "Account_city": "BRAGG CREEK",
+    "Account_prov": "AB",
+    "Account_postal": "T0L0K0",
+    "Account_email": "",
+    "Account_type": "Open"
+  },
+  {
     "Fund_account_id": "101064",
+    "Dealer_account_id": "41GJZR0E",
     "Account_name": "JEFFREY BRYCE",
     "Account_address": "40 WINSTON GROVE",
     "Account_city": "ETOBICOKE",
@@ -3331,6 +3675,7 @@
   },
   {
     "Fund_account_id": "101065",
+    "Dealer_account_id": "41GJZV0E",
     "Account_name": "JEFFREY BRYCE",
     "Account_address": "40 WINSTON GROVE",
     "Account_city": "ETOBICOKE",
@@ -3341,6 +3686,7 @@
   },
   {
     "Fund_account_id": "101080",
+    "Dealer_account_id": "41F5BH0E",
     "Account_name": "NEIL ORNSTEIN",
     "Account_address": "255 CASTLEFIELD AVE",
     "Account_city": "TORONTO",
@@ -3351,6 +3697,7 @@
   },
   {
     "Fund_account_id": "101081",
+    "Dealer_account_id": "H0ZSXG0E",
     "Account_name": "ERIC DUFOUR",
     "Account_address": "202 RIVERDALE AVE",
     "Account_city": "TORONTO",
@@ -3361,6 +3708,7 @@
   },
   {
     "Fund_account_id": "101082",
+    "Dealer_account_id": "H1GSNG0A",
     "Account_name": "LIMITEDPENBRIT INVESTMENTS ",
     "Account_address": "ATTN: CHARLES PENSTONE, 10 MARSHVIEW AVE",
     "Account_city": "AURORA",
@@ -3371,6 +3719,7 @@
   },
   {
     "Fund_account_id": "101083",
+    "Dealer_account_id": "H1JDJG0E",
     "Account_name": "KELLY SENIKE",
     "Account_address": "2419 TORQUAY CRT",
     "Account_city": "BURLINGTON",
@@ -3381,6 +3730,7 @@
   },
   {
     "Fund_account_id": "101084",
+    "Dealer_account_id": "41FPRV0E",
     "Account_name": "ANNE-MARIE CRISTIANO",
     "Account_address": "38 ALCORN AVE",
     "Account_city": "TORONTO",
@@ -3391,6 +3741,7 @@
   },
   {
     "Fund_account_id": "101097",
+    "Dealer_account_id": "410KE70E",
     "Account_name": "NEIL SMITH",
     "Account_address": "508 WELLINGTON ST W PH 01",
     "Account_city": "TORONTO",
@@ -3401,6 +3752,7 @@
   },
   {
     "Fund_account_id": "101104",
+    "Dealer_account_id": "H0WF8G0E",
     "Account_name": "2075239 ONTARIO LTD.",
     "Account_address": "592 GLADWYNE CRT",
     "Account_city": "MISSISSAUGA",
@@ -3411,6 +3763,7 @@
   },
   {
     "Fund_account_id": "101110",
+    "Dealer_account_id": "H1HYAG0E",
     "Account_name": "1758049 ONTARIO INC",
     "Account_address": "164 BARTLETT BLVD",
     "Account_city": "COLLINGWOOD",
@@ -3421,6 +3774,7 @@
   },
   {
     "Fund_account_id": "101128",
+    "Dealer_account_id": "H0W3EG0A",
     "Account_name": "WILLIAM HEIBEIN",
     "Account_address": "1189 PARKERS POINT RD",
     "Account_city": "GRAVENHURST",
@@ -3431,6 +3785,7 @@
   },
   {
     "Fund_account_id": "101133",
+    "Dealer_account_id": "41GU5P0E",
     "Account_name": "VALERIE FOOTE-ROGERS",
     "Account_address": "60 HIGHLAND AVE",
     "Account_city": "TORONTO",
@@ -3441,6 +3796,7 @@
   },
   {
     "Fund_account_id": "101147",
+    "Dealer_account_id": "41FZ2B0A",
     "Account_name": "1991250 ONTARIO INC",
     "Account_address": "ATTN: HOLDEN RHODES, 1633 GLOUCESTER RD",
     "Account_city": "LONDON",
@@ -3451,6 +3807,7 @@
   },
   {
     "Fund_account_id": "101151",
+    "Dealer_account_id": "34DU6AE1",
     "Account_name": "EPWORTH PROPERTY CORPORATION",
     "Account_address": "ATTN: SAM GENKOV, 14 FOREST GLEN CRES",
     "Account_city": "NORTH YORK",
@@ -3461,6 +3818,7 @@
   },
   {
     "Fund_account_id": "101160",
+    "Dealer_account_id": "2RAC45E",
     "Account_name": "ER EGO TRUSTMARGARET B. MUIR ALT",
     "Account_address": "ATTN MARGARET MUIR, 28-36 HAZELTON AVE",
     "Account_city": "TORONTO",
@@ -3471,6 +3829,7 @@
   },
   {
     "Fund_account_id": "100143",
+    "Dealer_account_id": "STP1AQ0E",
     "Account_name": "SHAWN ASPDEN",
     "Account_address": "49 RUMSEY RD",
     "Account_city": "TORONTO",
@@ -3481,6 +3840,7 @@
   },
   {
     "Fund_account_id": "101179",
+    "Dealer_account_id": "H0HLY03A",
     "Account_name": "E PROFESSIONAL CORPOSOMMER COGAN MEDICIN",
     "Account_address": "ATTN DORON SOMMER, 71 KING GEORGE'S RD",
     "Account_city": "ETOBICOKE",
@@ -3491,6 +3851,7 @@
   },
   {
     "Fund_account_id": "101181",
+    "Dealer_account_id": "H1DFA00A",
     "Account_name": "IONAL CORPNEILL KALVIN PROFESS",
     "Account_address": "ATTN: MR NEILL KALVIN, 625 RUSHTON RD",
     "Account_city": "YORK",
@@ -3501,6 +3862,7 @@
   },
   {
     "Fund_account_id": "101182",
+    "Dealer_account_id": "H0DZF00A",
     "Account_name": "JUDITH SILVERSTEIN",
     "Account_address": "505-8 COVINGTON RD",
     "Account_city": "NORTH YORK",
@@ -3511,6 +3873,7 @@
   },
   {
     "Fund_account_id": "101186",
+    "Dealer_account_id": "1N7G4VE0",
     "Account_name": "NICHOLAS THOMPSON",
     "Account_address": "10 DELISLE AVE UNIT 904",
     "Account_city": "TORONTO",
@@ -3521,6 +3884,7 @@
   },
   {
     "Fund_account_id": "101194",
+    "Dealer_account_id": "1N7M5EE0",
     "Account_name": "CINDY WAN",
     "Account_address": "38 BROOKFIELD ST",
     "Account_city": "TORONTO",
@@ -3531,6 +3895,7 @@
   },
   {
     "Fund_account_id": "101224",
+    "Dealer_account_id": "MDS9J300",
     "Account_name": "THE ESTATE OF MAURICE DRUCK",
     "Account_address": "620 VESTA DRIVE",
     "Account_city": "TORONTO",
@@ -3541,6 +3906,7 @@
   },
   {
     "Fund_account_id": "101227",
+    "Dealer_account_id": "MDS9FY02",
     "Account_name": "RUSSELL HOLLINS MEDICINE PROFESSIONAL CO",
     "Account_address": "121 QUEEN ST SUITE 206",
     "Account_city": "KINGSTON",
@@ -3551,6 +3917,7 @@
   },
   {
     "Fund_account_id": "101232",
+    "Dealer_account_id": "H121LG0A",
     "Account_name": "NIHAN MCCLURE",
     "Account_address": "44 DALE AVE",
     "Account_city": "TORONTO",
@@ -3561,6 +3928,7 @@
   },
   {
     "Fund_account_id": "101073",
+    "Dealer_account_id": "H0D99G0A",
     "Account_name": "MORRIS WAINTRAUB",
     "Account_address": "48 HIGHVIEW CRES",
     "Account_city": "RICHMOND HILL",
@@ -3571,6 +3939,7 @@
   },
   {
     "Fund_account_id": "101074",
+    "Dealer_account_id": "H0JBVG0E",
     "Account_name": "CHRISTOPHER HUGH",
     "Account_address": "3875 TRELAWNY CIR",
     "Account_city": "MISSISSAUGA",
@@ -3581,6 +3950,7 @@
   },
   {
     "Fund_account_id": "101075",
+    "Dealer_account_id": "410HEA0A",
     "Account_name": "PETER MARIT",
     "Account_address": "85 BARRINGHAM DR",
     "Account_city": "OAKVILLE",
@@ -3591,6 +3961,7 @@
   },
   {
     "Fund_account_id": "101076",
+    "Dealer_account_id": "410FP60A",
     "Account_name": "BENJAMIN FIRTH",
     "Account_address": "409 CANYON CLOSE",
     "Account_city": "CANMORE",
@@ -3601,6 +3972,7 @@
   },
   {
     "Fund_account_id": "101085",
+    "Dealer_account_id": "410EC90A",
     "Account_name": "DANIEL ONDRACK",
     "Account_address": "166 CHAPLIN CRES",
     "Account_city": "TORONTO",
@@ -3611,6 +3983,7 @@
   },
   {
     "Fund_account_id": "101086",
+    "Dealer_account_id": "3002220E",
     "Account_name": "MARK BEGG",
     "Account_address": "65 CASTLE FRANK CRES",
     "Account_city": "TORONTO",
@@ -3621,6 +3994,7 @@
   },
   {
     "Fund_account_id": "101087",
+    "Dealer_account_id": "H12PYG0E",
     "Account_name": "JEFFREY WEINGARTEN",
     "Account_address": "45 WOODYCREST AVE",
     "Account_city": "TORONTO",
@@ -3631,6 +4005,7 @@
   },
   {
     "Fund_account_id": "101091",
+    "Dealer_account_id": "H0VPVG0E",
     "Account_name": "EDWARD CLASPER",
     "Account_address": "78 WALBY DR",
     "Account_city": "OAKVILLE",
@@ -3641,6 +4016,7 @@
   },
   {
     "Fund_account_id": "101093",
+    "Dealer_account_id": "H0YLVG0E",
     "Account_name": "MARK BERTSCHMANN",
     "Account_address": "223 KINGSWOOD RD",
     "Account_city": "TORONTO",
@@ -3651,6 +4027,7 @@
   },
   {
     "Fund_account_id": "EPCD10013",
+    "Dealer_account_id": "EPCD10013",
     "Account_name": "CHRISTOPHER R. SEIP",
     "Account_address": "62 Duggan Ave",
     "Account_city": "Toronto",
@@ -3661,6 +4038,7 @@
   },
   {
     "Fund_account_id": "101115",
+    "Dealer_account_id": "H09PJG0E",
     "Account_name": "NEIL ORNSTEIN",
     "Account_address": "255 CASTLEFIELD AVE",
     "Account_city": "TORONTO",
@@ -3671,6 +4049,7 @@
   },
   {
     "Fund_account_id": "101124",
+    "Dealer_account_id": "H0FUXG0E",
     "Account_name": "KIRK PINKOWSKI",
     "Account_address": "308 GAINSBOROUGH RD",
     "Account_city": "TORONTO",
@@ -3681,6 +4060,7 @@
   },
   {
     "Fund_account_id": "101140",
+    "Dealer_account_id": "H0EFDG0E",
     "Account_name": "TED1391329 ONTARIO LIMI",
     "Account_address": "ATTN: HUGH CUMMING, 28A GIVINS ST",
     "Account_city": "TORONTO",
@@ -3691,6 +4071,7 @@
   },
   {
     "Fund_account_id": "101142",
+    "Dealer_account_id": "41FXGR0E",
     "Account_name": "USTAGHAR 2015 FAMILY TR",
     "Account_address": "ATTN: PETER AGHAR, 84 FOLLIS AVE",
     "Account_city": "TORONTO",
@@ -3701,6 +4082,7 @@
   },
   {
     "Fund_account_id": "101143",
+    "Dealer_account_id": "H12EMG0E",
     "Account_name": "NICOLA PANTALEO",
     "Account_address": "71 DIANA DR",
     "Account_city": "NORTH YORK",
@@ -3711,6 +4093,7 @@
   },
   {
     "Fund_account_id": "EPC220500",
+    "Dealer_account_id": "EPC220500",
     "Account_name": "Kurtis Bouwers",
     "Account_address": "1161C Lookout St.",
     "Account_city": "Ridgeville",
@@ -3721,6 +4104,7 @@
   },
   {
     "Fund_account_id": "EPC220501",
+    "Dealer_account_id": "EPC220501",
     "Account_name": "Glenda Bouwers",
     "Account_address": "1161C Lookout St.",
     "Account_city": "Ridgeville",
@@ -3731,6 +4115,7 @@
   },
   {
     "Fund_account_id": "EPC220502",
+    "Dealer_account_id": "EPC220502",
     "Account_name": "Rob Bouwers",
     "Account_address": "1161C Lookout St.",
     "Account_city": "Ridgeville",
@@ -3741,6 +4126,7 @@
   },
   {
     "Fund_account_id": "EPC220503",
+    "Dealer_account_id": "EPC220503",
     "Account_name": "Sean Bouwers",
     "Account_address": "",
     "Account_city": "",
@@ -3751,6 +4137,7 @@
   },
   {
     "Fund_account_id": "EPC220505",
+    "Dealer_account_id": "EPC220505",
     "Account_name": "Yinghui Guo",
     "Account_address": "65 REIDMOUNT AVE.",
     "Account_city": "Scarborough",
@@ -3761,6 +4148,7 @@
   },
   {
     "Fund_account_id": "101172",
+    "Dealer_account_id": "H1WMRF0E",
     "Account_name": "THE APPLICATION TEAM",
     "Account_address": "ATTN: BINDU KHOSLA, 359 LAKE PROMENADE",
     "Account_city": "ETOBICOKE",
@@ -3771,6 +4159,7 @@
   },
   {
     "Fund_account_id": "101191",
+    "Dealer_account_id": "3843707211",
     "Account_name": "MKD HOLDINGS INC.",
     "Account_address": "227 HADDINGTON AVE",
     "Account_city": "TORONTO",
@@ -3781,6 +4170,7 @@
   },
   {
     "Fund_account_id": "101220",
+    "Dealer_account_id": "MDS98N02",
     "Account_name": "FRANK KUS",
     "Account_address": "14 CHARLESTON RD",
     "Account_city": "ETOBICOKE",
@@ -3791,6 +4181,7 @@
   },
   {
     "Fund_account_id": "101228",
+    "Dealer_account_id": "HP0Y200E",
     "Account_name": "MARK BEGG",
     "Account_address": "65 CASTLE FRANK CRES",
     "Account_city": "TORONTO",
@@ -3801,6 +4192,7 @@
   },
   {
     "Fund_account_id": "101233",
+    "Dealer_account_id": "H1HU6G0A",
     "Account_name": "GORDON WILLCOCKS",
     "Account_address": "50 INGLEWOOD DR",
     "Account_city": "TORONTO",

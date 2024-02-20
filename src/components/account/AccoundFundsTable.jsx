@@ -8,9 +8,8 @@ const AccountFundsTable = () => {
     fetchAllData,
     fundAccountId,
     loadDataIntoFundsTable,
+    handleSelectedFundAccTable,
   } = useContext(FundContext);
-
-  const [selected, setSelected] = useState({});
 
   const [currentPage, setCurrentPage] = useState(1);
   const [rowsPerPage, setRowsPerPage] = useState(5);
@@ -23,11 +22,11 @@ const AccountFundsTable = () => {
     loadDataIntoFundsTable();
   }, [fundAccountId, dealerAccountId]);
 
-  const handleSelectRow = (id, e) => {
-    console.log(id, e);
-    const newSelected = { ...selected, [id]: e.target.checked };
-    setSelected(newSelected);
-  };
+  // const handleSelectRow = (id, e) => {
+  //   console.log(id, e);
+  //   const newSelected = { ...selected, [id]: e.target.checked };
+  //   setSelected(newSelected);
+  // };
 
   // Calculate the current items to display
   const indexOfLastItem = currentPage * rowsPerPage;
@@ -71,23 +70,23 @@ const AccountFundsTable = () => {
           <table className='min-w-full leading-normal'>
             <thead>
               <tr>
-                <th className='px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider'>
+                <th className='px-5 py-3 border-b-2 border-gray-200  bg-[#2b6777] text-left text-xs font-semibold text-slate-100 uppercase tracking-wider'>
                   <input
                     type='checkbox'
                     className='form-checkbox h-4 w-4 text-indigo-600 transition duration-150 ease-in-out'
                   />
                 </th>
 
-                <th className='px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider'>
+                <th className='px-5 py-3 border-b-2 border-gray-200 bg-[#2b6777] text-left text-xs font-semibold text-slate-100 uppercase tracking-wider'>
                   Fund ID
                 </th>
-                <th className='px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider'>
+                <th className='px-5 py-3 border-b-2 border-gray-200 bg-[#2b6777] text-left text-xs font-semibold text-slate-100 uppercase tracking-wider'>
                   Fund Name
                 </th>
-                <th className='px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider'>
+                <th className='px-5 py-3 border-b-2 border-gray-200 bg-[#2b6777] text-left text-xs font-semibold text-slate-100 uppercase tracking-wider'>
                   Class Series
                 </th>
-                <th className='px-5 py-3 border-b-2 border-gray-200 bg-gray-100 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider'>
+                <th className='px-5 py-3 border-b-2 border-gray-200 bg-[#2b6777] text-left text-xs font-semibold text-slate-100 uppercase tracking-wider'>
                   Units
                 </th>
               </tr>
@@ -102,7 +101,9 @@ const AccountFundsTable = () => {
                         <input
                           type='checkbox'
                           className='form-checkbox h-4 w-4 text-indigo-600 transition duration-150 ease-in-out'
-                          onChange={(e) => handleSelectRow(Fund_id, e)}
+                          onChange={(e) =>
+                            handleSelectedFundAccTable(Fund_id, e)
+                          }
                         />
                       </td>
                       <td className='px-5 py-5 border-b border-gray-200 bg-white text-sm'>

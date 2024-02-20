@@ -17,11 +17,17 @@ const AccountDetails = () => {
                   {accountInfo?.Account_name}
                 </p>
               </div>
-              <div className=' flex items-center gap-10  px-3 mb-6 md:mb-0'>
+              <div className=' flex items-center gap-10 px-3 mb-6 md:mb-0'>
                 <label>Address</label>
-                <p className=' text-gray-700 border-b py-3 w-full leading-tight text-sm'>
-                  {accountInfo?.Account_address},{accountInfo?.Account_city},{" "}
-                  {accountInfo?.Account_prov}, {accountInfo?.Account_postal}
+                <p className='text-gray-700 border-b py-3 w-full leading-tight text-sm'>
+                  {[
+                    accountInfo?.Account_address,
+                    accountInfo?.Account_city,
+                    accountInfo?.Account_prov,
+                    accountInfo?.Account_postal,
+                  ]
+                    .filter(Boolean)
+                    .join(", ")}
                 </p>
               </div>
               <div className=' flex items-center gap-10  px-3 mb-6 md:mb-0'>
@@ -32,8 +38,11 @@ const AccountDetails = () => {
               </div>
               <div className=' flex items-center gap-10  px-3 mb-6 md:mb-0'>
                 <label>Phone</label>
-                <p className=' text-gray-700 border-b py-3 w-full leading-tight text-sm'>
-                  {`${accountInfo?.Account_phone || "no contact info found"} `}
+
+                <p className='text-gray-700 border-b py-3 w-full leading-tight text-sm'>
+                  {accountInfo?.Account_phone
+                    ? accountInfo.Account_phone
+                    : "no contact info found"}
                 </p>
               </div>
               <div className=' flex items-center gap-10  px-3 mb-6 md:mb-0'>

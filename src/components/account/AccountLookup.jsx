@@ -1,14 +1,12 @@
-import { useState, useContext, useEffect } from "react";
+import { useContext, useEffect } from "react";
 import { FundContext } from "../../contexts/FundContext";
 
 const AccountLookup = () => {
   const {
     fundData,
     dealerData,
-    fetchAccountDataNames,
+    fetchAccountData,
     handleSelectedAccount,
-    handleSelectedFundAccount,
-    handleSelectedDealerAccount,
     fetchAccountInfoData,
     fetchFundAndDealerData,
     fundAccountId,
@@ -24,13 +22,13 @@ const AccountLookup = () => {
   //   const [debouncedValue, setDebouncedValue] = useState(searchTerm);
 
   useEffect(() => {
-    fetchAccountDataNames();
+    fetchAccountData();
     fetchAccountInfoData();
     fetchFundAndDealerData();
   }, []);
 
   return (
-    <div>
+    <div className='mb-48'>
       <h2 className='text-2xl font-semibold leading-tight mb-6'>
         Accounts Search
       </h2>
@@ -100,35 +98,53 @@ const AccountLookup = () => {
                   className='block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2'
                   htmlFor='search'
                 >
-                  Enter First 4+ Characters of Account Search: <br />
+                  Account Search: <br />
                   Name, Dealer Account or Fund Account, then select account
                 </label>
                 <input
                   value={searchTerm}
                   onChange={(e) => {
                     handleSearchTerm(e.target.value);
-                    handleSearch(e);
+                    handleSearch(e.target.value.toLowerCase());
                   }}
                   placeholder='Search by Account'
                   className='appearance-none rounded-r rounded-l pl-3 pr-5 border border-gray-300 block py-2 w-full bg-white text-sm rounded-md placeholder-gray-400 text-gray-700 focus:bg-white focus:placeholder-gray-600 focus:text-gray-700 focus:outline-none
         '
                 />
                 {/* {suggestions.length > 0 && searchTerm && ( */}
-                <ul role='list-box' className='absolute z-10 w-full mb-2'>
-                  {suggestions.map((suggestion, index) => (
-                    <li
-                      role='option'
-                      onClick={() => {
-                        handleSelectedAccount(suggestion, "name");
-                        handleSearchTerm(suggestion);
-                        handleSuggestions([]);
-                      }}
-                      key={index}
-                      className='cursor-pointer rounded-r rounded-l pl-3 pr-5 border-b border-gray-300 block py-2 w-full bg-white text-sm rounded-md text-gray-400 dark:md:hover:text-gray-800'
-                    >
-                      {suggestion}
-                    </li>
-                  ))}
+                <ul
+                  role='list-box'
+                  className='absolute z-10 w-full bg-white  mb-2'
+                >
+                  {suggestions?.map((suggestion, index) => {
+                    const { Fund_account_id, Account_name, Dealer_account_id } =
+                      suggestion;
+
+                    console.log(Fund_account_id, Dealer_account_id);
+                    return (
+                      <li
+                        role='option'
+                        onClick={(e) => {
+                          handleSelectedAccount(
+                            Fund_account_id,
+                            "fundAccountId"
+                          );
+                          handleSelectedAccount(
+                            dealerAccountId,
+                            "dealerAccountId"
+                          );
+                          handleSelectedAccount(Account_name, "name");
+                          handleSearchTerm(e);
+                          handleSearch(suggestion);
+                          handleSuggestions([]);
+                        }}
+                        key={index}
+                        className='cursor-pointer rounded-r rounded-l pl-3 pr-5 border-b border-gray-300 block py-2 text-sm rounded-md text-gray-400 hover:text-gray-800'
+                      >
+                        {`${Account_name} - ${Fund_account_id} - ${Dealer_account_id}`}
+                      </li>
+                    );
+                  })}
                 </ul>
               </div>
             </div>
