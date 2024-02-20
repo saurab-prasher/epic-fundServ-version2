@@ -1,10 +1,10 @@
 import { useState, useEffect, useContext } from "react";
 import { FundContext } from "../../contexts/FundContext";
 
-const AccoundFundsTable = () => {
+const AccountFundsTable = () => {
   const {
     filteredData,
-
+    dealerAccountId,
     fetchAllData,
     fundAccountId,
     loadDataIntoFundsTable,
@@ -21,7 +21,7 @@ const AccoundFundsTable = () => {
 
   useEffect(() => {
     loadDataIntoFundsTable();
-  }, [fundAccountId]);
+  }, [fundAccountId, dealerAccountId]);
 
   const handleSelectRow = (id, e) => {
     console.log(id, e);
@@ -205,4 +205,4 @@ const AccoundFundsTable = () => {
   );
 };
 
-export default AccoundFundsTable;
+export default AccountFundsTable;

@@ -9,7 +9,10 @@ export const FundProvider = ({ children }) => {
   const [allData, setAllData] = useState([]);
   const [dealerAccountId, setDealerAccountId] = useState("");
   const [accountLookupData, setAccountLookupData] = useState([]);
+  const [searchTerm, setSearchTerm] = useState("");
+  const [fundDealerAccountData, setFundDealerAccountData] = useState([]);
   const [fundAccountId, setFundAccountId] = useState("");
+  const [suggestions, setSuggestions] = useState(accountDataNames);
 
   const [accountName, setAccountName] = useState([]);
   const [filteredData, setFilteredData] = useState([]);
@@ -49,10 +52,12 @@ export const FundProvider = ({ children }) => {
 
   const fetchFundAndDealerData = async () => {
     const response = await fetch("/suncrestFiles/xx_account.json");
-    const { Dealer_account_id, Fund_account_id } = await response.json();
-
-    setFundData(Fund_account_id);
-    setDealerData(Dealer_account_id);
+    const data = await response.json();
+    setFundDealerAccountData(data);
+    const fundAccoundIds = data.map((account) => account.Fund_account_id);
+    const dealerAccoundIds = data.map((account) => account.Dealer_account_id);
+    setFundData(fundAccoundIds);
+    setDealerData(dealerAccoundIds);
   };
 
   const fetchAccountData = async () => {
@@ -67,9 +72,31 @@ export const FundProvider = ({ children }) => {
     setTransactionsData(data);
   };
 
-  const handleSelectedAccountByName = (name) => {
-    setAccountName(name);
-    showSelectedFundAccount({ name: name });
+  const handleSelectedAccount = (value, type) => {
+    if (type === "name") {
+      accountInfoData.forEach((account) => {
+        if (account.Account_name.toLowerCase() == value.toLowerCase()) {
+          setAccountInfo(account);
+          setFundAccountId(account.Fund_account_id);
+          // Find and set the dealer account based on the fund account ID
+          const dealerAccount = fundDealerAccountData.find(
+            (da) => da.Fund_account_id === account.Fund_account_id
+          );
+          if (dealerAccount) {
+            handleSelectedDealerAccount(dealerAccount.Dealer_account_id);
+          }
+        }
+      });
+    }
+
+    if (type === "fundAccountId") {
+      handleSelectedFundAccount(value);
+      console.log("searching for fund account id");
+    }
+
+    if (type === "dealerAccountId") {
+      handleSelectedDealerAccount(value);
+    }
   };
 
   function getAccountInfo() {
@@ -87,53 +114,74 @@ export const FundProvider = ({ children }) => {
     );
   }
 
-  function showSelectedFundAccount(value) {
-    const { name } = value;
-
-    accountInfoData.forEach((account) => {
-      if (account.Account_name.toLowerCase() == name.toLowerCase()) {
-        setAccountInfo(account);
-        setFundAccountId(account.Fund_account_id);
-      }
-    });
-
-    // let localAccountNameSet = new Set();
-    // accountLookupData.forEach((account) => {
-    //   if (
-    //     account.Fund_account_id === fundAccountId &&
-    //     account.Dealer_account_id == dealerAccountId
-    //   )
-    //     account.Account_lu.split(" ").forEach((value) =>
-    //       localAccountNameSet.add(value)
-    //     );
-    // });
-    // setAccountName([...localAccountNameSet]);
-    // const filteredData = allData?.filter((account) => {
-    //   const accountFundID = account.Fund_account_id;
-    //   return [...localAccountNameSet].some((value) =>
-    //     value.includes(accountFundID)
-    //   );
-    // });
-    // setFilteredData(filteredData);
-  }
-
   function loadDataIntoFundsTable() {
     const data = allData?.filter(
-      (account) => account.Fund_account_id == fundAccountId
+      (account) => account.Fund_account_id === fundAccountId
     );
-
     setFilteredData(data);
   }
 
-  const handleSelectedFundAccount = (e) => {
-    const value = e.target.value;
+  const handleSelectedFundAccount = (value) => {
+    // Find the corresponding dealer account ID from dataset
+    const correspondingDealerAccount = fundDealerAccountData.find(
+      (account) => account.Fund_account_id === value
+    )?.Dealer_account_id;
+
+    // Update both states
     setFundAccountId(value);
+    if (correspondingDealerAccount) {
+      setDealerAccountId(correspondingDealerAccount);
+    }
+
+    accountInfoData.forEach((account) => {
+      if (account.Fund_account_id === value) {
+        setAccountInfo(account);
+      }
+    });
   };
 
-  const handleSelectedDealerAccount = (e) => {
-    const value = e.target.value;
+  const handleSelectedDealerAccount = (value) => {
+    // Find the corresponding fund account ID from your dataset
+    const correspondingFundAccount = fundDealerAccountData.find(
+      (account) => account.Dealer_account_id === value
+    )?.Fund_account_id;
+
+    // Update both states
     setDealerAccountId(value);
+    if (correspondingFundAccount) {
+      setFundAccountId(correspondingFundAccount);
+
+      accountInfoData.forEach((account) => {
+        if (account.Fund_account_id === correspondingFundAccount) {
+          setAccountInfo(account);
+        }
+      });
+    }
   };
+
+  function handleSearchTerm(value) {
+    setSearchTerm(value);
+  }
+  function handleSearch(e) {
+    const value = e.target?.value.toLowerCase();
+    setSearchTerm(value);
+
+    if (value?.length > 0) {
+      const filteredSuggestions = accountDataNames
+        .filter((suggestion) =>
+          suggestion.toLowerCase().includes(value.toLowerCase())
+        )
+        .slice(0, 5);
+      // Limit to the first 5 suggestions
+      handleSuggestions(filteredSuggestions);
+    } else {
+      handleSuggestions([]);
+    }
+  }
+
+  function handleSuggestions(suggestions) {
+    setSuggestions(suggestions);
+  }
   return (
     <FundContext.Provider
       value={{
@@ -149,17 +197,22 @@ export const FundProvider = ({ children }) => {
         fetchAccountData,
         fetchTransactionData,
         fetchAccountInfoData,
-
+        dealerAccountId,
         fetchAccountDataNames,
         accountDataNames,
-        handleSelectedAccountByName,
+        handleSelectedAccount,
         handleSelectedFundAccount,
         getAccountInfo,
         getTransactionInfo,
         handleSelectedDealerAccount,
-        showSelectedFundAccount,
+
         fetchAllData,
         loadDataIntoFundsTable,
+        handleSearchTerm,
+        handleSearch,
+        suggestions,
+        searchTerm,
+        handleSuggestions,
       }}
     >
       {children}
