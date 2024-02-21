@@ -18,9 +18,6 @@ const AccountLookup = () => {
     handleSearch,
   } = useContext(FundContext);
 
-  // Debounce input value
-  //   const [debouncedValue, setDebouncedValue] = useState(searchTerm);
-
   useEffect(() => {
     fetchAccountData();
     fetchAccountInfoData();
@@ -28,13 +25,13 @@ const AccountLookup = () => {
   }, []);
 
   return (
-    <div className='mb-48'>
+    <div className='mb-48 w-full'>
       <h2 className='text-2xl font-semibold leading-tight mb-6'>
         Accounts Search
       </h2>
 
       <div className='flex flex-col gap-10'>
-        <div className='flex flex-col space-y-4'>
+        <div className='flex flex-col space-y-4 bg-[#c8d8e4] p-8 border-b-2 rounded-md'>
           <div className='flex flex-col'>
             <label className='block text-sm font-medium text-gray-700'>
               Fund Account ID
@@ -90,12 +87,12 @@ const AccountLookup = () => {
           </div>
         </div>
 
-        <div className='flex gap-x-20 items-start'>
+        <div className='flex gap-x-20 items-start bg-[#c8d8e4] rounded-md  p-8'>
           <div>
             <div className='my-2 flex sm:flex-row flex-col'>
               <div className='block relative'>
                 <label
-                  className='block uppercase tracking-wide text-gray-700 text-xs font-bold mb-2'
+                  className='block uppercase tracking-wide text-gray-700 text-xs font-bold mb-4'
                   htmlFor='search'
                 >
                   Account Search: <br />

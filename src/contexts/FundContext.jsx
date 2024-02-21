@@ -57,18 +57,26 @@ export const FundProvider = ({ children }) => {
     setFundData(fundAccoundIds);
     setDealerData(dealerAccoundIds);
   };
-
-  const fetchTransactionData = async (fundId) => {
+  const fetchTransactionData = async (selectedFundIds) => {
     try {
       const response = await fetch("/suncrestFiles/xx_transaction.json");
       const transactionsData = await response.json();
 
-      const filteredTransactions = transactionsData.filter(
-        (transaction) => transaction.Fund_id == fundId
+      // Assuming selectedFundIds is an object with composite keys,
+      // extract just the Fund_id part if needed. If it's already an array of Fund_id values, adjust as necessary.
+      const fundIds = Object.keys(selectedFundIds).map((key) => {
+        // Example extraction, adjust based on your composite key structure
+        // If your key is something like `Fund_id-Class`, adjust the splitting logic accordingly.
+        return key.split("-")[0]; // Adjust this line based on your actual composite key format.
+      });
+
+      // Filter transactions based on extracted fund IDs
+      const filteredTransactions = transactionsData.filter((transaction) =>
+        fundIds.includes(transaction.Fund_id)
       );
 
+      // Set the filtered transactions data
       setTransactionsData(filteredTransactions);
-      console.log(filteredTransactions);
     } catch (error) {
       console.error("Error fetching transaction data:", error);
     }
@@ -77,7 +85,7 @@ export const FundProvider = ({ children }) => {
   const handleSelectedAccount = (value, type) => {
     if (type === "name") {
       accountInfoData.forEach((account) => {
-        if (account.Account_name.toLowerCase() == value.toLowerCase()) {
+        if (account.Account_name.toLowerCase() === value.toLowerCase()) {
           setAccountInfo(account);
           setFundAccountId(account.Fund_account_id);
           // Find and set the dealer account based on the fund account ID
@@ -85,32 +93,35 @@ export const FundProvider = ({ children }) => {
             (da) => da.Fund_account_id === account.Fund_account_id
           );
           if (dealerAccount) {
-            handleSelectedDealerAccount(dealerAccount.Dealer_account_id);
+            setDealerAccountId(dealerAccount.Dealer_account_id); // Directly set dealer account ID
           }
         }
       });
-    }
-
-    if (type === "fundAccountId") {
-      handleSelectedFundAccount(value);
-      console.log("searching for fund account id");
-    }
-
-    if (type === "dealerAccountId") {
-      handleSelectedDealerAccount(value);
+    } else if (type === "fundAccountId") {
+      if (value.trim() === "") {
+        // Clear related fields when Fund Account ID is empty
+        setFundAccountId("");
+        setDealerAccountId("");
+        setAccountInfo({});
+        // Add any other related fields that should be cleared
+      } else {
+        // Handle non-empty fund account ID selection
+        setFundAccountId(value);
+        // Assuming handleSelectedFundAccount does more than just set the fund account ID,
+        // like fetching related data, keep this call here.
+        handleSelectedFundAccount(value);
+      }
+    } else if (type === "dealerAccountId") {
+      if (value.trim() === "") {
+        setFundAccountId("");
+        setDealerAccountId("");
+        setAccountInfo({});
+      } else {
+        setDealerAccountId(value);
+        handleSelectedDealerAccount(value);
+      }
     }
   };
-
-  // function getTransactionsInfo(fundId) {
-  //   fetchTransactionData();
-
-  //   const filteredTransactions = transactionsData.filter(
-  //     (transaction) => transaction.Fund_id == fundId
-  //   );
-
-  //   setTransactionsData(filteredTransactions);
-  //   console.log(filteredTransactions);
-  // }
 
   function loadDataIntoFundsTable() {
     const data = allData?.filter(
@@ -120,6 +131,9 @@ export const FundProvider = ({ children }) => {
   }
 
   const handleSelectedFundAccount = (value) => {
+    setTransactionsData([]);
+    setSelectedFundId({});
+
     // Find the corresponding dealer account ID from dataset
     const correspondingDealerAccount = fundDealerAccountData.find(
       (account) => account.Fund_account_id === value
@@ -136,10 +150,16 @@ export const FundProvider = ({ children }) => {
         setAccountInfo(account);
       }
     });
+
+    handleCheckboxState();
   };
 
   const handleSelectedDealerAccount = (value) => {
     // Find the corresponding fund account ID from your dataset
+
+    console.log("dealer account id: ", value);
+    setTransactionsData([]);
+    setSelectedFundId({});
     const correspondingFundAccount = fundDealerAccountData.find(
       (account) => account.Dealer_account_id === value
     )?.Fund_account_id;
@@ -155,6 +175,7 @@ export const FundProvider = ({ children }) => {
         }
       });
     }
+    handleCheckboxState();
   };
 
   function handleSearchTerm(value) {
@@ -162,6 +183,8 @@ export const FundProvider = ({ children }) => {
   }
   function handleSearch(value) {
     // console.log(formattedString);
+    setTransactionsData([]);
+    setSelectedFundId({});
 
     if (typeof value === "object") {
       const formattedString = `${value?.Account_name} - ${value?.Fund_account_id} - ${value?.Dealer_account_id}`;
@@ -181,20 +204,38 @@ export const FundProvider = ({ children }) => {
     } else {
       handleSuggestions([]);
     }
+
+    handleCheckboxState();
   }
 
   function handleSuggestions(suggestions) {
     setSuggestions(suggestions);
   }
 
-  function handleSelectedFundAccTable(fundId, e) {
-    // console.log(fundId, e);
-    const newSelected = {
-      ...selectedFundId,
-      [fundId]: e.target.checked, // Directly use fundId as the key
-    };
-    setSelectedFundId(newSelected);
+  function createCompositeKey(item) {
+    return `${item.Fund_id}-${item.Fund_class}`;
   }
+
+  function handleCheckboxState() {
+    // Uncheck all checkboxes by targeting them by class or any other selector
+    const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+    checkboxes.forEach((checkbox) => (checkbox.checked = false));
+  }
+  function handleSelectedFundAccTable(item, e) {
+    const isChecked = e.target.checked;
+    const compositeKey = createCompositeKey(item);
+
+    setSelectedFundId((prevSelectedFundId) => {
+      const newSelected = { ...prevSelectedFundId };
+      if (isChecked) {
+        newSelected[compositeKey] = true;
+      } else {
+        delete newSelected[compositeKey];
+      }
+      return newSelected;
+    });
+  }
+
   return (
     <FundContext.Provider
       value={{
@@ -216,10 +257,10 @@ export const FundProvider = ({ children }) => {
         accountData,
         handleSelectedAccount,
         handleSelectedFundAccount,
-
+        setSelectedFundId,
         // getTransactionsInfo,
         handleSelectedDealerAccount,
-
+        createCompositeKey,
         fetchAllData,
         loadDataIntoFundsTable,
         handleSearchTerm,

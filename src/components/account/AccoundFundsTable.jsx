@@ -9,10 +9,14 @@ const AccountFundsTable = () => {
     fundAccountId,
     loadDataIntoFundsTable,
     handleSelectedFundAccTable,
+    setSelectedFundId,
+    selectedFundId,
+    createCompositeKey,
   } = useContext(FundContext);
 
   const [currentPage, setCurrentPage] = useState(1);
   const [rowsPerPage, setRowsPerPage] = useState(5);
+  const [selectAllChecked, setSelectAllChecked] = useState(false);
 
   useEffect(() => {
     fetchAllData();
@@ -22,11 +26,23 @@ const AccountFundsTable = () => {
     loadDataIntoFundsTable();
   }, [fundAccountId, dealerAccountId]);
 
-  // const handleSelectRow = (id, e) => {
-  //   console.log(id, e);
-  //   const newSelected = { ...selected, [id]: e.target.checked };
-  //   setSelected(newSelected);
-  // };
+  const handleSelectAll = (e) => {
+    const isChecked = e.target.checked;
+    console.log(isChecked); // Debugging: Ensure this logs true/false as expected
+
+    setSelectAllChecked(isChecked); // Reflect the "Select All" checkbox state
+
+    setSelectedFundId((prevSelectedFundId) => {
+      const newSelected = {};
+      if (isChecked) {
+        filteredData.forEach((item) => {
+          const compositeKey = createCompositeKey(item); // Ensure this function generates the expected key
+          newSelected[compositeKey] = true; // Select all items
+        });
+      } // When unchecked, newSelected remains an empty object, effectively clearing the selection.
+      return newSelected;
+    });
+  };
 
   // Calculate the current items to display
   const indexOfLastItem = currentPage * rowsPerPage;
@@ -72,8 +88,10 @@ const AccountFundsTable = () => {
               <tr>
                 <th className='px-5 py-3 border-b-2 border-gray-200  bg-[#2b6777] text-left text-xs font-semibold text-slate-100 uppercase tracking-wider'>
                   <input
+                    checked={selectAllChecked}
+                    onChange={handleSelectAll}
                     type='checkbox'
-                    className='form-checkbox h-4 w-4 text-indigo-600 transition duration-150 ease-in-out'
+                    className='form-checkbox h-4 w-4 text-600 transition duration-150 ease-in-out'
                   />
                 </th>
 
@@ -95,15 +113,16 @@ const AccountFundsTable = () => {
               {currentData &&
                 currentData?.map((item, i) => {
                   const { Fund_id, Fund_name, Fund_class, Unit_balance } = item;
+                  const compositeKey = createCompositeKey(item);
+
                   return (
                     <tr key={i}>
                       <td className='px-5 py-5 border-b border-gray-200 bg-white text-sm'>
                         <input
                           type='checkbox'
+                          checked={!!selectedFundId[compositeKey]}
                           className='form-checkbox h-4 w-4 text-indigo-600 transition duration-150 ease-in-out'
-                          onChange={(e) =>
-                            handleSelectedFundAccTable(Fund_id, e)
-                          }
+                          onChange={(e) => handleSelectedFundAccTable(item, e)}
                         />
                       </td>
                       <td className='px-5 py-5 border-b border-gray-200 bg-white text-sm'>

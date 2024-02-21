@@ -4,7 +4,7 @@ import logo from "../../assets/Images/EPIC_normal.png";
 const Navbar = () => {
   return (
     <header className='bg-[#2b6777] text-white flex justify-between py-6 px-16'>
-      <div className='flex py-2 px-4 mt-8'>
+      <div className='flex py-1 px-4 mt-8'>
         {/* Logo*/}
         <div className=''>
           <img className='h-[65px]' src={logo} />

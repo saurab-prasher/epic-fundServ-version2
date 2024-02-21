@@ -9,7 +9,7 @@ const FundAccountPage = () => {
       <div className='mx-auto w-fit '>
         <div className='py-8'>
           <div className='container mx-auto'>
-            <div className='flex gap-16'>
+            <div className='flex gap-36'>
               <AccountLookup />
               <AccountDetails />
             </div>
