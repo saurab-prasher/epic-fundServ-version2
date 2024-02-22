@@ -16,7 +16,7 @@ export const FundProvider = ({ children }) => {
   const [selectedFundId, setSelectedFundId] = useState({});
   // const [accountName, setAccountName] = useState([]);
   const [filteredData, setFilteredData] = useState([]);
-
+  const [allTransactionsData, setAllTransactionsData] = useState([]);
   const [accountInfoData, setAccountInfoData] = useState([]);
   const [accountInfo, setAccountInfo] = useState({});
   const [transactionsData, setTransactionsData] = useState([]);
@@ -56,6 +56,17 @@ export const FundProvider = ({ children }) => {
     const dealerAccoundIds = data.map((account) => account.Dealer_account_id);
     setFundData(fundAccoundIds);
     setDealerData(dealerAccoundIds);
+  };
+
+  const fetchAllTransactionsData = async () => {
+    try {
+      const response = await fetch("/suncrestFiles/xx_transaction.json");
+      const transactionsData = await response.json();
+
+      setAllTransactionsData(transactionsData);
+    } catch (error) {
+      console.error("Error fetching transaction data:", error);
+    }
   };
   const fetchTransactionData = async (selectedFundIds) => {
     try {
@@ -259,6 +270,8 @@ export const FundProvider = ({ children }) => {
         handleSelectedFundAccount,
         setSelectedFundId,
         // getTransactionsInfo,
+        fetchAllTransactionsData,
+        allTransactionsData,
         handleSelectedDealerAccount,
         createCompositeKey,
         fetchAllData,

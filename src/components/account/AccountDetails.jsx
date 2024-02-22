@@ -8,13 +8,13 @@ const AccountDetails = () => {
         <h2 className='text-2xl font-semibold leading-tight mb-6'>
           Accounts Details
         </h2>
-        <div className='pb-8 mb-4 mt-8 w-full bg-[#c8d8e4] p-8 rounded-md'>
+        <div className='pb-8 mb-4 w-full bg-[#c8d8e4] p-8 px-12 rounded-md'>
           <div className='mb-4'>
             <div className='flex flex-col content-between  gap-6  mb-4'>
               <div className=''>
                 <label>Name</label>
                 <p className='text-gray-700 py-3  border-b w-full leading-tight text-left text-sm bg-white px-3'>
-                  {accountInfo?.Account_name}
+                  {accountInfo?.Account_name || "N/A"}
                 </p>
               </div>
               <div className=''>
@@ -27,7 +27,7 @@ const AccountDetails = () => {
                     accountInfo?.Account_postal,
                   ]
                     .filter(Boolean)
-                    .join(", ")}
+                    .join(", ") || "N/A"}
                 </p>
               </div>
               <div className=''>
@@ -47,8 +47,8 @@ const AccountDetails = () => {
               </div>
               <div className=''>
                 <label>Type</label>
-                <p className=' text-gray-700 border-b py-3 w-full leading-tight text-sm bg-white px-3'>
-                  {accountInfo?.Account_type}
+                <p className=' text-gray-700 border-b py-3 w-full  leading-tight text-sm bg-white px-3'>
+                  {accountInfo?.Account_type || "N/A"}
                 </p>
               </div>
             </div>
